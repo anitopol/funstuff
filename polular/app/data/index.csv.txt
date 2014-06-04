@@ -5,4 +5,3 @@ dni_tygodnia;Dni tygodnia
 miesiencyi;Miesięcy
 zaimki_przypadki;Zaimki: przypadki
 slowa;Słowa
- 
