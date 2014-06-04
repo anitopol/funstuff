@@ -1,0 +1,10 @@
+ru;RU;legend
+pl;PL;id
+odm_old;Oc;category
+odm_new;Ow;category
+ja;Ja;input
+ty;Ty;input
+ono;On,Ona,Ono;input
+my;My;input
+wy;Wy;input
+one;One,Oni;input

@@ -1,0 +1,105 @@
+быть;być;*;*;jestem;jesteś;jest;jesteśmy;jesteście;są
+брать;brać;I;XI;biorę;bierzesz;bierze;bierzemy;bierzecie;biorą
+хотеть;chcieć;I;VII a;chcę;chcesz;chce;chcemy;chcecie;chcą
+худеть;chudnać;I;V c;chudnę;chudniesz;chudnie;chudniemy;chudniecie;chudną
+тянуть;ciągnąć;I;V a;ciągnę;ciągniesz;ciągnie;ciągniemy;ciągniecie;ciągną
+черстветь;czerstwieć;I;-;czerstwę;czerstwiesz;czertswie;czerstwiemy;czerstwiece;czerstwieją
+слышать;czuć;I;-;czuję;czujesz;czuje;czujemy;czujecie;czują
+давать;dawać;I;IX;daję;dajesz;daje;dajemy;dajecie;dają
+происходить;dziać;I;Xb;dzieję;dziejesz;dzieje;dziejemy;dziejecie;dzieją
+благодарить;dziękować;I;IV;dziękuję;dziękujesz;dziękuje;dziękujemy;dziękujecie;dziękują
+идти;iść;I;-;idę;idziesz;idzie;idziemy;idziecie;idą
+ехать;jechać;I;XI;jadę;jedziesz;jedzie;jedziemy;jedziecie;jadą
+управлять;kierować;I;IV;kieruję;kierujesz;kieruje;kierujemy;kierujecie;kierują
+покупать;kupować;I;IV;kupuję;kupujesz;kupuje;kupujemy;kupujecie;kupują
+лить;lać;I;X b;leję;lejesz;leje;lejemy;lejecie;leją
+красить;malować;I;IV;maluję;malujesz;maluje;malujemy;malujecie;malują
+мазать;mazać;I;IX;mażę;mażesz;maże;mażemy;mażecie;mażą
+мочь;móc;I;;mogę;możesz;może;możemy;możecie;mogą
+мыть;myć;I;XI a;myję;myjesz;myje;myjemy;myjecie;myją
+нести;nieść;I;XI;niosę;niesiesz;niesie;niesiemy;niesiecie;niosą
+прочитывать;odczytywać;I;VIII a;odczytuję;odczytujesz;odczytuje;odczytujemy;odczytujecie;odczytują
+обробатывать;opracowywać;I;;opracowuję;opracowujesz;opracowuje;opracowujemy;opracowujecie;opracowują
+получать;otrzymywać;I;;otrzymuję;otrzymujesz;otrzymuje;otrzymujemy;otrzymujecie;otrzymują
+пить;pić;I;X a;piję;pijesz;pije;pijemy;pijecie;piją
+печь;piec;I;*;piekę;pieczesz;piecze;pieczemy;pieczecie;pieką
+красиветь;pięknieć;I;;pęknę;pękniesz;pęknie;pękniemy;pękniecie;pękną
+писать;pisać;I;;piszę;piszesz;pisze;piszemy;piszecie;piszą
+płakać;I;XI;płaczę;płaczesz;płacze;płaczemy;płaczecie;płaczą
+плыть;płynąć;I;V b;płynę;płyniesz;płynie;płyniemy;płyniecie;płyną
+поехать;pojechać;I;XI;pojadę;pojedziesz;pojedzie;pojedziemy;pojedziecie;pojadą
+пойти;pójść;I;;pójdę;pójdziesz;pójdzie;pójdziemy;pójdziecie;pójdą
+pracować;I;IV;pracuję;pracujesz;pracuje;pracujemy;pracujecie;pracują
+przygotować;I;;przygotuję;przygotujesz;przygotuje;przygotujemy;przygotujecie;przygotują
+przygotowywać;I;VIII a;przygotowuję;przygotowujesz;przygotowuje;przygotowujemy;przygotowujecie;przygotowują
+przyjechać;I;;przyjadę;przyjedziesz;przyjedzie;przyjedziemy;przyjedziecie;przyjadą
+прийти;przyjść;I;-;przyjdę;przyjdziesz;przyjdzie;przyjdziemy;przyjdziecie;przyjdą
+смеяться;śmiać się;I;;śmieję;śmiejesz;śmieje;śmiejemy;śmiejecie;śmieją
+учить;studiować;I;IV;studiuję;studiujesz;studiuje;studiujemy;studiujecie;studiują
+дешеветь;tanieć;I;III;tanieję;taniejesz;tanieje;taniejemy;taniejecie;tanieją
+везти;wieźć;I;XI;wiozę;wieziesz;wiezie;wieziemy;wieziecie;wiozą
+выступать;występować;I;IV;występuję;występujesz;występuje;występujemy;występujecie;występują
+взять;wziąć;I;X c;wezmę;weźmiesz;weźmie;weźmiemy;weźmiecie;wezmą
+забрать;zabrać;I;;zabiorę;zabierzesz;zabierze;zabierzemy;zabierzecie;zabiorą
+завести;zawieść PP;I;;zawiodę;zawiedziesz;zawiedzie;zawiedziemy;zawiedziecie;zawiodą
+находиться;znajdować;I;-;znajduję;znajdujesz;znajduje;znajdujemy;znajdujecie;znajdują
+жить;żyć;I;X a;żyję;żyjesz;żyje;żyjemy;żyjecie;żyją
+выигрывать;zyskiwać;I;VIII b;zyskuję;zyskujesz;zyskuje;zyskujemy;zyskujecie;zyskują
+бояться;bać się;II;;boję;boisz;boi;boimy;boicie;boją
+играться;bawić się;II;VI a;bawię;bawisz;bawi;bawimy;bawicie;bawią
+блестеть;błyszczeć;II;;błyszczę;błyszczysz;błyszczy;błyszczymy;błyszczycie;błyszczą
+ходить;chodzić;II;VI a;chodzę;chodzisz;chodzi;chodzimy;chodzicie;chodzą
+терпеть;cierpieć;II;VII a;cierpię (?);cierpisz;cierpi;cierpimy;cierpicie;cierpią (?)
+ездить;jeździć;II;XI;jeżdżę;jeździsz;jeździ;jeździmy;jeździcie;jeżdżą
+купить;kupić;II;VI a;kupię;kupisz;kupi;kupimy;kupicie;kupią
+лежать;leżeć;II;VII b;leżę;leżysz;leży;leżymy;leżycie;leżą
+считать;liczyć;II;VI b;liczę;liczysz;liczy;liczymy;liczycie;liczą
+любить;lubić;II;;lubię;lubisz;lubi;lubimy;lubicie;lubią
+думать;myśleć;II;VII a;myślę;myślisz;myśli;myślimy;myślicie;myślą
+курить;palić;II;;palę;palisz;pali;palimy;palicie;palą
+просить;prosić;II;;proszę;prosisz;prosi;prosimy;prosicie;proszą
+приносить;przynosić;II;;przynoszę;przynosisz;przynosi;przynosimy;przynosicie;przynoszą
+делать;robić;II;VI a;robię;robisz;robi;robimy;robicie;robią
+сдеть;siedzieć;II;VII a;siedzę;siedzisz;siedzi;siedzimy;siedzicie;siedzą
+слышать;słyszeć;II;VII b;słyszę;słyszysz;słyszy;słyszymy;słyszycie;słyszą
+спать;spać;II;*;śpię;śpisz;śpi;śpimy;śpicie;śpią
+стоять;stać;II;*;stoję;stoisz;stoi;stoimy;stoicie;stoją
+сушить;suszyć;II;VI b;suszę;suszysz;suszy;suszymy;suszycie;suszą
+учить;uczyć;II;VI b;uczę;uczysz;uczy;uczymy;uczycie;uczą
+видеть;bts;II;VII a;widzę;widzisz;widzi;widzimy;widzicie;widzą
+верить;wierzyć;II;VI b;wierzę;wierzysz;wierzy;wierzymy;wierzycie;wierzą
+висеть;wisieć;II;;wiszę;wisisz;wisi;wisimy;wisicie;wiszą
+хотеть;woleć;II;VII b;wolę;wolisz;woli;wolimy;wolicie;wolą
+вернуть;wrócić;II;VI a;wrócę;wrócisz;wróci;wrócimy;wrócicie;wrócą
+заводить;zawodzić;II;;zawodzę;zawodzisz;zawodzi;zawodzimy;zawodzicie;zawodzą
+желать;życzyć;II;VI b;życzę;życzysz;życzy;życzymy;życzycie;życzą
+бегать;biegać;III;XI, I;biegam;biegasz;biega;biegamy;biegacie;biegają
+бодрствовать;czuwać;III;;czuwam;czuwasz;czuwa;czuwamy;czuwacie;czuwają
+читать;czytać;III;I;czytam;czytasz;czyta;czytamy;czytacie;czytają
+добывать;dobywać;III;;dobywam;dobywasz;dobywa;dobywamy;dobywacie;dobywają
+действовать;działać;III;;działam;działasz;działa;działamy;działacie;działają
+гневаться;gniewać się;III;-;gniewam;gniewasz;gniewa;gniewamy;gniewacie;gniewają
+иметь;mieć;III;;mam;masz;maluje;mamy;macie;mają
+жить;mieszkać;III;I;mieszkam;mieszkasz;mieszka;mieszkamy;mieszkacie;mieszkają
+отбирать;odbierać;III;I;odbieram;odbierasz;odbiera;odbieramy;odbieracie;odbierają
+ослепляться;olśniewać;III;;olśniewam;olśniewasz;olśniewa;olśniewamy;olśniewacie;olśniewają
+омывать;omywać;III;;omywam;omywasz;omywa;omywamy;omywacie;omywają
+плавать;pływać;III;XI;pływam;pływasz;pływa;pływamy;pływacie;pływają
+узнать;poznać PP;III;*;poznam;poznasz;pozna;poznamy;poznacie;poznają
+узнавать;poznawać;III;;poznawam;poznawasz;poznawa;poznawamy;poznawacie;poznawą
+przyjeżdżać;III;;przyjeżdżam;przyjeżdżasz;przyjeżdża;przyjeżdżamy;przyjeżdżacie;przyjeżdżają
+продавать;sprzedać PP;III;;sprzedam;sprzedasz;sprzeda;sprzedamy;sprzedacie;sprzedają
+убирать;ubierać;III;I;ubieram;ubierasz;ubiera;ubieramy;ubieracie;ubierają
+доверять;ufać;III;I;ufam;ufasz;ufa;ufamy;ufacie;ufają
+поддаваться;ulegać;III;;ulegam;ulegasz;ulega;ulegamy;ulegacie;ulegają
+уметь;umieć;III;II;umiem;umiesz;umie;umiemy;umiecie;umieją
+полагать;uważać;III;;uważam;uważasz;uważa;uważamy;uważacie;uważają
+использовать;używać;III;;używam;używasz;używa;używamy;używacie;używają
+возвращать;wracać;III;;wracam;wracasz;wraca;wracamy;wracacie;wracają
+прощаться;żegnać się;III;;żegnam;żegnasz;żegna;żegnamy;żegnacie;żegnają
+знать;znać;III;I;znam;znasz;zna;znamy;znacie;znają
+кушать;jeść;IV;-;jem;jesz;je;jemy;jecie;jedzą
+понимать;rozumieć;IV;II;rozumiem;rozumiesz;rozumie;rozumiemy;rozumiecie;rozumieją
+сметь;śmieć;IV;II;śmiem;śmiesz;śmie;śmiemy;śmiecie;śmią
+знать;wiedzieć;IV;;wiem;wiesz;wierzy;wiemy;wiecie;wiedzą
+przynieść;;;;;;;;
