@@ -1,10 +1,10 @@
-ru;RU;legend
-pl;PL;id
-odm_old;Oc;category
-odm_new;Ow;category
-ja;Ja;input
-ty;Ty;input
-ono;On,Ona,Ono;input
-my;My;input
-wy;Wy;input
-one;One,Oni;input
+ru;RU;id;right;120+
+pl;PL;legend;left;100+
+odm_old;Oc;category;center;36
+odm_new;Ow;category;center;42
+ja;Ja;input;left;120+
+ty;Ty;input;left;120+
+ono;On / Ona / Ono;input;left;120+
+my;My;input;left;120+
+wy;Wy;input;left;120+
+one;One / Oni;input;left;120+

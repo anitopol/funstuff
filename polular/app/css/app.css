@@ -28,3 +28,63 @@
   content: "";
   padding: 0;
 }
+
+.gridStyle {
+    border: 1px dashed rgb(212,212,212);
+    width: 100%;
+    height: 600px;
+}
+
+.ngCellText {
+    padding: 1px;
+}
+
+.schemaTable_id {
+    color: #000;
+}
+
+.schemaTable_legend {
+    color: #336;
+}
+
+.schemaTable_category {
+    color: #363;
+}
+
+.schemaTable_input {
+    color: #666;
+}
+
+.schemaTable_center {
+    text-align: center;
+}
+
+.schemaTable_left {
+    text-align: left;
+}
+
+.schemaTable_right {
+    text-align: right;
+}
+
+.editDist_0 {
+    background-color: #05FF90;
+}
+.editDist_1 {
+    background-color: #e8e16a;
+}
+.editDist_2 {
+    background-color: #ffc450;
+}
+.editDist_3 {
+    background-color: #e8903a;
+}
+.editDist_4 {
+    background-color: #e86d2b;
+}
+.editDist_5 {
+    background-color: #ff1406;
+}
+.editDist_6 {
+    background-color: #990000;
+}

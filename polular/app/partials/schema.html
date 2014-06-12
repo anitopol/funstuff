@@ -1,0 +1,12 @@
+<input type="button" ng-click="startQuiz()" value="Start Quiz" ng-disabled="quizQueue.length > 0"/>
+<div class="gridStyle" ng-grid="gridOptions" ng-show="quizQueue.length == 0"></div>
+<div ng-show="quizQueue.length > 0">
+    <div> 
+        {{quizLog.length + 1}} of {{quizQueue.length + quizLog.length}}
+    </div>
+    <div>
+        <div>{{quizCurrent().id}} :: {{quizCurrent().inputCol.name}}</div>
+        <input type="text" ng-model="quizCurrent().actual" class="editDist_{{quizCurrent().editDistCss()}}"/>
+        <input type="button" ng-click="nextInput()" value="Next" ng-disabled="quizQueue.length == 0"/>
+    </div>
+</div>
