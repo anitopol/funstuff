@@ -1,0 +1,91 @@
+<html>
+<head>
+    <title>BT Sync</title>
+    <style>
+        #root {
+            width: 34em;
+            margin: 0 auto;
+        }
+
+        #inputs label {
+            width: 8em;
+            padding-right: 1em;
+            display: inline-block;
+            text-align: right;
+        }
+
+        #inputs input, #inputs select {
+            width: 18em;
+        }
+
+        #key {
+            color: #CCC;
+            text-align: center;
+        }
+    </style>
+</head>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<body>
+<div id=root>
+    <div id="inputs">
+        <label for="password"> Pass: </label>
+        <input type="password" id="password"/>
+        <br/>
+
+        <label for="what"> What: </label>
+        <select id="what">
+            <option value="">Custom...</option>
+            <option value="t/mus13">t/mus13</option>
+            <option value="t/mus14">t/mus14</option>
+        </select>
+        <br/>
+
+        <label for="custom"> Custom: </label>
+        <input id="custom" type="text" value="" disabled=disabled/>
+        <br/>
+
+        <hr>
+
+        <div id="key">AYTT657FOJZVC3V7GRDYQIVHLQ4MM432E</div>
+    </div>
+</div>
+</body>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        var $pass = jQuery('#password');
+        var $what = jQuery('#what');
+        var $custom = jQuery('#custom');
+        var $key = jQuery('#key');
+
+        var onCustomChange = function () {
+            var customActive = this.value == '';
+            $custom.val('');
+            if (customActive) {
+                $custom.removeAttr('disabled');
+            } else {
+                $custom.attr({'disabled': 'disabled'});
+            }
+        };
+        
+        var onConfig = function() {
+            var pass = $pass.val();
+            var what = $what.val() || $custom.val();
+
+            var key = 'uberSalt' + '::' + pass + '::' + what;
+
+            $key.html(key);
+        };
+
+        $pass.on('keyup', onConfig);
+        $pass.on('change', onConfig);
+        $what.on('change', onCustomChange);
+        $what.on('change', onConfig);
+        $custom.on('keyup', onConfig);
+        $custom.on('change', onConfig);
+
+        onConfig.apply($what[0]);
+        onCustomChange.apply($what[0]);
+        $pass.focus();
+    });
+</script>
+</html>
