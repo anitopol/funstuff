@@ -203,7 +203,7 @@ public class SmokeTestSuite {
         int month_income = 1000;
         driver.get("http://simplydo.com/projector/");
         ProjPage projPage = new ProjPage(driver);
-        projPage.addRegularIncome("bank robberies", month_income, "Monthly");
+        projPage.addRegularIncome("bank robberies", month_income, "monthly");
         Thread.sleep(2000);
         assertEquals(String.valueOf(month_income * month_index), projPage.findBalanceByIndex(month_index));
     }
