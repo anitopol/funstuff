@@ -18,11 +18,6 @@ public class ProjPage {
                     "  contains(@placeholder, 'What is it')" +
                     "]"
     );
-    private String balanceByName = ("//td[contains(@class,'ng-binding') and contains(text(),'month_value')]/../td[3]");
-    private String monthByNumber = ("//tr[contains(@class, 'ng-scope') and " +
-            "position()=" +
-            "'month_number'"
-            + "]/td[1]");
     private By newIncomeAmount = By.xpath(
             "//li[contains(@ng-repeat, 'income')]" +
                     "//input[" +
@@ -39,6 +34,62 @@ public class ProjPage {
                     "]"
     );
 
+    private String balanceByName = ("//td[contains(@class,'ng-binding') and contains(text(),'month_value')]/../td[3]");
+    private String monthByNumber = ("//tr[contains(@class, 'ng-scope') and " +
+            "position()=" +
+            "'month_number'"
+            + "]/td[1]");
+    private By addExpence = By.xpath("//button[contains(@ng-click, 'addExpense')]");
+    private By newExpenceName = By.xpath(
+            "//li[contains(@ng-repeat, 'expense')]" +
+                    "//input[" +
+                    "  @type='text' and " +
+                    "  contains(@class, 'ng-pristine') and " +
+                    "  contains(@placeholder, 'e.g. Rent...')" +
+                    "]"
+    );
+   
+        private By newExpenceAmount = By.xpath(
+                "//li[contains(@ng-repeat, 'expense')]" +
+                "//input[" +
+                "  @type='text' and " +
+                "  contains(@class, 'ng-pristine') and " +
+                "  contains(@placeholder, 'Enter Amount')" +
+                "]"
+        );
+    private By newExpenceFrequency = By.xpath(
+            "//li[contains(@ng-repeat, 'expense')]" +
+                    "//select[" +
+                    "  contains(@class, 'ng-pristine') and " +
+                    "  contains(@ng-model, 'expense.frequency')" +
+                    "]"
+    );
+    private By addNonRecuringIncome=By.xpath("//button[contains(@ng-click, 'addTransaction')]");
+    private By newNonRecurringIncomeName=By.xpath(
+            "//li[contains(@ng-repeat, 'transaction in nonRecurring')]" +
+                    "//input[" +
+                    "  @type='text' and " +
+                    "  contains(@class, 'ng-pristine') and " +
+                    "  contains(@placeholder, 'e.g. Bonus...')" +
+                    "]"
+    );
+    private By newNonRecurringIncomeAmount=By.xpath(
+            "//li[contains(@ng-repeat, 'transaction')]" +
+                    "//input[" +
+                    "  @type='text' and " +
+                    "  contains(@class, 'ng-pristine') and " +
+                    "  contains(@placeholder, 'Enter Amount')" +
+                    "]"
+    );
+    private By newNonRecurringIncomeDate=By.xpath(
+            "//li[contains(@ng-repeat, 'transaction')]" +
+                    "//select[" +
+                    "  contains(@class, 'ng-pristine') and " +
+                    "  contains(@ng-model, 'transaction.month')" +
+                    "]"
+    );
+    private By removeIncome=By.xpath("//a[contains(@ng-click,'removeIncome')]");
+    
     private WebDriver driver;
 
     public ProjPage(WebDriver driver) {
@@ -51,9 +102,10 @@ public class ProjPage {
             String period
     ) {
         driver.findElement(addIncome).click();
-        // WebElement whatElem = lastOf(driver.findElements(newIncomeWhatIsIt));
-        WebElement whatElem = driver.findElement(newIncomeWhatIsIt);
+         WebElement whatElem = lastOf(driver.findElements(newIncomeWhatIsIt));
         whatElem.clear();
+       // WebElement whatElem = driver.findElement(newIncomeWhatIsIt);
+
         whatElem.sendKeys(whatIsIt);
 
         // WebElement amountElem = lastOf(driver.findElements(newIncomeAmount));
@@ -61,13 +113,52 @@ public class ProjPage {
         amountElem.clear();
         amountElem.sendKeys(String.valueOf(amount));
 
-        //WebElement incomeFreqElem = lastOf(driver.findElements(newIncomeFrequency));
+        // WebElement incomeFreqElem = lastOf(driver.findElements(newIncomeFrequency));
         WebElement incomeFreqElem = driver.findElement(newIncomeFrequency);
         Select incomeFreqSelect = new Select(incomeFreqElem);
         incomeFreqSelect.selectByVisibleText(period);
 
     }
 
+    public void addRegularExpence(
+            String whatIsIt,
+            int amount,
+            String period
+    ) {
+        driver.findElement(addExpence).click();
+        WebElement whatElem = driver.findElement(newExpenceName);
+        whatElem.clear();
+        whatElem.sendKeys(whatIsIt);
+
+        WebElement amountElem = driver.findElement(newExpenceAmount);
+        amountElem.clear();
+        amountElem.sendKeys(String.valueOf(amount));
+
+        WebElement expenceFreqElem = driver.findElement(newExpenceFrequency);
+        Select expenceFreqSelect = new Select(expenceFreqElem);
+        expenceFreqSelect.selectByVisibleText(period);
+    }
+
+    public void addNonRecuringIncome (
+            String whatIsIt,
+            int amount,
+            String period  
+    )  {
+        driver.findElement(addNonRecuringIncome).click();
+        WebElement whatElem=driver.findElement(newNonRecurringIncomeName);
+        whatElem.clear();
+        whatElem.sendKeys(whatIsIt);
+
+        WebElement amountElem = driver.findElement(newNonRecurringIncomeAmount);
+        amountElem.clear();
+        amountElem.sendKeys(String.valueOf(amount));
+
+
+        WebElement nonRecurringIncomeFreqElem = driver.findElement(newNonRecurringIncomeDate);
+        Select nonRecurringIncomeFreqSelect = new Select(nonRecurringIncomeFreqElem);
+        nonRecurringIncomeFreqSelect.selectByVisibleText(period);
+    }
+    
     public String findBalanceByMonth(
             String currentMonth
     ) {

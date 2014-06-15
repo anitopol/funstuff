@@ -170,16 +170,24 @@ public class SmokeTestSuite {
         driver.get("http://simplydo.com/projector/");
 
         ProjPage projPage = new ProjPage(driver);
+        projPage.addRegularIncome("bank robberies", -1000, "daily");
+        Thread.sleep(500);
+
+        projPage.addRegularIncome("bank robberies", -1000, "daily");
+        Thread.sleep(500);
+
         projPage.addRegularIncome("bank robberies", 1000, "daily");
+        Thread.sleep(500);
 
-        Thread.sleep(5000);
+        projPage.addRegularExpence("rent", -4000, "Monthly");
+        Thread.sleep(500);
+        
+        projPage.addRegularExpence("food", 100, "Daily");
+        Thread.sleep(500);
 
-        projPage.addRegularIncome("bank robberies", 1000, "daily");
-        Thread.sleep(5000);
-
-        projPage.addRegularIncome("bank robberies", 1000, "daily");
-        Thread.sleep(5000);
-
+         projPage.addNonRecuringIncome("bonus",10000,"December 2014");
+        Thread.sleep(500);
+        projPage.findBalanceByIndex(5);
     }
 
     @Test
@@ -188,15 +196,16 @@ public class SmokeTestSuite {
         ProjPage projPage = new ProjPage(driver);
         assertEquals("May 2014", projPage.findMonthByNumber(2));
     }
+
     @Test
-    public void testBalanceByIndex() throws Exception{
-        int month_index=3;
-        int month_income=1000;
+    public void testBalanceByIndex() throws Exception {
+        int month_index = 3;
+        int month_income = 1000;
         driver.get("http://simplydo.com/projector/");
         ProjPage projPage = new ProjPage(driver);
-        projPage.addRegularIncome("bank robberies", month_income, "monthly");
+        projPage.addRegularIncome("bank robberies", month_income, "Monthly");
         Thread.sleep(2000);
-        assertEquals(String.valueOf(month_income*month_index),projPage.findBalanceByIndex(month_index));
+        assertEquals(String.valueOf(month_income * month_index), projPage.findBalanceByIndex(month_index));
     }
 
     @Test
