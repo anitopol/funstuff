@@ -122,7 +122,7 @@ public class SmokeTestSuite {
     }
 
     @Test
-    @Ignore
+    //@Ignore
     public void test03_wiki() throws Exception {
         driver.get("http://en.wikipedia.org/wiki/List_of_FIPS_region_codes_%28S%E2%80%93U%29#UK:_United_Kingdom");
         Thread.sleep(1 * 1000);
@@ -170,22 +170,26 @@ public class SmokeTestSuite {
         driver.get("http://simplydo.com/projector/");
 
         ProjPage projPage = new ProjPage(driver);
+        projPage.addCurrentBalance(2000);
         projPage.addRegularIncome("bank robberies", -1000, "daily");
-        Thread.sleep(500);
+        //Thread.sleep(500);
 
         projPage.addRegularIncome("bank robberies", -1000, "daily");
+        projPage.removeRegularIncome();
         Thread.sleep(500);
 
         projPage.addRegularIncome("bank robberies", 1000, "daily");
-        Thread.sleep(500);
+        //Thread.sleep(500);
 
         projPage.addRegularExpence("rent", -4000, "Monthly");
-        Thread.sleep(500);
+        //Thread.sleep(500);
         
         projPage.addRegularExpence("food", 100, "Daily");
+        projPage.removeRegularExpence();
         Thread.sleep(500);
 
          projPage.addNonRecuringIncome("bonus",10000,"December 2014");
+        projPage.removeNonRecurringIncome();
         Thread.sleep(500);
         projPage.findBalanceByIndex(5);
     }
