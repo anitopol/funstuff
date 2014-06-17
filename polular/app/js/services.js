@@ -10,6 +10,14 @@ angular.module(
         'utils',
         ['$q', '$http', '$log', function ($q, $http, $log) {
             return {
+                l: function() {
+                    var argsArr = _.map(arguments, function(i) {return i;});
+
+                    // console.log.apply(console, argsArr);
+                    $log.warn.apply($log, argsArr);
+
+                    return _.last(arguments);
+                },
                 strLCS: function (a, b) {
                     var m = a.length, n = b.length, C = [], i, j;
                     for (i = 0; i <= m; i++) {
@@ -35,6 +43,16 @@ angular.module(
                 },
                 editDist: function (a, b) {
                     return a.length + b.length - 2 * this.strLCS(a, b).length;
+                },
+                strLCP: function(a, b) {
+                    var m = a.length, n = b.length;
+                    var c = m < n ? m : n;
+                    for (var i = 0; i < c; i++) {
+                      if (a.charAt(i) != b.charAt(i)) {
+                          return i;
+                      }  
+                    }
+                    return c;
                 },
                 tsvPromise: function (filePath, rowToObjFun) {
                     var deferred = $q.defer();

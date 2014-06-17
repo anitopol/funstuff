@@ -1,43 +1,3 @@
-/* app css stylesheet */
-
-.menu {
-  list-style: none;
-  border-bottom: 0.1em solid black;
-  margin-bottom: 2em;
-  padding: 0 0 0.5em;
-}
-
-.menu:before {
-  content: "[";
-}
-
-.menu:after {
-  content: "]";
-}
-
-.menu > li {
-  display: inline;
-}
-
-.menu > li:before {
-  content: "|";
-  padding-right: 0.3em;
-}
-
-.menu > li:nth-child(1):before {
-  content: "";
-  padding: 0;
-}
-
-.gridStyle {
-    border: 1px dashed rgb(212,212,212);
-    width: 100%;
-    height: 600px;
-}
-
-.ngCellText {
-    padding: 1px;
-}
 
 .schemaTable_id {
     color: #000;
@@ -70,21 +30,57 @@
 .editDist_0 {
     background-color: #05FF90;
 }
+
 .editDist_1 {
     background-color: #e8e16a;
 }
+
 .editDist_2 {
     background-color: #ffc450;
 }
+
 .editDist_3 {
     background-color: #e8903a;
 }
+
 .editDist_4 {
     background-color: #e86d2b;
 }
+
 .editDist_5 {
     background-color: #ff1406;
 }
+
 .editDist_6 {
     background-color: #990000;
+}
+
+.navbar {
+    margin-bottom: 3px;
+}
+
+.table td, .table th, .table>tbody>tr>td, .table>thead>tr>th {
+    padding: 0 1px;
+}
+
+.table > thead > tr > th {
+    border: none;
+}
+
+.pagination {
+    margin: 0 0.5em;
+}
+
+.ng-table-pager {
+    display: block;
+    width: inherit;
+    border: 1px dashed gray;
+    padding: 0.25em 0.5em;
+}
+
+.ng-table th.filter .input-filter {
+    height: 18px;
+    min-height: 18px;
+    font-size: 10px;
+    padding: 1px;
 }

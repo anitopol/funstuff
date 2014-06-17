@@ -25,14 +25,14 @@
 печь;piec;I;*;piekę;pieczesz;piecze;pieczemy;pieczecie;pieką
 красиветь;pięknieć;I;;pęknę;pękniesz;pęknie;pękniemy;pękniecie;pękną
 писать;pisać;I;;piszę;piszesz;pisze;piszemy;piszecie;piszą
-;płakać;I;XI;płaczę;płaczesz;płacze;płaczemy;płaczecie;płaczą
+плакать;płakać;I;XI;płaczę;płaczesz;płacze;płaczemy;płaczecie;płaczą
 плыть;płynąć;I;V b;płynę;płyniesz;płynie;płyniemy;płyniecie;płyną
 поехать;pojechać;I;XI;pojadę;pojedziesz;pojedzie;pojedziemy;pojedziecie;pojadą
 пойти;pójść;I;;pójdę;pójdziesz;pójdzie;pójdziemy;pójdziecie;pójdą
-;pracować;I;IV;pracuję;pracujesz;pracuje;pracujemy;pracujecie;pracują
-;przygotować;I;;przygotuję;przygotujesz;przygotuje;przygotujemy;przygotujecie;przygotują
-;przygotowywać;I;VIII a;przygotowuję;przygotowujesz;przygotowuje;przygotowujemy;przygotowujecie;przygotowują
-;przyjechać;I;;przyjadę;przyjedziesz;przyjedzie;przyjedziemy;przyjedziecie;przyjadą
+работать;pracować;I;IV;pracuję;pracujesz;pracuje;pracujemy;pracujecie;pracują
+приготовить;przygotować;I;;przygotuję;przygotujesz;przygotuje;przygotujemy;przygotujecie;przygotują
+приготовлять;przygotowywać;I;VIII a;przygotowuję;przygotowujesz;przygotowuje;przygotowujemy;przygotowujecie;przygotowują
+приехать;przyjechać;I;;przyjadę;przyjedziesz;przyjedzie;przyjedziemy;przyjedziecie;przyjadą
 прийти;przyjść;I;-;przyjdę;przyjdziesz;przyjdzie;przyjdziemy;przyjdziecie;przyjdą
 смеяться;śmiać się;I;;śmieję;śmiejesz;śmieje;śmiejemy;śmiejecie;śmieją
 учить;studiować;I;IV;studiuję;studiujesz;studiuje;studiujemy;studiujecie;studiują
@@ -87,7 +87,7 @@
 плавать;pływać;III;XI;pływam;pływasz;pływa;pływamy;pływacie;pływają
 узнать;poznać PP;III;*;poznam;poznasz;pozna;poznamy;poznacie;poznają
 узнавать;poznawać;III;;poznawam;poznawasz;poznawa;poznawamy;poznawacie;poznawą
-;przyjeżdżać;III;;przyjeżdżam;przyjeżdżasz;przyjeżdża;przyjeżdżamy;przyjeżdżacie;przyjeżdżają
+приезжать;przyjeżdżać;III;;przyjeżdżam;przyjeżdżasz;przyjeżdża;przyjeżdżamy;przyjeżdżacie;przyjeżdżają
 продавать;sprzedać PP;III;;sprzedam;sprzedasz;sprzeda;sprzedamy;sprzedacie;sprzedają
 убирать;ubierać;III;I;ubieram;ubierasz;ubiera;ubieramy;ubieracie;ubierają
 доверять;ufać;III;I;ufam;ufasz;ufa;ufamy;ufacie;ufają
@@ -102,4 +102,4 @@
 понимать;rozumieć;IV;II;rozumiem;rozumiesz;rozumie;rozumiemy;rozumiecie;rozumieją
 сметь;śmieć;IV;II;śmiem;śmiesz;śmie;śmiemy;śmiecie;śmią
 знать;wiedzieć;IV;;wiem;wiesz;wierzy;wiemy;wiecie;wiedzą
-;przynieść; ; ; ; ; ; ; ; 
+#;przynieść; ; ; ; ; ; ; ; 
