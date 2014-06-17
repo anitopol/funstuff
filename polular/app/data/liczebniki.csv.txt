@@ -1,0 +1,4 @@
+0;zero;zerowa
+1;jeden;pierwsza
+2	dwa	druga
+3	trzy	trzecia

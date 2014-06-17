@@ -1,6 +1,6 @@
 czasowniki_teraz_odmiany;Czasowniki: czas terazneiszy
 #czasowniki_preszly_odmiany;Czasowniki: czas przesly
-#liczebniki;Liczebniki
+liczebniki;Liczebniki
 #dni_tygodnia;Dni tygodnia
 #miesiencyi;Miesięcy
 #zaimki_przypadki;Zaimki: przypadki

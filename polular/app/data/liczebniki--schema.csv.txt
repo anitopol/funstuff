@@ -1,0 +1,3 @@
+num;Num;id;right;120
+ile;Ile?;input;left;120+
+ktora;Która?;input;left;120+

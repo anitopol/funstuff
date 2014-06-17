@@ -69,7 +69,7 @@ angular.module(
                                     return rowStr.trim().length > 0 && rowStr.trim().charAt(0) != '#';
                                 }).map(
                                     function (rowStr) {
-                                        return rowStr.split(/\s*;\s*/);
+                                        return rowStr.split(/\s*[;\t]\s*/);
                                     }
                                 );
 
