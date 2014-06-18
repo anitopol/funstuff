@@ -1,0 +1,171 @@
+sport;lodowisko;каток
+sport;skocznia;трамплин
+sport;boisko;площадка
+sport;sala gimnastyczna;гимнастический зал
+sport;kort;корт
+sport;łyżwiarstwo;конькобежный спорт
+sport;maraton;марафон
+sport;piłka nożna;футбол
+sport;piłka;мяч
+sport;piłkarz;футболист
+sport;pływanie;плаванье
+sport;medal;медаль
+sport;tenis;теннис
+sport;gimnastyka artystyczna;худож. гимнастика
+sport;jeździć konno;ездить верхом
+sport;zająć pierwsze miejsce;занять первое место
+sport;zdobyć medal;завоевать медаль
+sport;pobić rekord;побить рекорд
+sport;wygrać medal;завоевать медаль
+sport;środki dopingujące;допинг
+sport;lekkoatleta;легкоатлет
+sport;wyścigi samochodowe;автогонки
+sport;żeglarstwo;парусный спорт
+sport;koszykówka;баскетбол
+sport;kolarstwo;велоспорт
+sport;bieg;бег
+sport;łyżwiarstwo figurowe;фигурное катание
+sport;sztafeta;эстафета
+sport;boks;бокс
+sport;narciarstwo;лыжный спорт
+sport;uprawiać sport;заниматься спортом
+sport;sportowca;спортсмен
+sport;mięśnie;мыщцы
+sport;wędkarz;рыболов
+sport;silna wola;сильная воля
+sport;wytrzymałość;выносливость
+sport;rywalizacja;соперничество
+sport;samodyscyplina;самодисциплина
+sport;drużyna;команда
+sport;strzelić gola;забить гол
+sport;gracz;игрок
+sport;kraul;кроль
+sport;delfin;дельфин
+sport;żabka;брасс
+sport;rakieta;ракетка
+sport;skakać;скакать
+sport;zawodnik;спортсмен
+sport;brać udział;принимать участие
+sport;mistrz świata;чемпион мира
+sport;wygrywać;выигрывать
+sport;wygrać;выиграть
+sport;przegrywać;проигрывать
+sport;przegrać;проиграть
+sport;wynik gry;результат игры
+sport;wynik meczu;результат матча
+sport;kibic;болельщик
+sport;zwyciężać;побеждать
+sport;zwyciężyć;победить
+sport;mistrzostwa świata;чемпионат мира
+sport;robić ćwiczenia;делать упражения
+sport;stadion;стадион
+sport;wędkarstwo;рыбная ловля
+sport;park wodny;аквапарк
+sport;centrum SPA;СПА центр
+sport;sklep sportowy;спортивный магазин
+sport;relaks;разрядка, отдых
+sport;odnowa;обновление
+sport;mistrzynia świata;чемпионка мира
+sport;trener;тренер
+sport;rekordzistka świata;рекордсменка мира
+sport;pływak;пловец
+sport;zdobyć tytuł;получить титул
+sport;wyścigi ;гонки
+sport;wygrać wyścig;победить в соревнованиях
+sport;styl motylkowy;стиль баттерфляй
+sport;korty tenisowe;теннисные корты
+sport;dżokej;жокей
+sport;puchar;кубок
+sport;biliard;бильярд
+sport;aquarobik;аквааэробика
+sport;wspinaczka;альпинизм
+sport;wspinać się;восходить 
+sport;skoczek;прыгун
+sport;puchar świata;Кубок мира
+sport;wystartować;стартовать
+sport;biegać;бегун
+sport;dystans;дистанция
+sport;Igrzyska Olimpijskie;Олимпийские игры
+sport;osiągać;достигать
+sport;pięciobój;пятиборье
+sport;pochodnia;факел
+sport;rzut;бросок
+sport;skok w dal;прыжок в длину
+sport;skupiony;сосредоточенный
+sport;trofeum;трофей
+sport;trzykrotny;трехкратный
+sport;zwycięstwo;победа
+sport;zwycięzca;победить
+sport;lekkoatletyka;легкая атлетика
+sport;tenis stołowy;настольный теннис
+sport;kajakarstwo;бейсбол
+sport;jeździectwo;борьба
+sport;szermierka;фехтование
+sport;mistrzostwo;чемпионат
+sport;wywalczyć;завоевывать
+sport;z rzędu;подряд
+sport;skocznia narciarska;лыжный трамплин
+sport;siłownia;тренажерный зал
+sport;mistrz sportu;мастер спорта
+sport;dostać katar;схватить насморк
+sport;paznokieć;ноготь
+sport;paznokcie;ногти
+sport;głowa;голова
+sport;plecy;спина
+sport;ramię;плечо
+sport;ramiona;плечи
+sport;nos;нос
+sport;ucho;ухо
+sport;uczy;уши
+sport;ząb;зуб
+sport;zęby;зубы
+sport;usta;губы
+sport;rzęsa;ресница
+sport;rzęsy;ресницы
+sport;pierś;грудь
+sport;kolano;колено
+sport;brzuch;живот
+sport;stopa;стопа
+sport;palec;палец
+sport;palce;пальцы
+sport;dolegać;беспокоить
+sport;co panu dolega;что вас беспокоит
+sport;rozbierać się;раздеваться
+sport;badać chorego;осматривать больного
+sport;gorączka;повышенная температура
+sport;katar;насморк
+sport;kaszel;кашель
+sport;recepta;рецепт
+sport;lekarstwo;лекарство
+sport;mieć dreszcze;знобить
+sport;nadwaga;лишний вес
+sport;stosować diety;сидеть на диете
+sport;schudnąć;похудеть
+sport;pigułka; пилюля
+sport;brać antybiotyku;принимать антибиотик
+sport;pacjent;пациент
+sport;ból;боль
+sport;brać leki;принимать лекарства
+sport;czuć się;чувстовать себя
+sport;dolegać;беспокоить
+sport;dziennie;ежедневно
+sport;gardło;горло
+sport;gorzej;хуже
+sport;internista;терапевт
+sport;kaszleć;кашлять
+sport;objaw;симптом
+sport;symptom;симптом
+sport;oddychać;дышать
+sport;otworzyć;открыть
+sport;środek przeciwbólowy;болеутоляющее средство
+sport;stopień;градус
+sport;zabieg;процедура
+sport;zapisywać receptę;выписывать рецепт
+sport;zastrzyk;укол
+sport;przychodnia;поликлиника
+sport;dolegliwość;недуг
+sport;pogotowanie;скорая помощь
+sport;karetka pogotowania;скорая помощь
+sport;choroba;болезнь
+sport;boleć;болеть
+sport;niepokoić;беспокоить

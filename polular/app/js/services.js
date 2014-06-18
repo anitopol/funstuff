@@ -58,7 +58,7 @@ angular.module(
                     var deferred = $q.defer();
 
                     $http(
-                        {method: 'GET', url: filePath}
+                        {method: 'GET', url: filePath + '?r='+_.random(1024*1024*1024)}
                     ).success(
                         function (data, status, headers, config) {
                             var rows =

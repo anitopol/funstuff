@@ -1,4 +1,20 @@
-0;zero;zerowa
-1;jeden;pierwsza
-2	dwa	druga
-3	trzy	trzecia
+1;jeden;pierwszy
+2;dwa;drugi
+3;trzy;trzeci
+4;cztery;czwarty
+5;pięć;piąty
+6;sześć;szósty
+7;siedem;siódmy
+8;osiem;ósmy
+9;dzlewięć;dziewiąty
+10;dziesięć;dziesiąty
+11;jedenaście;jedenasty
+12;dwanaście;dwunasty
+13;trzynaście;trzynasty
+14;czternaście;czternasty
+15;piętnaście;piętnasty
+16;szesnaścle;szesnasty
+17;siedemnaście;siedemnasty
+18;osiemnaście;osiemnasty
+19;dziewiętnaście;dziewiętnasty
+20;dwadzieścia;dwudziesty
