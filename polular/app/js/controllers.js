@@ -228,7 +228,9 @@ angular.module(
                                                         id: row[idCol.id], 
                                                         inputCol: col, 
                                                         expected: row[col.id],
-                                                        actual: row[col.id].substring(0, _.random(_.max([0, lcpLen-1]))),
+                                                        actual: inputCols.length > 1 ? 
+                                                            row[col.id].substring(0, _.random(_.max([0, lcpLen-1]))) :
+                                                            '',
                                                         stats: statsForCol(row, col),
                                                         editDist: function() {
                                                             return utils.editDist(this.actual, this.expected);
