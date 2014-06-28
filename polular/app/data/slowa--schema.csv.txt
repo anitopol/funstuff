@@ -1,3 +1,3 @@
 category;Category;category;center;40
 pl;PL;input;left;100+
-ru;RU;id;right;120+
+ru;RU;id;left;120+
