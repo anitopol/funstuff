@@ -1,3 +1,4 @@
-category;Category;category;center;40
-pl;PL;input;left;100+
+batch;Batch;category;center;80
+category;Category;category;center;240+
+pl;PL;input;right;100+
 ru;RU;id;left;120+

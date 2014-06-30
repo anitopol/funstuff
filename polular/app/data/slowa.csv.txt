@@ -54,319 +54,319 @@ sport;przegrać;проиграть
 sport;wynik gry;результат игры
 sport;wynik meczu;результат матча
 sport;kibic;болельщик
-sport;zwyciężać;побеждать
-sport;zwyciężyć;победить
-sport;mistrzostwa świata;чемпионат мира
-sport;robić ćwiczenia;делать упражения
-sport;stadion;стадион
-sport;wędkarstwo;рыбная ловля
-sport;park wodny;аквапарк
-sport;centrum SPA;СПА центр
-sport;sklep sportowy;спортивный магазин
-sport;relaks;разрядка, отдых
-sport;odnowa;обновление
-sport;mistrzynia świata;чемпионка мира
-sport;trener;тренер
-sport;rekordzistka świata;рекордсменка мира
-sport;pływak;пловец
-sport;zdobyć tytuł;получить титул
-sport;wyścigi ;гонки
-sport;wygrać wyścig;победить в соревнованиях
-sport;styl motylkowy;стиль баттерфляй
-sport;korty tenisowe;теннисные корты
-sport;dżokej;жокей
-sport;puchar;кубок
-sport;biliard;бильярд
-sport;aquarobik;аквааэробика
-sport;wspinaczka;альпинизм
-sport;wspinać się;восходить 
-sport;skoczek;прыгун
-sport;puchar świata;Кубок мира
-sport;wystartować;стартовать
-sport;biegać;бегун
-sport;dystans;дистанция
-sport;Igrzyska Olimpijskie;Олимпийские игры
-sport;osiągać;достигать
-sport;pięciobój;пятиборье
-sport;pochodnia;факел
-sport;rzut;бросок
-sport;skok w dal;прыжок в длину
-sport;skupiony;сосредоточенный
-sport;trofeum;трофей
-sport;trzykrotny;трехкратный
-sport;zwycięstwo;победа
-sport;zwycięzca;победить
-sport;lekkoatletyka;легкая атлетика
-sport;tenis stołowy;настольный теннис
-sport;kajakarstwo;бейсбол
-sport;jeździectwo;борьба
-sport;szermierka;фехтование
-sport;mistrzostwo;чемпионат
-sport;wywalczyć;завоевывать
-sport;z rzędu;подряд
-sport;skocznia narciarska;лыжный трамплин
-sport;siłownia;тренажерный зал
-sport;mistrz sportu;мастер спорта
-zdrowie;dostać katar;схватить насморк
-zdrowie;paznokieć;ноготь
-zdrowie;paznokcie;ногти
-zdrowie;głowa;голова
-zdrowie;plecy;спина
-zdrowie;ramię;плечо
-zdrowie;ramiona;плечи
-zdrowie;nos;нос
-zdrowie;ucho;ухо
-zdrowie;uczy;уши
-zdrowie;ząb;зуб
-zdrowie;zęby;зубы
-zdrowie;usta;губы
-zdrowie;rzęsa;ресница
-zdrowie;rzęsy;ресницы
-zdrowie;pierś;грудь
-zdrowie;kolano;колено
-zdrowie;brzuch;живот
-zdrowie;stopa;стопа
-zdrowie;palec;палец
-zdrowie;palce;пальцы
-zdrowie;dolegać;беспокоить
-zdrowie;co panu dolega;что вас беспокоит
-zdrowie;rozbierać się;раздеваться
-zdrowie;badać chorego;осматривать больного
-zdrowie;gorączka;повышенная температура
-zdrowie;katar;насморк
-zdrowie;kaszel;кашель
-zdrowie;recepta;рецепт
-zdrowie;lekarstwo;лекарство
-zdrowie;mieć dreszcze;знобить
-zdrowie;nadwaga;лишний вес
-zdrowie;stosować diety;сидеть на диете
-zdrowie;schudnąć;похудеть
-zdrowie;pigułka; пилюля
-zdrowie;brać antybiotyku;принимать антибиотик
-zdrowie;pacjent;пациент
-zdrowie;ból;боль
-zdrowie;brać leki;принимать лекарства
-zdrowie;czuć się;чувстовать себя
-zdrowie;dolegać;беспокоить
-zdrowie;dziennie;ежедневно
-zdrowie;gardło;горло
-zdrowie;gorzej;хуже
-zdrowie;internista;терапевт
-zdrowie;kaszleć;кашлять
-zdrowie;objaw;симптом
-zdrowie;symptom;симптом
-zdrowie;oddychać;дышать
-zdrowie;otworzyć;открыть
-zdrowie;środek przeciwbólowy;болеутоляющее средство
-zdrowie;stopień;градус
-zdrowie;zabieg;процедура
-zdrowie;zapisywać receptę;выписывать рецепт
-zdrowie;zastrzyk;укол
-zdrowie;przychodnia;поликлиника
-zdrowie;dolegliwość;недуг
-zdrowie;pogotowanie;скорая помощь
-zdrowie;karetka pogotowania;скорая помощь
-zdrowie;choroba;болезнь
-zdrowie;boleć;болеть
-zdrowie;niepokoić;беспокоить
-cechy charakteru;inteligentny;интеллигентный
-cechy charakteru;dynamiczny;динамичный
-cechy charakteru;energiczny;энергичный
-cechy charakteru;ciekawy;интересный
-cechy charakteru;otwarty;открытый
-cechy charakteru;interesujący;интересный
-cechy charakteru;ambitny;самолюбивый
-cechy charakteru;pracowity;трудолюбивый
-cechy charakteru;towarzyski;общительный
-cechy charakteru;oryginalny;оригинальный
-cechy charakteru;wesoły;веселый
-cechy charakteru;spontaniczny;спонтанный
-cechy charakteru;wrażliwy;восприимчивый
-cechy charakteru;niezależny;независимый
-cechy charakteru;odważny;смелый
-cechy charakteru;zdecydowany;решительный
-cechy charakteru;zabawny;забавный
-cechy charakteru;śmieszny;смешной
-cechy charakteru;spokojny;спокойный
-cechy charakteru;dobrze organizowany;организованный
-cechy charakteru;głupi;глупый
-cechy charakteru;głupia;глупая
-cechy charakteru;powolny;медленный
-cechy charakteru;nieśmiały;робкий
-cechy charakteru;zarozumiały;самонадеянный
-cechy charakteru;arogancki;наглый
-cechy charakteru;zamknięty w sobie;замкнутый
-cechy charakteru;nudny;скучный
-cechy charakteru;nieciekawy;неинтересный
-cechy charakteru;leniwy;ленивый
-cechy charakteru;nietowarzyski;нелюдимый
-cechy charakteru;niesympatyczny;несимпатичный
-cechy charakteru;smutny;грустный
-cechy charakteru;przeciętny;посредственный
-cechy charakteru;niewrażliwy;невосприимчивый
-cechy charakteru;zależny;зависимый
-cechy charakteru;rozsądny;благоразумный
-cechy charakteru;poważny;серьезный
-cechy charakteru;nerwowy;нервный
-cechy charakteru;roztrzepany;невнимательный, рассеянный
-cechy charakteru;uprzejmy;вежливый
-cechy charakteru;kontrowersyjny;спорный
-cechy charakteru;dokładny;аккуратный
-cechy charakteru;tolerancyjny;терпимый
-cechy charakteru;depresyjny;депрессивный
-cechy charakteru;zadowolony;довольный
-cechy charakteru;uczciwy;добросовестный
-cechy charakteru;cyniczny;циничный
-cechy charakteru;charyzmatyczny;харизматичный
-cechy charakteru;solidny;серьезный
-cechy charakteru;konfliktowy;конфликтный
-cechy charakteru;monotonny;монотонный
-cechy charakteru;niedoświadczony;неопытный
-cechy charakteru;niebanalny;нешаблонный
-cechy charakteru;dystyngowany;благовоспитанный
-zawód, praca;status społeczny;общественный статус
-zawód, praca;konsument;потребитель
-zawód, praca;edukacja;образование
-zawód, praca;odżywać się;питаться
-zawód, praca;prezenter;ведущий
-zawód, praca;przypadkowo;случайно
-zawód, praca;zatrudniać;давать работу
-zawód, praca;zatrudniać się;наниматься на работу
-zawód, praca;zanim;прежде чем, до того как
-zawód, praca;kojarzyć się;сочетаться, ассоциироваться
-zawód, praca;pasować;подходить
-zawód, praca;naprawdę;действительно
-zawód, praca;inspiracja;вдохновение
-zawód, praca;inspirować;вдохновлять
-zawód, praca;zdarzać;случаться
-zawód, praca;gwarantować;гарантировать
-zawód, praca;ponieważ;потому что
-zawód, praca;zarabiać;зарабатывать
-zawód, praca;kwestia;вопрос
-zawód, praca;cieszyć się;радоваться
-zawód, praca;zrezygnować się z;отказаться от
-zawód, praca;uważać;обращать внимание
-zawód, praca;podejrzany;подозреваемый
-zawód, praca;uzasadniać;обосновывать
-zawód, praca;podejrzewać o coś;подозревать в чем-то
-zawód, praca;zdefraudować;растратить
-zawód, praca;zdefraudowanie;растрата
-zawód, praca;proponować;предлагать
-zawód, praca;gadać;болтать, говорить
-zawód, praca;dostać;получить
-zawód, praca;akceptować;одобрять
-zawód, praca;być ciekawym świata;интересоваться миром
-zawód, praca;osiągać cel;достичь цели
-zawód, praca;mieć dobrzy gust;интеллигентный
-zawód, praca;osiągać sukcesu;добиться успеха
-zawód, praca;mieć rację;быть правым
-zawód, praca;zgadać się;соглашаться
-zawód, praca;denerwować;раздражать
-zawód, praca;krytykować;критиковать
-zawód, praca;irytować;сердить, раздражать
-zawód, praca;aplikujący;кандидат
-zawód, praca;atut;козырь, сильная сторона
-zawód, praca;branża;отрасль
-zawód, praca;cechy charakteru;черты характера
-zawód, praca;doświadczenie zawodowe;профессиональный опыт
-zawód, praca;dział kadr;отдел кадров
-zawód, praca;dziedzina;область, отрасль
-zawód, praca;edukacja;образование
-zawód, praca;frustracja;раздраженность
-zawód, praca;głównie;главным образом
-zawód, praca;kandydat;кандидат
-zawód, praca;kwalifikacja;квалификация
-zawód, praca;list motywacyjny;сопроводительное письмо
-zawód, praca;mimo to;несмотря на это
-zawód, praca;negocjacje;переговоры
-zawód, praca;niezbędny;необходимый
-zawód, praca;obszar;пространство
-zawód, praca;oczekiwanie;ожидание, предположение
-zawód, praca;ogłoszenie;объявление
-zawód, praca;opinia;мнение
-zawód, praca;osiągnięcie;достижение
-zawód, praca;pierwsze wrażenie;первое впечатление
-zawód, praca;podanie o pracę;заявление на работу
-zawód, praca;podchwytliwy;каверзный
-zawód, praca;poprawa;улучшение
-zawód, praca;posada;положение
-zawód, praca;pracodawca;работодатель
-zawód, praca;pracownik;работник
-zawód, praca;predyspozycja;склонность
-zawód, praca;przydatny;пригодный, полезный
-zawód, praca;rozmowa kwalifikacyjna;собеседование
-zawód, praca;samoocena;самооценка
-zawód, praca;stanowisko;должность
-zawód, praca;sytuacja stresująca;стрессовая ситуация
-zawód, praca;sztywny;жесткий
-zawód, praca;treść;содержание
-zawód, praca;umiejętności;умения
-zawód, praca;uzyskiwać;получать
-zawód, praca;w rzeczywistości;в действительности
-zawód, praca;warunek;условие
-zawód, praca;wizerunek;образование
-zawód, praca;wnikliwy;вдумчивый
-zawód, praca;wprawdzie;по правде говоря
-zawód, praca;wykształcenie;образование
-zawód, praca;wynagrodzenie;плата, вознагрождение
-zawód, praca;podchwytliwe pytanie;каверзный вопрос
-zawód, praca;wypowiedź;заявление, высказывание
-zawód, praca;z pozoru;с виду, на вид
-zawód, praca;zarobki;зароботки
-zawód, praca;zdolność;способность
-zawód, praca;dysponować;располагать чем-то
-zawód, praca;życiorys;биография
-zawód, praca;bezrobocie;безработица
-zawód, praca;bezrobotny;безработный
-zawód, praca;codzienny;ежедневно
-zawód, praca;czas pracy;рабочее время
-zawód, praca;dyplom;диплом
-zawód, praca;dziennie;ежедневно
-zawód, praca;emerytura;пенсия
-zawód, praca;etat;штат
-zawód, praca;istotny;важный, основной
-zawód, praca;koledzy z pracy;коллеги по работе
-zawód, praca;konsekwencje;последствия
-zawód, praca;łatwy;легкий
-zawód, praca;zatrudniać się;трудоустраиваться
-zawód, praca;minimum socjalne;прожиточный минимум
-zawód, praca;obojętny;безразличный
-zawód, praca;odpowiedzialny;ответственный
-zawód, praca;oferta pracy;предложение о работе
-zawód, praca;pasja;страсть
-zawód, praca;pensja;зарплата
-zawód, praca;poszukiwać;искать
-zawód, praca;praca na etacie;работа в штате
-zawód, praca;praktyka;практика
-zawód, praca;prawo jazdy;водительские права
-zawód, praca;premia;премия
-zawód, praca;prestiżowy;престижный
-zawód, praca;prezes;председатель, глава
-zawód, praca;programista;программист
-zawód, praca;referencje;рекомендации
-zawód, praca;robotnik;работник
-zawód, praca;rozmówca;собеседник
-zawód, praca;rozwiązanie;решение
-zawód, praca;rozwiązać;решить
-zawód, praca;samodzielność;самостоятельность
-zawód, praca;satysfakcja;удовлетворение
-zawód, praca;stresować;вызывать стресс
-zawód, praca;szef;шеф
-zawód, praca;średnia krajowa;средняя зарплата
-zawód, praca;ubezpieczenie;страховка
-zawód, praca;umysłowy;умственный
-zawód, praca;urlop;отпуск
-zawód, praca;wada;недостаток
-zawód, praca;warunki pracy;условия работы
-zawód, praca;ważny;важный, основной
-zawód, praca;wykonywanie;выполнение
-zawód, praca;wymagania;требования
-zawód, praca;wytłumaczyć;объяснить
-zawód, praca;zakładać;учреждать
-zawód, praca;zaleta;достоинство
-zawód, praca;zarząd;управление
-zawód, praca;zaufanie;доверие
-zawód, praca;zawodowy;профессиональный
-zawód, praca;zawód;профессия
-zawód, praca;zostać;стать
-zawód, praca;zrobić karierę;сделать карьеру
+01;sport;zwyciężać;побеждать
+01;sport;zwyciężyć;победить
+01;sport;mistrzostwa świata;чемпионат мира
+01;sport;robić ćwiczenia;делать упражения
+01;sport;stadion;стадион
+01;sport;wędkarstwo;рыбная ловля
+01;sport;park wodny;аквапарк
+01;sport;centrum SPA;СПА центр
+01;sport;sklep sportowy;спортивный магазин
+01;sport;relaks;разрядка, отдых
+01;sport;odnowa;обновление
+01;sport;mistrzynia świata;чемпионка мира
+01;sport;trener;тренер
+01;sport;rekordzistka świata;рекордсменка мира
+01;sport;pływak;пловец
+01;sport;zdobyć tytuł;получить титул
+01;sport;wyścigi ;гонки
+01;sport;wygrać wyścig;победить в соревнованиях
+01;sport;styl motylkowy;стиль баттерфляй
+01;sport;korty tenisowe;теннисные корты
+01;sport;dżokej;жокей
+01;sport;puchar;кубок
+01;sport;biliard;бильярд
+01;sport;aquarobik;аквааэробика
+01;sport;wspinaczka;альпинизм
+01;sport;wspinać się;восходить 
+01;sport;skoczek;прыгун
+01;sport;puchar świata;Кубок мира
+01;sport;wystartować;стартовать
+01;sport;biegać;бегун
+01;sport;dystans;дистанция
+01;sport;Igrzyska Olimpijskie;Олимпийские игры
+01;sport;osiągać;достигать
+01;sport;pięciobój;пятиборье
+01;sport;pochodnia;факел
+01;sport;rzut;бросок
+01;sport;skok w dal;прыжок в длину
+01;sport;skupiony;сосредоточенный
+01;sport;trofeum;трофей
+01;sport;trzykrotny;трехкратный
+01;sport;zwycięstwo;победа
+01;sport;zwycięzca;победить
+01;sport;lekkoatletyka;легкая атлетика
+01;sport;tenis stołowy;настольный теннис
+01;sport;kajakarstwo;бейсбол
+01;sport;jeździectwo;борьба
+01;sport;szermierka;фехтование
+01;sport;mistrzostwo;чемпионат
+01;sport;wywalczyć;завоевывать
+01;sport;z rzędu;подряд
+01;sport;skocznia narciarska;лыжный трамплин
+01;sport;siłownia;тренажерный зал
+01;sport;mistrz sportu;мастер спорта
+01;zdrowie;dostać katar;схватить насморк
+01;zdrowie;paznokieć;ноготь
+01;zdrowie;paznokcie;ногти
+01;zdrowie;głowa;голова
+01;zdrowie;plecy;спина
+01;zdrowie;ramię;плечо
+01;zdrowie;ramiona;плечи
+01;zdrowie;nos;нос
+01;zdrowie;ucho;ухо
+01;zdrowie;uczy;уши
+01;zdrowie;ząb;зуб
+01;zdrowie;zęby;зубы
+01;zdrowie;usta;губы
+01;zdrowie;rzęsa;ресница
+01;zdrowie;rzęsy;ресницы
+01;zdrowie;pierś;грудь
+01;zdrowie;kolano;колено
+01;zdrowie;brzuch;живот
+01;zdrowie;stopa;стопа
+01;zdrowie;palec;палец
+01;zdrowie;palce;пальцы
+01;zdrowie;dolegać;беспокоить
+01;zdrowie;co panu dolega;что вас беспокоит
+01;zdrowie;rozbierać się;раздеваться
+01;zdrowie;badać chorego;осматривать больного
+01;zdrowie;gorączka;повышенная температура
+01;zdrowie;katar;насморк
+01;zdrowie;kaszel;кашель
+01;zdrowie;recepta;рецепт
+01;zdrowie;lekarstwo;лекарство
+01;zdrowie;mieć dreszcze;знобить
+01;zdrowie;nadwaga;лишний вес
+01;zdrowie;stosować diety;сидеть на диете
+01;zdrowie;schudnąć;похудеть
+01;zdrowie;pigułka; пилюля
+01;zdrowie;brać antybiotyku;принимать антибиотик
+01;zdrowie;pacjent;пациент
+01;zdrowie;ból;боль
+01;zdrowie;brać leki;принимать лекарства
+01;zdrowie;czuć się;чувстовать себя
+01;zdrowie;dolegać;беспокоить
+01;zdrowie;dziennie;ежедневно
+01;zdrowie;gardło;горло
+01;zdrowie;gorzej;хуже
+01;zdrowie;internista;терапевт
+01;zdrowie;kaszleć;кашлять
+01;zdrowie;objaw;симптом
+01;zdrowie;symptom;симптом
+01;zdrowie;oddychać;дышать
+01;zdrowie;otworzyć;открыть
+01;zdrowie;środek przeciwbólowy;болеутоляющее средство
+01;zdrowie;stopień;градус
+01;zdrowie;zabieg;процедура
+01;zdrowie;zapisywać receptę;выписывать рецепт
+01;zdrowie;zastrzyk;укол
+01;zdrowie;przychodnia;поликлиника
+01;zdrowie;dolegliwość;недуг
+01;zdrowie;pogotowanie;скорая помощь
+01;zdrowie;karetka pogotowania;скорая помощь
+01;zdrowie;choroba;болезнь
+01;zdrowie;boleć;болеть
+01;zdrowie;niepokoić;беспокоить
+01;cechy charakteru;inteligentny;интеллигентный
+01;cechy charakteru;dynamiczny;динамичный
+01;cechy charakteru;energiczny;энергичный
+01;cechy charakteru;ciekawy;интересный
+01;cechy charakteru;otwarty;открытый
+01;cechy charakteru;interesujący;интересный
+01;cechy charakteru;ambitny;самолюбивый
+01;cechy charakteru;pracowity;трудолюбивый
+01;cechy charakteru;towarzyski;общительный
+01;cechy charakteru;oryginalny;оригинальный
+01;cechy charakteru;wesoły;веселый
+01;cechy charakteru;spontaniczny;спонтанный
+01;cechy charakteru;wrażliwy;восприимчивый
+01;cechy charakteru;niezależny;независимый
+01;cechy charakteru;odważny;смелый
+01;cechy charakteru;zdecydowany;решительный
+01;cechy charakteru;zabawny;забавный
+01;cechy charakteru;śmieszny;смешной
+01;cechy charakteru;spokojny;спокойный
+01;cechy charakteru;dobrze organizowany;организованный
+01;cechy charakteru;głupi;глупый
+01;cechy charakteru;głupia;глупая
+01;cechy charakteru;powolny;медленный
+01;cechy charakteru;nieśmiały;робкий
+01;cechy charakteru;zarozumiały;самонадеянный
+01;cechy charakteru;arogancki;наглый
+01;cechy charakteru;zamknięty w sobie;замкнутый
+01;cechy charakteru;nudny;скучный
+01;cechy charakteru;nieciekawy;неинтересный
+01;cechy charakteru;leniwy;ленивый
+01;cechy charakteru;nietowarzyski;нелюдимый
+01;cechy charakteru;niesympatyczny;несимпатичный
+01;cechy charakteru;smutny;грустный
+01;cechy charakteru;przeciętny;посредственный
+01;cechy charakteru;niewrażliwy;невосприимчивый
+01;cechy charakteru;zależny;зависимый
+01;cechy charakteru;rozsądny;благоразумный
+01;cechy charakteru;poważny;серьезный
+01;cechy charakteru;nerwowy;нервный
+01;cechy charakteru;roztrzepany;невнимательный, рассеянный
+01;cechy charakteru;uprzejmy;вежливый
+01;cechy charakteru;kontrowersyjny;спорный
+01;cechy charakteru;dokładny;аккуратный
+01;cechy charakteru;tolerancyjny;терпимый
+01;cechy charakteru;depresyjny;депрессивный
+01;cechy charakteru;zadowolony;довольный
+01;cechy charakteru;uczciwy;добросовестный
+02;cechy charakteru;cyniczny;циничный
+02;cechy charakteru;charyzmatyczny;харизматичный
+02;cechy charakteru;solidny;серьезный
+02;cechy charakteru;konfliktowy;конфликтный
+02;cechy charakteru;monotonny;монотонный
+02;cechy charakteru;niedoświadczony;неопытный
+02;cechy charakteru;niebanalny;нешаблонный
+02;cechy charakteru;dystyngowany;благовоспитанный
+02;zawód, praca;status społeczny;общественный статус
+02;zawód, praca;konsument;потребитель
+02;zawód, praca;edukacja;образование
+02;zawód, praca;odżywać się;питаться
+02;zawód, praca;prezenter;ведущий
+02;zawód, praca;przypadkowo;случайно
+02;zawód, praca;zatrudniać;давать работу
+02;zawód, praca;zatrudniać się;наниматься на работу
+02;zawód, praca;zanim;прежде чем, до того как
+02;zawód, praca;kojarzyć się;сочетаться, ассоциироваться
+02;zawód, praca;pasować;подходить
+02;zawód, praca;naprawdę;действительно
+02;zawód, praca;inspiracja;вдохновение
+02;zawód, praca;inspirować;вдохновлять
+02;zawód, praca;zdarzać;случаться
+02;zawód, praca;gwarantować;гарантировать
+02;zawód, praca;ponieważ;потому что
+02;zawód, praca;zarabiać;зарабатывать
+02;zawód, praca;kwestia;вопрос
+02;zawód, praca;cieszyć się;радоваться
+02;zawód, praca;zrezygnować się z;отказаться от
+02;zawód, praca;uważać;обращать внимание
+02;zawód, praca;podejrzany;подозреваемый
+02;zawód, praca;uzasadniać;обосновывать
+02;zawód, praca;podejrzewać o coś;подозревать в чем-то
+02;zawód, praca;zdefraudować;растратить
+02;zawód, praca;zdefraudowanie;растрата
+02;zawód, praca;proponować;предлагать
+02;zawód, praca;gadać;болтать, говорить
+02;zawód, praca;dostać;получить
+02;zawód, praca;akceptować;одобрять
+02;zawód, praca;być ciekawym świata;интересоваться миром
+02;zawód, praca;osiągać cel;достичь цели
+02;zawód, praca;mieć dobrzy gust;иметь хороший вкус
+02;zawód, praca;osiągać sukcesu;добиться успеха
+02;zawód, praca;mieć rację;быть правым
+02;zawód, praca;zgadać się;соглашаться
+02;zawód, praca;denerwować;раздражать, нервировать
+02;zawód, praca;krytykować;критиковать
+02;zawód, praca;irytować;сердить, раздражать, злить
+03;zawód, praca;aplikujący;кандидат
+03;zawód, praca;atut;козырь, сильная сторона
+03;zawód, praca;branża;отрасль
+03;zawód, praca;cechy charakteru;черты характера
+03;zawód, praca;doświadczenie zawodowe;профессиональный опыт
+03;zawód, praca;dział kadr;отдел кадров
+03;zawód, praca;dziedzina;область, отрасль
+03;zawód, praca;edukacja;образование
+03;zawód, praca;frustracja;раздраженность
+03;zawód, praca;głównie;главным образом
+03;zawód, praca;kandydat;кандидат
+03;zawód, praca;kwalifikacja;квалификация
+03;zawód, praca;list motywacyjny;сопроводительное письмо
+03;zawód, praca;mimo to;несмотря на это
+03;zawód, praca;negocjacje;переговоры
+03;zawód, praca;niezbędny;необходимый
+03;zawód, praca;obszar;пространство
+03;zawód, praca;oczekiwanie;ожидание, предположение
+03;zawód, praca;ogłoszenie;объявление
+03;zawód, praca;opinia;мнение
+03;zawód, praca;osiągnięcie;достижение
+03;zawód, praca;pierwsze wrażenie;первое впечатление
+03;zawód, praca;podanie o pracę;заявление на работу
+03;zawód, praca;podchwytliwy;каверзный
+03;zawód, praca;poprawa;улучшение
+03;zawód, praca;posada;положение
+03;zawód, praca;pracodawca;работодатель
+03;zawód, praca;pracownik;работник
+03;zawód, praca;predyspozycja;склонность
+03;zawód, praca;przydatny;пригодный, полезный
+03;zawód, praca;rozmowa kwalifikacyjna;собеседование
+03;zawód, praca;samoocena;самооценка
+03;zawód, praca;stanowisko;должность
+03;zawód, praca;sytuacja stresująca;стрессовая ситуация
+03;zawód, praca;sztywny;жесткий
+03;zawód, praca;treść;содержание
+03;zawód, praca;umiejętności;умения
+03;zawód, praca;uzyskiwać;получать
+03;zawód, praca;w rzeczywistości;в действительности
+03;zawód, praca;warunek;условие
+03;zawód, praca;wizerunek;образование
+03;zawód, praca;wnikliwy;вдумчивый
+03;zawód, praca;wprawdzie;по правде говоря
+03;zawód, praca;wykształcenie;образование
+03;zawód, praca;wynagrodzenie;плата, вознагрождение
+03;zawód, praca;podchwytliwe pytanie;каверзный вопрос
+03;zawód, praca;wypowiedź;заявление, высказывание
+03;zawód, praca;z pozoru;с виду, на вид
+03;zawód, praca;zarobki;зароботки
+03;zawód, praca;zdolność;способность
+03;zawód, praca;dysponować;располагать чем-то
+03;zawód, praca;życiorys;биография
+03;zawód, praca;bezrobocie;безработица
+03;zawód, praca;bezrobotny;безработный
+03;zawód, praca;codzienny;ежедневно
+03;zawód, praca;czas pracy;рабочее время
+03;zawód, praca;dyplom;диплом
+03;zawód, praca;dziennie;ежедневно
+03;zawód, praca;emerytura;пенсия
+03;zawód, praca;etat;штат
+03;zawód, praca;istotny;важный, основной
+03;zawód, praca;koledzy z pracy;коллеги по работе
+03;zawód, praca;konsekwencje;последствия
+03;zawód, praca;łatwy;легкий
+03;zawód, praca;zatrudniać się;трудоустраиваться
+03;zawód, praca;minimum socjalne;прожиточный минимум
+03;zawód, praca;obojętny;безразличный
+03;zawód, praca;odpowiedzialny;ответственный
+03;zawód, praca;oferta pracy;предложение о работе
+03;zawód, praca;pasja;страсть
+03;zawód, praca;pensja;зарплата
+03;zawód, praca;poszukiwać;искать
+03;zawód, praca;praca na etacie;работа в штате
+03;zawód, praca;praktyka;практика
+03;zawód, praca;prawo jazdy;водительские права
+03;zawód, praca;premia;премия
+03;zawód, praca;prestiżowy;престижный
+03;zawód, praca;prezes;председатель, глава
+03;zawód, praca;programista;программист
+03;zawód, praca;referencje;рекомендации
+03;zawód, praca;robotnik;работник
+03;zawód, praca;rozmówca;собеседник
+03;zawód, praca;rozwiązanie;решение
+03;zawód, praca;rozwiązać;решить
+03;zawód, praca;samodzielność;самостоятельность
+03;zawód, praca;satysfakcja;удовлетворение
+03;zawód, praca;stresować;вызывать стресс
+03;zawód, praca;szef;шеф
+03;zawód, praca;średnia krajowa;средняя зарплата
+03;zawód, praca;ubezpieczenie;страховка
+03;zawód, praca;umysłowy;умственный
+03;zawód, praca;urlop;отпуск
+03;zawód, praca;wada;недостаток
+03;zawód, praca;warunki pracy;условия работы
+03;zawód, praca;ważny;важный, основной
+03;zawód, praca;wykonywanie;выполнение
+03;zawód, praca;wymagania;требования
+03;zawód, praca;wytłumaczyć;объяснить
+03;zawód, praca;zakładać;учреждать
+03;zawód, praca;zaleta;достоинство
+03;zawód, praca;zarząd;управление
+03;zawód, praca;zaufanie;доверие
+03;zawód, praca;zawodowy;профессиональный
+03;zawód, praca;zawód;профессия
+03;zawód, praca;zostać;стать
+03;zawód, praca;zrobić karierę;сделать карьеру
