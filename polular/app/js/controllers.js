@@ -310,7 +310,18 @@ angular.module(
                                                     _.extend(
                                                         row,
                                                         patchStatsObj(row)
-                                                    )
+                                                    );
+                                                    var allCorrectForRow = 
+                                                        _.chain($scope.quizLog).filter(
+                                                            function(quiz) {
+                                                                return quiz.id == rowId;
+                                                            }
+                                                        ).every(
+                                                            function(quiz) {
+                                                                return quiz.expected == quiz.actual;
+                                                            }
+                                                        ).value();
+                                                    row.$selected = row.$selected && !allCorrectForRow;
                                                 }
                                             );
                                         }
