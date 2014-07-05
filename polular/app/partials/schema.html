@@ -8,7 +8,7 @@
     <tr>
         <th ng-repeat="column in columnCollection" ng-show="column.visible"
             class="text-center sortable" 
-            ng-class="{ 'sort-asc': ngTableParams.isSortBy(column.field, 'asc'), 'sort-desc': ngTableParams.isSortBy(column.field, 'desc') }" 
+            ng-class="{ 'sort-asc': ngTableParams.isSortBy(column.sortable, 'asc'), 'sort-desc': ngTableParams.isSortBy(column.sortable, 'desc') }" 
             ng-click="ngTableParams.sorting(column.sortable, ngTableParams.isSortBy(column.sortable, 'asc') ? 'desc' : 'asc')" 
             ng-style="column.colStyle">
             <div ng-style="column.colStyle">{{column.title}}</div>
