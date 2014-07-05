@@ -1,59 +1,59 @@
-sport;lodowisko;каток
-sport;skocznia;трамплин
-sport;boisko;площадка
-sport;sala gimnastyczna;гимнастический зал
-sport;kort;корт
-sport;łyżwiarstwo;конькобежный спорт
-sport;maraton;марафон
-sport;piłka nożna;футбол
-sport;piłka;мяч
-sport;piłkarz;футболист
-sport;pływanie;плаванье
-sport;medal;медаль
-sport;tenis;теннис
-sport;gimnastyka artystyczna;худож. гимнастика
-sport;jeździć konno;ездить верхом
-sport;zająć pierwsze miejsce;занять первое место
-sport;zdobyć medal;завоевать медаль
-sport;pobić rekord;побить рекорд
-sport;wygrać medal;завоевать медаль
-sport;środki dopingujące;допинг
-sport;lekkoatleta;легкоатлет
-sport;wyścigi samochodowe;автогонки
-sport;żeglarstwo;парусный спорт
-sport;koszykówka;баскетбол
-sport;kolarstwo;велоспорт
-sport;bieg;бег
-sport;łyżwiarstwo figurowe;фигурное катание
-sport;sztafeta;эстафета
-sport;boks;бокс
-sport;narciarstwo;лыжный спорт
-sport;uprawiać sport;заниматься спортом
-sport;sportowca;спортсмен
-sport;mięśnie;мыщцы
-sport;wędkarz;рыболов
-sport;silna wola;сильная воля
-sport;wytrzymałość;выносливость
-sport;rywalizacja;соперничество
-sport;samodyscyplina;самодисциплина
-sport;drużyna;команда
-sport;strzelić gola;забить гол
-sport;gracz;игрок
-sport;kraul;кроль
-sport;delfin;дельфин
-sport;żabka;брасс
-sport;rakieta;ракетка
-sport;skakać;скакать
-sport;zawodnik;спортсмен
-sport;brać udział;принимать участие
-sport;mistrz świata;чемпион мира
-sport;wygrywać;выигрывать
-sport;wygrać;выиграть
-sport;przegrywać;проигрывать
-sport;przegrać;проиграть
-sport;wynik gry;результат игры
-sport;wynik meczu;результат матча
-sport;kibic;болельщик
+01;sport;lodowisko;каток
+01;sport;skocznia;трамплин
+01;sport;boisko;площадка
+01;sport;sala gimnastyczna;гимнастический зал
+01;sport;kort;корт
+01;sport;łyżwiarstwo;конькобежный спорт
+01;sport;maraton;марафон
+01;sport;piłka nożna;футбол
+01;sport;piłka;мяч
+01;sport;piłkarz;футболист
+01;sport;pływanie;плаванье
+01;sport;medal;медаль
+01;sport;tenis;теннис
+01;sport;gimnastyka artystyczna;худож. гимнастика
+01;sport;jeździć konno;ездить верхом
+01;sport;zająć pierwsze miejsce;занять первое место
+01;sport;zdobyć medal;завоевать медаль
+01;sport;pobić rekord;побить рекорд
+01;sport;wygrać medal;завоевать медаль
+01;sport;środki dopingujące;допинг
+01;sport;lekkoatleta;легкоатлет
+01;sport;wyścigi samochodowe;автогонки
+01;sport;żeglarstwo;парусный спорт
+01;sport;koszykówka;баскетбол
+01;sport;kolarstwo;велоспорт
+01;sport;bieg;бег
+01;sport;łyżwiarstwo figurowe;фигурное катание
+01;sport;sztafeta;эстафета
+01;sport;boks;бокс
+01;sport;narciarstwo;лыжный спорт
+01;sport;uprawiać sport;заниматься спортом
+01;sport;sportowca;спортсмен
+01;sport;mięśnie;мыщцы
+01;sport;wędkarz;рыболов
+01;sport;silna wola;сильная воля
+01;sport;wytrzymałość;выносливость
+01;sport;rywalizacja;соперничество
+01;sport;samodyscyplina;самодисциплина
+01;sport;drużyna;команда
+01;sport;strzelić gola;забить гол
+01;sport;gracz;игрок
+01;sport;kraul;кроль
+01;sport;delfin;дельфин
+01;sport;żabka;брасс
+01;sport;rakieta;ракетка
+01;sport;skakać;скакать
+01;sport;zawodnik;спортсмен
+01;sport;brać udział;принимать участие
+01;sport;mistrz świata;чемпион мира
+01;sport;wygrywać;выигрывать
+01;sport;wygrać;выиграть
+01;sport;przegrywać;проигрывать
+01;sport;przegrać;проиграть
+01;sport;wynik gry;результат игры
+01;sport;wynik meczu;результат матча
+01;sport;kibic;болельщик
 01;sport;zwyciężać;побеждать
 01;sport;zwyciężyć;победить
 01;sport;mistrzostwa świata;чемпионат мира
@@ -304,7 +304,7 @@ sport;kibic;болельщик
 03;zawód, praca;uzyskiwać;получать
 03;zawód, praca;w rzeczywistości;в действительности
 03;zawód, praca;warunek;условие
-03;zawód, praca;wizerunek;образование
+03;zawód, praca;wizerunek;образ
 03;zawód, praca;wnikliwy;вдумчивый
 03;zawód, praca;wprawdzie;по правде говоря
 03;zawód, praca;wykształcenie;образование
@@ -312,7 +312,7 @@ sport;kibic;болельщик
 03;zawód, praca;podchwytliwe pytanie;каверзный вопрос
 03;zawód, praca;wypowiedź;заявление, высказывание
 03;zawód, praca;z pozoru;с виду, на вид
-03;zawód, praca;zarobki;зароботки
+03;zawód, praca;zarobki;заработки
 03;zawód, praca;zdolność;способность
 03;zawód, praca;dysponować;располагать чем-то
 03;zawód, praca;życiorys;биография
@@ -358,7 +358,7 @@ sport;kibic;болельщик
 03;zawód, praca;urlop;отпуск
 03;zawód, praca;wada;недостаток
 03;zawód, praca;warunki pracy;условия работы
-03;zawód, praca;ważny;важный, основной
+03;zawód, praca;ważny;важный
 03;zawód, praca;wykonywanie;выполнение
 03;zawód, praca;wymagania;требования
 03;zawód, praca;wytłumaczyć;объяснить
@@ -370,3 +370,58 @@ sport;kibic;болельщик
 03;zawód, praca;zawód;профессия
 03;zawód, praca;zostać;стать
 03;zawód, praca;zrobić karierę;сделать карьеру
+03;zawód, praca;kontrolować;контролировать
+03;zawód, praca;kończyć pracę;закончить работу
+03;zawód, praca;motywować;мотивировать
+03;zawód, praca;napędzać;подгонять
+03;zawód, praca;nastawiać się pozytywnie;настроиться позитивно
+03;zawód, praca;nawiązać kontakt;установить контакт
+03;zawód, praca;negocjować;вести переговоры
+03;zawód, praca;obserwować kogoś;наблюдать за кем-то
+03;zawód, praca;odchodzić na emeryturę;уходить на пенсию
+03;zawód, praca;panikować;паниковать
+03;zawód, praca;pasjonować się;увлекаться
+03;zawód, praca;podejmować decyzję;принимать решение
+03;zawód, praca;podjąć pracę;начать работу
+03;zawód, praca;podkreślać atuty;подчеркивать плюсы
+03;zawód, praca;podziękować;поблагодарить
+03;zawód, praca;posługiwać się;пользоваться чем-либо
+03;zawód, praca;powołać się na;сослаться на
+03;zawód, praca;pracować na własny rachunek;работать на себя
+03;zawód, praca;prowadzić;вести, управлять
+03;zawód, praca;prowadzić rozmowę;вести разговор
+03;zawód, praca;przeszkadzać;мешать
+03;zawód, praca;przygotowywać;подготавливать
+03;zawód, praca;przykuć uwagę;привлечь внимание
+03;zawód, praca;radzić sobie;справляться
+03;zawód, praca;rekruter;наемщик
+03;zawód, praca;skupić się;сосредоточиться
+03;zawód, praca;spodziewać się;ожидать
+03;zawód, praca;spóźniać  się;опаздывать
+03;zawód, praca;sprawdzać;проверять
+03;zawód, praca;sprawdzić;проверить
+03;zawód, praca;sprecyzować;уточнить
+03;zawód, praca;ubiegać się o stanowisko;претендовать на должность
+03;zawód, praca;ufać;доверять
+03;zawód, praca;ułatwiać;облегчать
+03;zawód, praca;utrudniać;затруднять
+03;zawód, praca;uzasadniać;обосновывать
+03;zawód, praca;uzasadnić;обосновать
+03;zawód, praca;uzyskać;получить, добиться
+03;zawód, praca;wyciszyć;приглушить
+03;zawód, praca;wydarzyć się;произойти
+03;zawód, praca;wykonywać;выполнять
+03;zawód, praca;wyrazić;выразить, высказывать
+03;zawód, praca;zachować spokój;сохранять спокойствие
+03;zawód, praca;zaczynać pracę;начинать работу
+03;zawód, praca;zaoferować;предложить
+03;zawód, praca;zarabiać;зарабатывать
+03;zawód, praca;zastanawiać się;размышлять
+03;zawód, praca;zatrudniać;давать работу кому-либо
+03;zawód, praca;zdarzać się;случаться
+03;zawód, praca;zdradzać;предавать
+03;zawód, praca;zebrać myśli;собраться с мыслями
+03;zawód, praca;zgadać się;соглашаться
+03;zawód, praca;znaleźć chwilę;найти минутку
+03;zawód, praca;zrobić dobre wrażenie;произвести хорошее впечатление
+03;zawód, praca;zwalniać;увольнять
