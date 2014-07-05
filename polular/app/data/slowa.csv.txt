@@ -1,427 +1,676 @@
-01;sport;lodowisko;каток
-01;sport;skocznia;трамплин
-01;sport;boisko;площадка
-01;sport;sala gimnastyczna;гимнастический зал
-01;sport;kort;корт
-01;sport;łyżwiarstwo;конькобежный спорт
-01;sport;maraton;марафон
-01;sport;piłka nożna;футбол
-01;sport;piłka;мяч
-01;sport;piłkarz;футболист
-01;sport;pływanie;плаванье
-01;sport;medal;медаль
-01;sport;tenis;теннис
-01;sport;gimnastyka artystyczna;худож. гимнастика
-01;sport;jeździć konno;ездить верхом
-01;sport;zająć pierwsze miejsce;занять первое место
-01;sport;zdobyć medal;завоевать медаль
-01;sport;pobić rekord;побить рекорд
-01;sport;wygrać medal;завоевать медаль
-01;sport;środki dopingujące;допинг
-01;sport;lekkoatleta;легкоатлет
-01;sport;wyścigi samochodowe;автогонки
-01;sport;żeglarstwo;парусный спорт
-01;sport;koszykówka;баскетбол
-01;sport;kolarstwo;велоспорт
-01;sport;bieg;бег
-01;sport;łyżwiarstwo figurowe;фигурное катание
-01;sport;sztafeta;эстафета
-01;sport;boks;бокс
-01;sport;narciarstwo;лыжный спорт
-01;sport;uprawiać sport;заниматься спортом
-01;sport;sportowca;спортсмен
-01;sport;mięśnie;мыщцы
-01;sport;wędkarz;рыболов
-01;sport;silna wola;сильная воля
-01;sport;wytrzymałość;выносливость
-01;sport;rywalizacja;соперничество
-01;sport;samodyscyplina;самодисциплина
-01;sport;drużyna;команда
-01;sport;strzelić gola;забить гол
-01;sport;gracz;игрок
-01;sport;kraul;кроль
-01;sport;delfin;дельфин
-01;sport;żabka;брасс
-01;sport;rakieta;ракетка
-01;sport;skakać;скакать
-01;sport;zawodnik;спортсмен
-01;sport;brać udział;принимать участие
-01;sport;mistrz świata;чемпион мира
-01;sport;wygrywać;выигрывать
-01;sport;wygrać;выиграть
-01;sport;przegrywać;проигрывать
-01;sport;przegrać;проиграть
-01;sport;wynik gry;результат игры
-01;sport;wynik meczu;результат матча
-01;sport;kibic;болельщик
-01;sport;zwyciężać;побеждать
-01;sport;zwyciężyć;победить
-01;sport;mistrzostwa świata;чемпионат мира
-01;sport;robić ćwiczenia;делать упражения
-01;sport;stadion;стадион
-01;sport;wędkarstwo;рыбная ловля
-01;sport;park wodny;аквапарк
-01;sport;centrum SPA;СПА центр
-01;sport;sklep sportowy;спортивный магазин
-01;sport;relaks;разрядка, отдых
-01;sport;odnowa;обновление
-01;sport;mistrzynia świata;чемпионка мира
-01;sport;trener;тренер
-01;sport;rekordzistka świata;рекордсменка мира
-01;sport;pływak;пловец
-01;sport;zdobyć tytuł;получить титул
-01;sport;wyścigi ;гонки
-01;sport;wygrać wyścig;победить в соревнованиях
-01;sport;styl motylkowy;стиль баттерфляй
-01;sport;korty tenisowe;теннисные корты
-01;sport;dżokej;жокей
-01;sport;puchar;кубок
-01;sport;biliard;бильярд
-01;sport;aquarobik;аквааэробика
-01;sport;wspinaczka;альпинизм
-01;sport;wspinać się;восходить 
-01;sport;skoczek;прыгун
-01;sport;puchar świata;Кубок мира
-01;sport;wystartować;стартовать
-01;sport;biegać;бегун
-01;sport;dystans;дистанция
-01;sport;Igrzyska Olimpijskie;Олимпийские игры
-01;sport;osiągać;достигать
-01;sport;pięciobój;пятиборье
-01;sport;pochodnia;факел
-01;sport;rzut;бросок
-01;sport;skok w dal;прыжок в длину
-01;sport;skupiony;сосредоточенный
-01;sport;trofeum;трофей
-01;sport;trzykrotny;трехкратный
-01;sport;zwycięstwo;победа
-01;sport;zwycięzca;победить
-01;sport;lekkoatletyka;легкая атлетика
-01;sport;tenis stołowy;настольный теннис
-01;sport;kajakarstwo;бейсбол
-01;sport;jeździectwo;борьба
-01;sport;szermierka;фехтование
-01;sport;mistrzostwo;чемпионат
-01;sport;wywalczyć;завоевывать
-01;sport;z rzędu;подряд
-01;sport;skocznia narciarska;лыжный трамплин
-01;sport;siłownia;тренажерный зал
-01;sport;mistrz sportu;мастер спорта
-01;zdrowie;dostać katar;схватить насморк
-01;zdrowie;paznokieć;ноготь
-01;zdrowie;paznokcie;ногти
-01;zdrowie;głowa;голова
-01;zdrowie;plecy;спина
-01;zdrowie;ramię;плечо
-01;zdrowie;ramiona;плечи
-01;zdrowie;nos;нос
-01;zdrowie;ucho;ухо
-01;zdrowie;uczy;уши
-01;zdrowie;ząb;зуб
-01;zdrowie;zęby;зубы
-01;zdrowie;usta;губы
-01;zdrowie;rzęsa;ресница
-01;zdrowie;rzęsy;ресницы
-01;zdrowie;pierś;грудь
-01;zdrowie;kolano;колено
-01;zdrowie;brzuch;живот
-01;zdrowie;stopa;стопа
-01;zdrowie;palec;палец
-01;zdrowie;palce;пальцы
-01;zdrowie;dolegać;беспокоить
-01;zdrowie;co panu dolega;что вас беспокоит
-01;zdrowie;rozbierać się;раздеваться
-01;zdrowie;badać chorego;осматривать больного
-01;zdrowie;gorączka;повышенная температура
-01;zdrowie;katar;насморк
-01;zdrowie;kaszel;кашель
-01;zdrowie;recepta;рецепт
-01;zdrowie;lekarstwo;лекарство
-01;zdrowie;mieć dreszcze;знобить
-01;zdrowie;nadwaga;лишний вес
-01;zdrowie;stosować diety;сидеть на диете
-01;zdrowie;schudnąć;похудеть
-01;zdrowie;pigułka; пилюля
-01;zdrowie;brać antybiotyku;принимать антибиотик
-01;zdrowie;pacjent;пациент
-01;zdrowie;ból;боль
-01;zdrowie;brać leki;принимать лекарства
-01;zdrowie;czuć się;чувстовать себя
-01;zdrowie;dolegać;беспокоить
-01;zdrowie;dziennie;ежедневно
-01;zdrowie;gardło;горло
-01;zdrowie;gorzej;хуже
-01;zdrowie;internista;терапевт
-01;zdrowie;kaszleć;кашлять
-01;zdrowie;objaw;симптом
-01;zdrowie;symptom;симптом
-01;zdrowie;oddychać;дышать
-01;zdrowie;otworzyć;открыть
-01;zdrowie;środek przeciwbólowy;болеутоляющее средство
-01;zdrowie;stopień;градус
-01;zdrowie;zabieg;процедура
-01;zdrowie;zapisywać receptę;выписывать рецепт
-01;zdrowie;zastrzyk;укол
-01;zdrowie;przychodnia;поликлиника
-01;zdrowie;dolegliwość;недуг
-01;zdrowie;pogotowanie;скорая помощь
-01;zdrowie;karetka pogotowania;скорая помощь
-01;zdrowie;choroba;болезнь
-01;zdrowie;boleć;болеть
-01;zdrowie;niepokoić;беспокоить
-01;cechy charakteru;inteligentny;интеллигентный
-01;cechy charakteru;dynamiczny;динамичный
-01;cechy charakteru;energiczny;энергичный
-01;cechy charakteru;ciekawy;интересный
-01;cechy charakteru;otwarty;открытый
-01;cechy charakteru;interesujący;интересный
-01;cechy charakteru;ambitny;самолюбивый
-01;cechy charakteru;pracowity;трудолюбивый
-01;cechy charakteru;towarzyski;общительный
-01;cechy charakteru;oryginalny;оригинальный
-01;cechy charakteru;wesoły;веселый
-01;cechy charakteru;spontaniczny;спонтанный
-01;cechy charakteru;wrażliwy;восприимчивый
-01;cechy charakteru;niezależny;независимый
-01;cechy charakteru;odważny;смелый
-01;cechy charakteru;zdecydowany;решительный
-01;cechy charakteru;zabawny;забавный
-01;cechy charakteru;śmieszny;смешной
-01;cechy charakteru;spokojny;спокойный
-01;cechy charakteru;dobrze organizowany;организованный
-01;cechy charakteru;głupi;глупый
-01;cechy charakteru;głupia;глупая
-01;cechy charakteru;powolny;медленный
-01;cechy charakteru;nieśmiały;робкий
-01;cechy charakteru;zarozumiały;самонадеянный
-01;cechy charakteru;arogancki;наглый
-01;cechy charakteru;zamknięty w sobie;замкнутый
-01;cechy charakteru;nudny;скучный
-01;cechy charakteru;nieciekawy;неинтересный
-01;cechy charakteru;leniwy;ленивый
-01;cechy charakteru;nietowarzyski;нелюдимый
-01;cechy charakteru;niesympatyczny;несимпатичный
-01;cechy charakteru;smutny;грустный
-01;cechy charakteru;przeciętny;посредственный
-01;cechy charakteru;niewrażliwy;невосприимчивый
-01;cechy charakteru;zależny;зависимый
-01;cechy charakteru;rozsądny;благоразумный
-01;cechy charakteru;poważny;серьезный
-01;cechy charakteru;nerwowy;нервный
-01;cechy charakteru;roztrzepany;невнимательный, рассеянный
-01;cechy charakteru;uprzejmy;вежливый
-01;cechy charakteru;kontrowersyjny;спорный
-01;cechy charakteru;dokładny;аккуратный
-01;cechy charakteru;tolerancyjny;терпимый
-01;cechy charakteru;depresyjny;депрессивный
-01;cechy charakteru;zadowolony;довольный
-01;cechy charakteru;uczciwy;добросовестный
-02;cechy charakteru;cyniczny;циничный
-02;cechy charakteru;charyzmatyczny;харизматичный
-02;cechy charakteru;solidny;серьезный
-02;cechy charakteru;konfliktowy;конфликтный
-02;cechy charakteru;monotonny;монотонный
-02;cechy charakteru;niedoświadczony;неопытный
-02;cechy charakteru;niebanalny;нешаблонный
-02;cechy charakteru;dystyngowany;благовоспитанный
-02;zawód, praca;status społeczny;общественный статус
-02;zawód, praca;konsument;потребитель
-02;zawód, praca;edukacja;образование
-02;zawód, praca;odżywać się;питаться
-02;zawód, praca;prezenter;ведущий
-02;zawód, praca;przypadkowo;случайно
-02;zawód, praca;zatrudniać;давать работу
-02;zawód, praca;zatrudniać się;наниматься на работу
-02;zawód, praca;zanim;прежде чем, до того как
-02;zawód, praca;kojarzyć się;сочетаться, ассоциироваться
-02;zawód, praca;pasować;подходить
-02;zawód, praca;naprawdę;действительно
-02;zawód, praca;inspiracja;вдохновение
-02;zawód, praca;inspirować;вдохновлять
-02;zawód, praca;zdarzać;случаться
-02;zawód, praca;gwarantować;гарантировать
-02;zawód, praca;ponieważ;потому что
-02;zawód, praca;zarabiać;зарабатывать
-02;zawód, praca;kwestia;вопрос
-02;zawód, praca;cieszyć się;радоваться
-02;zawód, praca;zrezygnować się z;отказаться от
-02;zawód, praca;uważać;обращать внимание
-02;zawód, praca;podejrzany;подозреваемый
-02;zawód, praca;uzasadniać;обосновывать
-02;zawód, praca;podejrzewać o coś;подозревать в чем-то
-02;zawód, praca;zdefraudować;растратить
-02;zawód, praca;zdefraudowanie;растрата
-02;zawód, praca;proponować;предлагать
-02;zawód, praca;gadać;болтать, говорить
-02;zawód, praca;dostać;получить
-02;zawód, praca;akceptować;одобрять
-02;zawód, praca;być ciekawym świata;интересоваться миром
-02;zawód, praca;osiągać cel;достичь цели
-02;zawód, praca;mieć dobrzy gust;иметь хороший вкус
-02;zawód, praca;osiągać sukcesu;добиться успеха
-02;zawód, praca;mieć rację;быть правым
-02;zawód, praca;zgadać się;соглашаться
-02;zawód, praca;denerwować;раздражать, нервировать
-02;zawód, praca;krytykować;критиковать
-02;zawód, praca;irytować;сердить, раздражать, злить
-03;zawód, praca;aplikujący;кандидат
-03;zawód, praca;atut;козырь, сильная сторона
-03;zawód, praca;branża;отрасль
-03;zawód, praca;cechy charakteru;черты характера
-03;zawód, praca;doświadczenie zawodowe;профессиональный опыт
-03;zawód, praca;dział kadr;отдел кадров
-03;zawód, praca;dziedzina;область, отрасль
-03;zawód, praca;edukacja;образование
-03;zawód, praca;frustracja;раздраженность
-03;zawód, praca;głównie;главным образом
-03;zawód, praca;kandydat;кандидат
-03;zawód, praca;kwalifikacja;квалификация
-03;zawód, praca;list motywacyjny;сопроводительное письмо
-03;zawód, praca;mimo to;несмотря на это
-03;zawód, praca;negocjacje;переговоры
-03;zawód, praca;niezbędny;необходимый
-03;zawód, praca;obszar;пространство
-03;zawód, praca;oczekiwanie;ожидание, предположение
-03;zawód, praca;ogłoszenie;объявление
-03;zawód, praca;opinia;мнение
-03;zawód, praca;osiągnięcie;достижение
-03;zawód, praca;pierwsze wrażenie;первое впечатление
-03;zawód, praca;podanie o pracę;заявление на работу
-03;zawód, praca;podchwytliwy;каверзный
-03;zawód, praca;poprawa;улучшение
-03;zawód, praca;posada;положение
-03;zawód, praca;pracodawca;работодатель
-03;zawód, praca;pracownik;работник
-03;zawód, praca;predyspozycja;склонность
-03;zawód, praca;przydatny;пригодный, полезный
-03;zawód, praca;rozmowa kwalifikacyjna;собеседование
-03;zawód, praca;samoocena;самооценка
-03;zawód, praca;stanowisko;должность
-03;zawód, praca;sytuacja stresująca;стрессовая ситуация
-03;zawód, praca;sztywny;жесткий
-03;zawód, praca;treść;содержание
-03;zawód, praca;umiejętności;умения
-03;zawód, praca;uzyskiwać;получать
-03;zawód, praca;w rzeczywistości;в действительности
-03;zawód, praca;warunek;условие
-03;zawód, praca;wizerunek;образ
-03;zawód, praca;wnikliwy;вдумчивый
-03;zawód, praca;wprawdzie;по правде говоря
-03;zawód, praca;wykształcenie;образование
-03;zawód, praca;wynagrodzenie;плата, вознагрождение
-03;zawód, praca;podchwytliwe pytanie;каверзный вопрос
-03;zawód, praca;wypowiedź;заявление, высказывание
-03;zawód, praca;z pozoru;с виду, на вид
-03;zawód, praca;zarobki;заработки
-03;zawód, praca;zdolność;способность
-03;zawód, praca;dysponować;располагать чем-то
-03;zawód, praca;życiorys;биография
-03;zawód, praca;bezrobocie;безработица
-03;zawód, praca;bezrobotny;безработный
-03;zawód, praca;codzienny;ежедневно
-03;zawód, praca;czas pracy;рабочее время
-03;zawód, praca;dyplom;диплом
-03;zawód, praca;dziennie;ежедневно
-03;zawód, praca;emerytura;пенсия
-03;zawód, praca;etat;штат
-03;zawód, praca;istotny;важный, основной
-03;zawód, praca;koledzy z pracy;коллеги по работе
-03;zawód, praca;konsekwencje;последствия
-03;zawód, praca;łatwy;легкий
-03;zawód, praca;zatrudniać się;трудоустраиваться
-03;zawód, praca;minimum socjalne;прожиточный минимум
-03;zawód, praca;obojętny;безразличный
-03;zawód, praca;odpowiedzialny;ответственный
-03;zawód, praca;oferta pracy;предложение о работе
-03;zawód, praca;pasja;страсть
-03;zawód, praca;pensja;зарплата
-03;zawód, praca;poszukiwać;искать
-03;zawód, praca;praca na etacie;работа в штате
-03;zawód, praca;praktyka;практика
-03;zawód, praca;prawo jazdy;водительские права
-03;zawód, praca;premia;премия
-03;zawód, praca;prestiżowy;престижный
-03;zawód, praca;prezes;председатель, глава
-03;zawód, praca;programista;программист
-03;zawód, praca;referencje;рекомендации
-03;zawód, praca;robotnik;работник
-03;zawód, praca;rozmówca;собеседник
-03;zawód, praca;rozwiązanie;решение
-03;zawód, praca;rozwiązać;решить
-03;zawód, praca;samodzielność;самостоятельность
-03;zawód, praca;satysfakcja;удовлетворение
-03;zawód, praca;stresować;вызывать стресс
-03;zawód, praca;szef;шеф
-03;zawód, praca;średnia krajowa;средняя зарплата
-03;zawód, praca;ubezpieczenie;страховка
-03;zawód, praca;umysłowy;умственный
-03;zawód, praca;urlop;отпуск
-03;zawód, praca;wada;недостаток
-03;zawód, praca;warunki pracy;условия работы
-03;zawód, praca;ważny;важный
-03;zawód, praca;wykonywanie;выполнение
-03;zawód, praca;wymagania;требования
-03;zawód, praca;wytłumaczyć;объяснить
-03;zawód, praca;zakładać;учреждать
-03;zawód, praca;zaleta;достоинство
-03;zawód, praca;zarząd;управление
-03;zawód, praca;zaufanie;доверие
-03;zawód, praca;zawodowy;профессиональный
-03;zawód, praca;zawód;профессия
-03;zawód, praca;zostać;стать
-03;zawód, praca;zrobić karierę;сделать карьеру
-03;zawód, praca;kontrolować;контролировать
-03;zawód, praca;kończyć pracę;закончить работу
-03;zawód, praca;motywować;мотивировать
-03;zawód, praca;napędzać;подгонять
-03;zawód, praca;nastawiać się pozytywnie;настроиться позитивно
-03;zawód, praca;nawiązać kontakt;установить контакт
-03;zawód, praca;negocjować;вести переговоры
-03;zawód, praca;obserwować kogoś;наблюдать за кем-то
-03;zawód, praca;odchodzić na emeryturę;уходить на пенсию
-03;zawód, praca;panikować;паниковать
-03;zawód, praca;pasjonować się;увлекаться
-03;zawód, praca;podejmować decyzję;принимать решение
-03;zawód, praca;podjąć pracę;начать работу
-03;zawód, praca;podkreślać atuty;подчеркивать плюсы
-03;zawód, praca;podziękować;поблагодарить
-03;zawód, praca;posługiwać się;пользоваться чем-либо
-03;zawód, praca;powołać się na;сослаться на
-03;zawód, praca;pracować na własny rachunek;работать на себя
-03;zawód, praca;prowadzić;вести, управлять
-03;zawód, praca;prowadzić rozmowę;вести разговор
-03;zawód, praca;przeszkadzać;мешать
-03;zawód, praca;przygotowywać;подготавливать
-03;zawód, praca;przykuć uwagę;привлечь внимание
-03;zawód, praca;radzić sobie;справляться
-03;zawód, praca;rekruter;наемщик
-03;zawód, praca;skupić się;сосредоточиться
-03;zawód, praca;spodziewać się;ожидать
-03;zawód, praca;spóźniać  się;опаздывать
-03;zawód, praca;sprawdzać;проверять
-03;zawód, praca;sprawdzić;проверить
-03;zawód, praca;sprecyzować;уточнить
-03;zawód, praca;ubiegać się o stanowisko;претендовать на должность
-03;zawód, praca;ufać;доверять
-03;zawód, praca;ułatwiać;облегчать
-03;zawód, praca;utrudniać;затруднять
-03;zawód, praca;uzasadniać;обосновывать
-03;zawód, praca;uzasadnić;обосновать
-03;zawód, praca;uzyskać;получить, добиться
-03;zawód, praca;wyciszyć;приглушить
-03;zawód, praca;wydarzyć się;произойти
-03;zawód, praca;wykonywać;выполнять
-03;zawód, praca;wyrazić;выразить, высказывать
-03;zawód, praca;zachować spokój;сохранять спокойствие
-03;zawód, praca;zaczynać pracę;начинать работу
-03;zawód, praca;zaoferować;предложить
-03;zawód, praca;zarabiać;зарабатывать
-03;zawód, praca;zastanawiać się;размышлять
-03;zawód, praca;zatrudniać;давать работу кому-либо
-03;zawód, praca;zdarzać się;случаться
-03;zawód, praca;zdradzać;предавать
-03;zawód, praca;zebrać myśli;собраться с мыслями
-03;zawód, praca;zgadać się;соглашаться
-03;zawód, praca;znaleźć chwilę;найти минутку
-03;zawód, praca;zrobić dobre wrażenie;произвести хорошее впечатление
-03;zawód, praca;zwalniać;увольнять
+04;jadalne;sklep monopolowy;алкомагазин
+04;jadalne;pomarańcza;апельсин
+04;jadalne;banan;банан
+04;jadalne;puszka;банка
+04;jadalne;dania z drobiu;блюда из птицы
+04;jadalne;obarzanek;бублик
+04;jadalne;bułka;булка
+04;jadalne;rosół;бульон, рассол
+04;jadalne;butelka;бутылка
+04;jadalne;bochenek;буханка
+04;jadalne;w południe;в полдень
+04;jadalne;dania jarskie;вегетарианские блюда
+04;jadalne;wieczorem;вечером
+04;jadalne;zawsze;всегда
+04;jadalne;napoje gorące;горячие напитки
+04;jadalne;gruszka;груша
+04;jadalne;robić zakupy;делать покупки
+04;jadalne;pieniądze;деньги
+04;jadalne;tani;дешевый
+04;jadalne;jeść;есть, кушать
+04;jadalne;śniadanie;завтрак
+04;jadalne;jeść śniadanie;завтракать
+04;jadalne;kapusta;капуста
+04;jadalne;ziemniaki;карофель, картошка
+04;jadalne;frytki;картофель фри
+04;jadalne;kawiarnia;кафе, кофейня
+04;jadalne;klient;клиент, заказчик
+04;jadalne;cukiernia;кондитерская
+04;jadalne;kawa biała;кофе с молоком
+04;jadalne;kura w rosole;курица в бульоне
+04;jadalne;cytryna;лимон
+04;jadalne;cebula;лук
+04;jadalne;masło;масло (сливочное)
+04;jadalne;jadłospis;меню
+04;jadalne;menu;меню
+04;jadalne;karta;меню, карта
+04;jadalne;deka;мера веса 10г
+04;jadalne;dania mięsne;мясные блюда
+04;jadalne;obiad;обед
+04;jadalne;jarzyny;овощи
+04;jadalne;warzywa;овощи, зелень
+04;jadalne;ogórek;огурец
+04;jadalne;orzechowy;ореховый
+04;jadalne;dział;отдел
+04;jadalne;kelner;официант
+04;jadalne;reklamówka;пакет
+04;jadalne;herbatniki;печенье
+04;jadalne;ciastko;пирожное
+04;jadalne;płacić gotówką;платить наличными
+04;jadalne;pomidor;помидор
+04;jadalne;po południu;после обеда
+04;jadalne;pojutrze;послезавтра
+04;jadalne;artykuły spożywcze;продовольственные товары
+04;jadalne;sklep spożywczy;продовольственный магазин
+04;jadalne;zupa ogórkowa;рассольник
+04;jadalne;rzadko;редко
+04;jadalne;restauracja;ресторан
+04;jadalne;rogalik;рожок (булка)
+04;jadalne;dania z ryb;рыбные блюда
+04;jadalne;targ;рынок
+04;jadalne;cukier;сахар
+04;jadalne;reszta;сдача
+04;jadalne;dzisiaj;сегодня, полная форма
+04;jadalne;śmietana;сметана
+04;jadalne;sól;соль
+04;jadalne;zupa;суп
+04;jadalne;rachunek;счет
+04;jadalne;tort;торт
+04;jadalne;kolacja;ужин
+04;jadalne;rano;утром, рано
+04;jadalne;owoce;фрукты
+04;jadalne;chleb;хлеб
+04;jadalne;pieczywo;хлебопродукты
+04;jadalne;napoje zimne;холодные напитки
+04;jadalne;herbata;чай
+04;jadalne;coś do picia;что-то попить
+04;jadalne;jabłko;яблоко
+04x;łuki;znakomicie;замечательно
+04x;łuki;dopiero;лишь, только
+04x;łuki;dziś;сегодня, кратко
+05;jadalne;alkohol;алкоголь
+05;jadalne;pierogi;вареники, пироги
+05;jadalne;gotować;варить, кипятить
+05;jadalne;widelec;вилка
+05;jadalne;smak;вкус
+05;jadalne;smakowity;вкусный, аппетитный
+05;jadalne;ewentualne;возможно
+05;jadalne;boczek;грудинка
+05;jadalne;robić;делать
+05;jadalne;dodać;добавить 
+05;jadalne;dodać do smaku;добавить по вкусу
+05;jadalne;płyn;жидкость
+05;jadalne;ząbek czosnku;зубчик чеснока
+05;jadalne;rodzynki;изюм
+05;jadalne;garnek;кастрюля
+05;jadalne;kilo;кило
+05;jadalne;kilogram;килограмм
+05;jadalne;składniki;компоненты
+05;jadalne;wędliny;копчености
+05;jadalne;list laurowy;лавровый лист
+05;jadalne;smakołyk;лакомство
+05;jadalne;łyżeczka;ложечка
+05;jadalne;łyżka;ложка
+05;jadalne;drogeria;магазин бытовой химии
+05;jadalne;miód;мед
+05;jadalne;nabiał;молокопродукты
+05;jadalne;marchewka;морковка
+05;jadalne;lody;мороженное
+05;jadalne;mąka;мука
+05;jadalne;gotówka;наличные деньги
+05;jadalne;pokroić w kostkę;нарезать кубиками
+05;jadalne;kilka;несколько
+05;jadalne;nóż;нож
+05;jadalne;opłukiwać;ополаскивать
+05;jadalne;orzechy;орехи
+05;jadalne;wystygnięcie;остывание
+05;jadalne;wystygnąć;остыть
+05;jadalne;mailować;отправлять имейл
+05;jadalne;wymieszać;перемешать
+05;jadalne;pieprz;перец
+05;jadalne;pić;пить
+05;jadalne;płacić;платить
+05;jadalne;podsmażyć;поджарить, подрумянить
+05;jadalne;kupować;покупать
+05;jadalne;woleć;предпочитать
+05;jadalne;przygotowanie;приготовление
+05;jadalne;przyjmować gości;принимать гостей
+05;jadalne;doprawiać solą;приправлять солью
+05;jadalne;ekspedient;продавец
+05;jadalne;kawa rozpuszczalna;растворимый кофе
+05;jadalne;olej;растительное масло
+05;jadalne;postanowić;решить
+05;jadalne;kieliszek;рюмка
+05;jadalne;serwetka;салфетка
+05;jadalne;burak;свекла
+05;jadalne;wieprzowina;свинина
+05;jadalne;zastawiać stół;сервировать стол
+05;jadalne;nakrywać do stołu;сервировать стол (накрывать)
+05;jadalne;patelnia;сковородка
+05;jadalne;ile kosztuje;сколько стоит?
+05;jadalne;śmietanka;сливки
+05;jadalne;parówka;сосиска
+05;jadalne;lista zakupów;список покупок
+05;jadalne;szklanka;стакан
+05;jadalne;kosztować;стоить
+05;jadalne;burak jadalny;столовая свекла
+05;jadalne;sztuciec stołowy;столовый прибор
+05;jadalne;cielęcina;телятина
+05;jadalne;łyżeczka do herbaty;чайная ложечка
+05;jadalne;filiżanka;чашка
+05;jadalne;czekolada;шоколад
+06;odzież;promocja;акция
+06;odzież;apteka;аптека
+06;odzież;biały;белый
+06;odzież;bluzka;блузка, кофточка
+06;odzież;duży;большой, крупный
+06;odzież;buty;ботинки, сапоги
+06;odzież;spodnie;брюки, штаны
+06;odzież;butelka;бутылка
+06;odzież;krawat;галстук
+06;odzież;niebieski;голубой, светло-синий
+06;odzież;tani;дешевый
+06;odzież;spodnie dżinsowe;джинсы
+06;odzież;długi;долгий, длинный
+06;odzież;drogi;дорогой
+06;odzież;żakiet;жакет, пиджак
+06;odzież;żółty;желтый
+06;odzież;kostium damski;женский костюм
+06;odzież;zielony;зеленый
+06;odzież;kilogram;килограм
+06;odzież;księgarnia;книжный магазин
+06;odzież;komplement;комплимент
+06;odzież;brązowy;коричневый
+06;odzież;brunatny;коричневый, бурый
+06;odzież;krótki;короткий, краткий
+06;odzież;garnitur;костюм (мужской)
+06;odzież;czerwony;красный
+06;odzież;kurtka;куртка
+06;odzież;kawałek;кусок, кусочек
+06;odzież;sklep odzieżowy;магазин одежды
+06;odzież;podkoszulek;майка, нижняя рубашка
+06;odzież;mały;маленький, небольшой
+06;odzież;obuwie;обувь
+06;odzież;odzież;одежда
+06;odzież;ubranie;одежда
+06;odzież;optyk;оптика
+06;odzież;pomarańczowy;оранжевый
+06;odzież;paczka;пачка, стопка, пакет, сверток
+06;odzież;marynarka;пиджак, флот
+06;odzież;sukienka;платье
+06;odzież;klientka;покупательница, клиентка
+06;odzież;sprzedawca;продавец
+06;odzież;sklep spożywczy;продовольсвенный магазин
+06;odzież;koszula;рубашка
+06;odzież;sweter;свитер, шерстяная кофта
+06;odzież;wąski;узкий, тесный
+06;odzież;kwiaciarnia;цветочный магазин
+06;odzież;czarny;черный
+06;odzież;szeroki;широкий
+06;odzież;spódnica;юбка
+07;idiom;czarna owca;белая ворона
+07;wakacje;chorować;болеть
+07;wakacje;Narodowe święto Niepodległości;гос прадзн Независимости
+07;wakacje;pieniądze;деньги
+07;odzież;ubrania dla dzieci;детская одежда
+07;łuki;czekać;ждать
+07;łuki;zapomnieć;забыть
+07;odzież;szukać;искать
+07;wakacje;wakacje;каникулы
+07;wakacje;ferie;каникулы
+07;odzież;rajstopy;колготки
+07;idiom;czerwony jak burak;красный как рак
+07;wakacje;leżeć;лежать
+07;wakacje;wykład;лекция
+07;odzież;prać chemicznie;машинная стирка
+07;odzież;nie chlorować;не хлорировать
+07;wakacje;niepodległość;независимость
+07;wakacje;Nowy Rok;новый год
+07;odzież;nosić;носить
+07;wakacje;spóźniać się;опаздывать
+07;wakacje;urlop;отпуск
+07;odzież;fascynacja;очарование, обаяние
+07;wakacje;Wielkanoc;пасха
+07;wakacje;pozdrawiać;передавать привет
+07;wakacje;pisać;писать
+07;odzież;kupować;покупить
+07;odzież;pamiętać;помнить
+07;wakacje;rewelacyjny;поразительный
+07;wakacje;proponować;предлагать
+07;odzież;przymierzalnia;примерочная
+07;odzież;przymierzać;примерять
+07;wakacje;spacer;прогулка
+07;odzież;sprzedawać;продавать
+07;odzież;ekspedient;продавец
+07;odzież;rozmiar;размер, величина, формат
+07;łuki;dawniej;ранее, прежде
+07;wakacje;relaksować się;расслабляться
+07;wakacje;Boże Narodzenie;Рождество
+07;odzież;prać ręcznie;ручная стирка
+07;odzież;sandały;сандалии
+07;łuki;poważnie;серьезно, всерьез
+07;odzież;prać w temperaturze;стирать в температуре
+07;łuki;gubić;терять
+07;odzież;tramwaj;трамвай
+07;odzież;lekcja;урок
+07;wakacje;rok akademicki;учебный год
+07;wakacje;chodzić pieszo;ходить пешком
+07;wakacje;czuć się;чувствовать себя
+07;idiom;jasne jak słońce;ясно как божий день
+08;sport;lodowisko;каток
+08;sport;skocznia;трамплин
+08;sport;boisko;площадка
+08;sport;sala gimnastyczna;гимнастический зал
+08;sport;kort;корт
+08;sport;łyżwiarstwo;конькобежный спорт
+08;sport;maraton;марафон
+08;sport;piłka nożna;футбол
+08;sport;piłka;мяч
+08;sport;piłkarz;футболист
+08;sport;pływanie;плаванье
+08;sport;medal;медаль
+08;sport;tenis;теннис
+08;sport;gimnastyka artystyczna;худож. гимнастика
+08;sport;jeździć konno;ездить верхом
+08;sport;zająć pierwsze miejsce;занять первое место
+08;sport;zdobyć medal;завоевать медаль
+08;sport;pobić rekord;побить рекорд
+08;sport;wygrać medal;завоевать медаль
+08;sport;środki dopingujące;допинг
+08;sport;lekkoatleta;легкоатлет
+08;sport;wyścigi samochodowe;автогонки
+08;sport;żeglarstwo;парусный спорт
+08;sport;koszykówka;баскетбол
+08;sport;kolarstwo;велоспорт
+08;sport;bieg;бег
+08;sport;łyżwiarstwo figurowe;фигурное катание
+08;sport;sztafeta;эстафета
+08;sport;boks;бокс
+08;sport;narciarstwo;лыжный спорт
+08;sport;uprawiać sport;заниматься спортом
+08;sport;sportowca;спортсмен
+08;sport;mięśnie;мыщцы
+08;sport;wędkarz;рыболов
+08;sport;silna wola;сильная воля
+08;sport;wytrzymałość;выносливость
+08;sport;rywalizacja;соперничество
+08;sport;samodyscyplina;самодисциплина
+08;sport;drużyna;команда
+08;sport;strzelić gola;забить гол
+08;sport;gracz;игрок
+08;sport;kraul;кроль
+08;sport;delfin;дельфин
+08;sport;żabka;брасс
+08;sport;rakieta;ракетка
+08;sport;skakać;скакать
+08;sport;zawodnik;спортсмен
+08;sport;brać udział;принимать участие
+08;sport;mistrz świata;чемпион мира
+08;sport;wygrywać;выигрывать
+08;sport;wygrać;выиграть
+08;sport;przegrywać;проигрывать
+08;sport;przegrać;проиграть
+08;sport;wynik gry;результат игры
+08;sport;wynik meczu;результат матча
+08;sport;kibic;болельщик
+08;sport;zwyciężać;побеждать
+08;sport;zwyciężyć;победить
+08;sport;mistrzostwa świata;чемпионат мира
+08;sport;robić ćwiczenia;делать упражения
+08;sport;stadion;стадион
+08;sport;wędkarstwo;рыбная ловля
+08;sport;park wodny;аквапарк
+08;sport;centrum SPA;СПА центр
+08;sport;sklep sportowy;спортивный магазин
+08;sport;relaks;разрядка, отдых
+08;sport;odnowa;обновление
+08;sport;mistrzynia świata;чемпионка мира
+08;sport;trener;тренер
+08;sport;rekordzistka świata;рекордсменка мира
+08;sport;pływak;пловец
+08;sport;zdobyć tytuł;получить титул
+08;sport;wyścigi ;гонки
+08;sport;wygrać wyścig;победить в соревнованиях
+08;sport;styl motylkowy;стиль баттерфляй
+08;sport;korty tenisowe;теннисные корты
+08;sport;dżokej;жокей
+08;sport;puchar;кубок
+08;sport;biliard;бильярд
+08;sport;aquarobik;аквааэробика
+08;sport;wspinaczka;альпинизм
+08;sport;wspinać się;восходить 
+08;sport;skoczek;прыгун
+08;sport;puchar świata;Кубок мира
+08;sport;wystartować;стартовать
+08;sport;biegać;бегун
+08;sport;dystans;дистанция
+08;sport;Igrzyska Olimpijskie;Олимпийские игры
+08;sport;osiągać;достигать
+08;sport;pięciobój;пятиборье
+08;sport;pochodnia;факел
+08;sport;rzut;бросок
+08;sport;skok w dal;прыжок в длину
+08;sport;skupiony;сосредоточенный
+08;sport;trofeum;трофей
+08;sport;trzykrotny;трехкратный
+08;sport;zwycięstwo;победа
+08;sport;zwycięzca;победить
+08;sport;lekkoatletyka;легкая атлетика
+08;sport;tenis stołowy;настольный теннис
+08;sport;kajakarstwo;бейсбол
+08;sport;jeździectwo;борьба
+08;sport;szermierka;фехтование
+08;sport;mistrzostwo;чемпионат
+08;sport;wywalczyć;завоевывать
+08;sport;z rzędu;подряд
+08;sport;skocznia narciarska;лыжный трамплин
+08;sport;siłownia;тренажерный зал
+08;sport;mistrz sportu;мастер спорта
+08;zdrowie;dostać katar;схватить насморк
+08;zdrowie;paznokieć;ноготь
+08;zdrowie;paznokcie;ногти
+08;zdrowie;głowa;голова
+08;zdrowie;plecy;спина
+08;zdrowie;ramię;плечо
+08;zdrowie;ramiona;плечи
+08;zdrowie;nos;нос
+08;zdrowie;ucho;ухо
+08;zdrowie;uczy;уши
+08;zdrowie;ząb;зуб
+08;zdrowie;zęby;зубы
+08;zdrowie;usta;губы
+08;zdrowie;rzęsa;ресница
+08;zdrowie;rzęsy;ресницы
+08;zdrowie;pierś;грудь
+08;zdrowie;kolano;колено
+08;zdrowie;brzuch;живот
+08;zdrowie;stopa;стопа
+08;zdrowie;palec;палец
+08;zdrowie;palce;пальцы
+08;zdrowie;dolegać;беспокоить
+08;zdrowie;co panu dolega;что вас беспокоит
+08;zdrowie;rozbierać się;раздеваться
+08;zdrowie;badać chorego;осматривать больного
+08;zdrowie;gorączka;повышенная температура
+08;zdrowie;katar;насморк
+08;zdrowie;kaszel;кашель
+08;zdrowie;recepta;рецепт
+08;zdrowie;lekarstwo;лекарство
+08;zdrowie;mieć dreszcze;знобить
+08;zdrowie;nadwaga;лишний вес
+08;zdrowie;stosować diety;сидеть на диете
+08;zdrowie;schudnąć;похудеть
+08;zdrowie;pigułka; пилюля
+08;zdrowie;brać antybiotyku;принимать антибиотик
+08;zdrowie;pacjent;пациент
+08;zdrowie;ból;боль
+08;zdrowie;brać leki;принимать лекарства
+08;zdrowie;czuć się;чувстовать себя
+08;zdrowie;dolegać;беспокоить
+08;zdrowie;dziennie;ежедневно
+08;zdrowie;gardło;горло
+08;zdrowie;gorzej;хуже
+08;zdrowie;internista;терапевт
+08;zdrowie;kaszleć;кашлять
+08;zdrowie;objaw;симптом
+08;zdrowie;symptom;симптом
+08;zdrowie;oddychać;дышать
+08;zdrowie;otworzyć;открыть
+08;zdrowie;środek przeciwbólowy;болеутоляющее средство
+08;zdrowie;stopień;градус
+08;zdrowie;zabieg;процедура
+08;zdrowie;zapisywać receptę;выписывать рецепт
+08;zdrowie;zastrzyk;укол
+08;zdrowie;przychodnia;поликлиника
+08;zdrowie;dolegliwość;недуг
+08;zdrowie;pogotowanie;скорая помощь
+08;zdrowie;karetka pogotowania;скорая помощь
+08;zdrowie;choroba;болезнь
+08;zdrowie;boleć;болеть
+08;zdrowie;niepokoić;беспокоить
+08;charakter;energiczny;энергичный
+08;charakter;inteligentny;интеллигентный
+08;charakter;dynamiczny;динамичный
+08;charakter;ciekawy;интересный
+08;charakter;otwarty;открытый
+08;charakter;interesujący;интересный
+08;charakter;ambitny;самолюбивый
+08;charakter;pracowity;трудолюбивый
+08;charakter;towarzyski;общительный
+08;charakter;oryginalny;оригинальный
+08;charakter;wesoły;веселый
+08;charakter;spontaniczny;спонтанный
+08;charakter;wrażliwy;восприимчивый
+08;charakter;niezależny;независимый
+08;charakter;odważny;смелый
+08;charakter;zdecydowany;решительный
+08;charakter;zabawny;забавный
+08;charakter;śmieszny;смешной
+08;charakter;spokojny;спокойный
+08;charakter;dobrze organizowany;организованный
+08;charakter;głupi;глупый
+08;charakter;głupia;глупая
+08;charakter;powolny;медленный
+08;charakter;nieśmiały;робкий
+08;charakter;zarozumiały;самонадеянный
+08;charakter;arogancki;наглый
+08;charakter;zamknięty w sobie;замкнутый
+08;charakter;nudny;скучный
+08;charakter;nieciekawy;неинтересный
+08;charakter;leniwy;ленивый
+08;charakter;nietowarzyski;нелюдимый
+08;charakter;niesympatyczny;несимпатичный
+08;charakter;smutny;грустный
+08;charakter;przeciętny;посредственный
+08;charakter;niewrażliwy;невосприимчивый
+08;charakter;zależny;зависимый
+08;charakter;rozsądny;благоразумный
+08;charakter;poważny;серьезный
+08;charakter;nerwowy;нервный
+08;charakter;roztrzepany;невнимательный, рассеянный
+08;charakter;uprzejmy;вежливый
+08;charakter;kontrowersyjny;спорный
+08;charakter;dokładny;аккуратный
+08;charakter;tolerancyjny;терпимый
+08;charakter;depresyjny;депрессивный
+08;charakter;zadowolony;довольный
+08;charakter;uczciwy;добросовестный
+09;charakter;cyniczny;циничный
+09;charakter;charyzmatyczny;харизматичный
+09;charakter;solidny;серьезный
+09;charakter;konfliktowy;конфликтный
+09;charakter;monotonny;монотонный
+09;charakter;niedoświadczony;неопытный
+09;charakter;niebanalny;нешаблонный
+09;charakter;dystyngowany;благовоспитанный
+09;praca;status społeczny;общественный статус
+09;praca;konsument;потребитель
+09;praca;edukacja;образование
+09;praca;odżywać się;питаться
+09;praca;prezenter;ведущий
+09;praca;przypadkowo;случайно
+09;praca;zatrudniać;давать работу
+09;praca;zatrudniać się;наниматься на работу
+09;praca;zanim;прежде чем, до того как
+09;praca;kojarzyć się;сочетаться, ассоциироваться
+09;praca;pasować;подходить
+09;praca;naprawdę;действительно
+09;praca;inspiracja;вдохновение
+09;praca;inspirować;вдохновлять
+09;praca;zdarzać;случаться
+09;praca;gwarantować;гарантировать
+09;praca;ponieważ;потому что
+09;praca;zarabiać;зарабатывать
+09;praca;kwestia;вопрос
+09;praca;cieszyć się;радоваться
+09;praca;zrezygnować się z;отказаться от
+09;praca;uważać;обращать внимание
+09;praca;podejrzany;подозреваемый
+09;praca;uzasadniać;обосновывать
+09;praca;podejrzewać o coś;подозревать в чем-то
+09;praca;zdefraudować;растратить
+09;praca;zdefraudowanie;растрата
+09;praca;proponować;предлагать
+09;praca;gadać;болтать, говорить
+09;praca;dostać;получить
+09;praca;akceptować;одобрять
+09;praca;być ciekawym świata;интересоваться миром
+09;praca;osiągać cel;достичь цели
+09;praca;mieć dobrzy gust;иметь хороший вкус
+09;praca;osiągać sukcesu;добиться успеха
+09;praca;mieć rację;быть правым
+09;praca;zgadać się;соглашаться
+09;praca;denerwować;раздражать, нервировать
+09;praca;krytykować;критиковать
+09;praca;irytować;сердить, раздражать, злить
+10;praca;aplikujący;кандидат
+10;praca;atut;козырь, сильная сторона
+10;praca;branża;отрасль
+10;praca;cechy charakteru;черты характера
+10;praca;doświadczenie zawodowe;профессиональный опыт
+10;praca;dział kadr;отдел кадров
+10;praca;dziedzina;область, отрасль
+10;praca;edukacja;образование
+10;praca;frustracja;раздраженность
+10;praca;głównie;главным образом
+10;praca;kandydat;кандидат
+10;praca;kwalifikacja;квалификация
+10;praca;list motywacyjny;сопроводительное письмо
+10;praca;mimo to;несмотря на это
+10;praca;negocjacje;переговоры
+10;praca;niezbędny;необходимый
+10;praca;obszar;пространство
+10;praca;oczekiwanie;ожидание, предположение
+10;praca;ogłoszenie;объявление
+10;praca;opinia;мнение
+10;praca;osiągnięcie;достижение
+10;praca;pierwsze wrażenie;первое впечатление
+10;praca;podanie o pracę;заявление на работу
+10;praca;podchwytliwy;каверзный
+10;praca;poprawa;улучшение
+10;praca;posada;положение
+10;praca;pracodawca;работодатель
+10;praca;pracownik;работник
+10;praca;predyspozycja;склонность
+10;praca;przydatny;пригодный, полезный
+10;praca;rozmowa kwalifikacyjna;собеседование
+10;praca;samoocena;самооценка
+10;praca;stanowisko;должность
+10;praca;sytuacja stresująca;стрессовая ситуация
+10;praca;sztywny;жесткий
+10;praca;treść;содержание
+10;praca;umiejętności;умения
+10;praca;uzyskiwać;получать
+10;praca;w rzeczywistości;в действительности
+10;praca;warunek;условие
+10;praca;wizerunek;образ
+10;praca;wnikliwy;вдумчивый
+10;praca;wprawdzie;по правде говоря
+10;praca;wykształcenie;образование
+10;praca;wynagrodzenie;плата, вознагрождение
+10;praca;podchwytliwe pytanie;каверзный вопрос
+10;praca;wypowiedź;заявление, высказывание
+10;praca;z pozoru;с виду, на вид
+10;praca;zarobki;заработки
+10;praca;zdolność;способность
+10;praca;dysponować;располагать чем-то
+10;praca;życiorys;биография
+10;praca;bezrobocie;безработица
+10;praca;bezrobotny;безработный
+10;praca;codzienny;ежедневно
+10;praca;czas pracy;рабочее время
+10;praca;dyplom;диплом
+10;praca;dziennie;ежедневно
+10;praca;emerytura;пенсия
+10;praca;etat;штат
+10;praca;istotny;важный, основной
+10;praca;koledzy z pracy;коллеги по работе
+10;praca;konsekwencje;последствия
+10;praca;łatwy;легкий
+10;praca;zatrudniać się;трудоустраиваться
+10;praca;minimum socjalne;прожиточный минимум
+10;praca;obojętny;безразличный
+10;praca;odpowiedzialny;ответственный
+10;praca;oferta pracy;предложение о работе
+10;praca;pasja;страсть
+10;praca;pensja;зарплата
+10;praca;poszukiwać;искать
+10;praca;praca na etacie;работа в штате
+10;praca;praktyka;практика
+10;praca;prawo jazdy;водительские права
+10;praca;premia;премия
+10;praca;prestiżowy;престижный
+10;praca;prezes;председатель, глава
+10;praca;programista;программист
+10;praca;referencje;рекомендации
+10;praca;robotnik;работник
+10;praca;rozmówca;собеседник
+10;praca;rozwiązanie;решение
+10;praca;rozwiązać;решить
+10;praca;samodzielność;самостоятельность
+10;praca;satysfakcja;удовлетворение
+10;praca;stresować;вызывать стресс
+10;praca;szef;шеф
+10;praca;średnia krajowa;средняя зарплата
+10;praca;ubezpieczenie;страховка
+10;praca;umysłowy;умственный
+10;praca;urlop;отпуск
+10;praca;wada;недостаток
+10;praca;warunki pracy;условия работы
+10;praca;ważny;важный
+10;praca;wykonywanie;выполнение
+10;praca;wymagania;требования
+10;praca;wytłumaczyć;объяснить
+10;praca;zakładać;учреждать
+10;praca;zaleta;достоинство
+10;praca;zarząd;управление
+10;praca;zaufanie;доверие
+10;praca;zawodowy;профессиональный
+10;praca;zawód;профессия
+10;praca;zostać;стать
+10;praca;zrobić karierę;сделать карьеру
+10;praca;kontrolować;контролировать
+10;praca;kończyć pracę;закончить работу
+10;praca;motywować;мотивировать
+10;praca;napędzać;подгонять
+10;praca;nastawiać się pozytywnie;настроиться позитивно
+10;praca;nawiązać kontakt;установить контакт
+10;praca;negocjować;вести переговоры
+10;praca;obserwować kogoś;наблюдать за кем-то
+10;praca;odchodzić na emeryturę;уходить на пенсию
+10;praca;panikować;паниковать
+10;praca;pasjonować się;увлекаться
+10;praca;podejmować decyzję;принимать решение
+10;praca;podjąć pracę;начать работу
+10;praca;podkreślać atuty;подчеркивать плюсы
+10;praca;podziękować;поблагодарить
+10;praca;posługiwać się;пользоваться чем-либо
+10;praca;powołać się na;сослаться на
+10;praca;pracować na własny rachunek;работать на себя
+10;praca;prowadzić;вести, управлять
+10;praca;prowadzić rozmowę;вести разговор
+10;praca;przeszkadzać;мешать
+10;praca;przygotowywać;подготавливать
+10;praca;przykuć uwagę;привлечь внимание
+10;praca;radzić sobie;справляться
+10;praca;rekruter;наемщик
+10;praca;skupić się;сосредоточиться
+10;praca;spodziewać się;ожидать
+10;praca;spóźniać  się;опаздывать
+10;praca;sprawdzać;проверять
+10;praca;sprawdzić;проверить
+10;praca;sprecyzować;уточнить
+10;praca;ubiegać się o stanowisko;претендовать на должность
+10;praca;ufać;доверять
+10;praca;ułatwiać;облегчать
+10;praca;utrudniać;затруднять
+10;praca;uzasadniać;обосновывать
+10;praca;uzasadnić;обосновать
+10;praca;uzyskać;получить, добиться
+10;praca;wyciszyć;приглушить
+10;praca;wydarzyć się;произойти
+10;praca;wykonywać;выполнять
+10;praca;wyrazić;выразить, высказывать
+10;praca;zachować spokój;сохранять спокойствие
+10;praca;zaczynać pracę;начинать работу
+10;praca;zaoferować;предложить
+10;praca;zarabiać;зарабатывать
+10;praca;zastanawiać się;размышлять
+10;praca;zatrudniać;давать работу кому-либо
+10;praca;zdarzać się;случаться
+10;praca;zdradzać;предавать
+10;praca;zebrać myśli;собраться с мыслями
+10;praca;zgadać się;соглашаться
+10;praca;znaleźć chwilę;найти минутку
+10;praca;zrobić dobre wrażenie;произвести хорошее впечатление
+10;praca;zwalniać;увольнять
