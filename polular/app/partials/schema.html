@@ -11,7 +11,7 @@
             ng-class="{ 'sort-asc': ngTableParams.isSortBy(column.field, 'asc'), 'sort-desc': ngTableParams.isSortBy(column.field, 'desc') }" 
             ng-click="ngTableParams.sorting(column.field, ngTableParams.isSortBy(column.field, 'asc') ? 'desc' : 'asc')" 
             ng-style="column.colStyle">
-            <div>{{column.title}}</div>
+            <div ng-style="column.colStyle">{{column.title}}</div>
         </th>
     </tr>
     <tr class="ng-table-filters">

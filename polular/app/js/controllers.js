@@ -179,9 +179,7 @@ angular.module(
                                             sortable: col.id,
                                             title: col.name,
                                             filter: _.object([col.id], ['text']),
-                                            cellClass: cellClasses.map(function(cc) { return 'schemaTable_' + cc;}).join(' ')/*,
-                                             groupable: col.columnType == 'category',
-                                             */
+                                            cellClass: cellClasses.map(function(cc) { return 'schemaTable_' + cc;}).join(' ')
                                         };
 
                                         var colStyleObj = {};
