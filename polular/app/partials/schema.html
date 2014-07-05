@@ -29,7 +29,7 @@
     </thead>
     <tbody>
     <tr ng-repeat="row in $data"
-        ng-click="alert('wheee'); row.$selected = !row.$selected; changeSelection(row)"
+        ng-click="row.$selected = !row.$selected; changeSelection(row)"
         ng-class="{'info': row.$selected}" >
         <td title="{{ row[statsColumnKey].weight }}" style="vertical-align: middle; ">
             <div class="progress" ng-if="row[statsColumnKey].stripes.length > 0">

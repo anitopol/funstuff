@@ -321,13 +321,17 @@ angular.module(
                                                                 return quiz.expected == quiz.actual;
                                                             }
                                                         ).value();
-                                                    row.$selected = row.$selected && !allCorrectForRow;
+                                                    if (allCorrectForRow) {
+                                                        row.$selected = false;
+                                                        $scope.changeSelection(row);
+                                                    }
                                                 }
                                             );
                                         }
                                     );
 
                                     window.localStorage[$routeParams.schemaId] = angular.toJson(schemaStats);
+                                    $scope.ngTableParams.reload();
                                 }
                             }
                         };
