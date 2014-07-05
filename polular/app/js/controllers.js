@@ -121,7 +121,7 @@ angular.module(
                                 function(res, cur) {
                                     return _.map(
                                         _.zip(res, cur),
-                                        function(arr) { return _.min(arr); }
+                                        function(arr) { return _(arr).reduce(function(a,b){ return a + b; }); }
                                     );
                                 }
                             );
