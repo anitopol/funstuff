@@ -10,6 +10,7 @@ angular.module(
             '$scope', '$routeParams', '$log', '$q', '$filter', 'ngTableParams', 'utils', 'data', 
             function ($scope, $routeParams, $log, $q, $filter, ngTableParams, utils, data) {
                 $scope.rowCollection = [ ];
+                $scope.statsColumnKey = '_stats_';
                 $scope.columnCollection = [ ];
                 $scope.ngTableParams = new ngTableParams(
                     {
@@ -38,7 +39,7 @@ angular.module(
                         }
                     }
                 );
-    
+
                 $scope.quizQueue = [ ];
                 $scope.quizLog = [ ];
                 $scope.quizIdx = 0;
@@ -76,12 +77,8 @@ angular.module(
                                 }
                             );
 
-                        var lcsLevels = [0, 1, 2, 4];
-                        function statsColumnKey(idx) { return 'stats' + idx; }
-                        var statsColumnKeys = _(lcsLevels).map(
-                            function(val, idx) { return statsColumnKey(idx); }
-                        );
-
+                        var lcsLevels = [0, 1, 2, 3, 5, 8, 13, 100];
+ 
                         var emptyRowStats = function() {
                             return _.object(
                                 _.map(
@@ -132,6 +129,41 @@ angular.module(
                         function statsForCol(row, inputCol) {
                             return statsMapForRow(row)[inputCol.id];
                         }
+                        function statsObj(statsArr) {
+                            var statsArrClone = _(statsArr).map(function(v) { return v; });
+                            var correct = 
+                                _(statsArrClone).map(function(v, i, a) { return i == 0 ? v : v - a[i-1];});
+                            var tries = 
+                                _(statsArrClone).last();
+                            var triesWeighted =
+                                _.chain(correct).map(
+                                    function (v, i) {
+                                        return v * Math.pow(0.8, i);
+                                    }
+                                ).reduce(
+                                    function (a, b) {
+                                        return a + b;
+                                    }
+                                ).value();
+                            return {
+                                stats: statsArrClone,
+                                tries: tries,
+                                correct: correct,
+                                weight: tries > 0 ? triesWeighted / tries : 0,
+                                stripes: tries <= 0 ? [] :
+                                    _(correct).map(function (t, i) { return { width: t / tries, index: i }; })
+                            };
+                        }
+                        function patchStatsObj(rowObj) {
+                            var statsVal = statsObj(statsForRow(rowObj));
+                            return _.extend(
+                                rowObj,
+                                _.object(
+                                    [$scope.statsColumnKey, $scope.statsColumnKey + "weight_"], 
+                                    [statsVal, statsVal.weight]
+                                )
+                            )
+                        }
 
                         var columnKeys = schema.columns.map(
                             function(col) { return col.id; }
@@ -139,11 +171,7 @@ angular.module(
     
                         $scope.rowCollection =
                             schema.data.map(function (row) {
-                                var rowObj = _.object(columnKeys, row);
-                                return _.extend(
-                                    rowObj,
-                                    _.object(statsColumnKeys, statsForRow(rowObj))
-                                );
+                                return patchStatsObj(_.object(columnKeys, row));
                             });
 
                         function isColumnGreedy(col) {
@@ -153,22 +181,20 @@ angular.module(
                             schema.columns.filter(isColumnGreedy).length;
 
                         $scope.columnCollection = 
-                            lcsLevels.map(
-                                function(level, index) {
-                                    return {
-                                        visible: true,
-                                        field: statsColumnKey(index),
-                                        sortable: statsColumnKey(index),
-                                        title: '' + level,
-                                        filter: _.object([statsColumnKey(index)], ['text']),
-                                        cellClass: 'schemaTable_category',
-                                        colStyle: {
-                                            'max-width': '1.5em',
-                                            'width': '1.5em'
-                                        }
+                            [
+                                {
+                                    visible: true,
+                                    field: $scope.statsColumnKey,
+                                    title: 'Stats',
+                                    sortable: $scope.statsColumnKey + "weight_",
+                                    filter: _.object([$scope.statsColumnKey + "weight_"], ['text']),
+                                    cellClass: 'schemaTable_category',
+                                    colStyle: {
+                                        'max-width': '3em',
+                                        'width': '3em'
                                     }
                                 }
-                            ).concat(
+                            ].concat(
                                 schema.columns.map(
                                     function(col) {
                                         var cellClasses = col.cellClassShort.split(/ +/);
@@ -176,8 +202,8 @@ angular.module(
                                         var colDef = {
                                             visible: true,
                                             field: col.id,
-                                            sortable: col.id,
                                             title: col.name,
+                                            sortable: col.id,
                                             filter: _.object([col.id], ['text']),
                                             cellClass: cellClasses.map(function(cc) { return 'schemaTable_' + cc;}).join(' ')
                                         };
@@ -235,8 +261,8 @@ angular.module(
                                                         },
                                                         editDistCss: function() {
                                                             var editDistVal = this.editDist();
-                                                            return _.reduce(
-                                                                [1, 2, 3, 5, 8, 13],
+                                                            return -1 + _.reduce(
+                                                                lcsLevels,
                                                                 function (memo, elem) {
                                                                     return editDistVal >= elem ? memo + 1 : memo;
                                                                 },
@@ -259,10 +285,7 @@ angular.module(
                                 var quizCurrentDist = quizCurrent.editDist();
                                 quizCurrent.stats = _(quizCurrent.stats).map(
                                     function(count, idx) {
-                                        if (lcsLevels[idx] >= quizCurrentDist) {
-                                            return count + 1;
-                                        }
-                                        return 0;
+                                        return count + (lcsLevels[idx] >= quizCurrentDist ? 1 : 0);
                                     }
                                 );
                                 $scope.quizLog.push(quizCurrent);
@@ -282,11 +305,11 @@ angular.module(
                                         function(rowId) {
                                             _.chain($scope.rowCollection).filter(
                                                 function(row) { return row[idCol.id] == rowId; }
-                                            ).each(
+                                            ).each(   
                                                 function(row){
                                                     _.extend(
                                                         row,
-                                                        _.object(statsColumnKeys, statsForRow(row))
+                                                        patchStatsObj(row)
                                                     )
                                                 }
                                             );

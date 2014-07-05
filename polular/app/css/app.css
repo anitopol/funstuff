@@ -55,6 +55,10 @@
     background-color: #990000;
 }
 
+.editDist_7 {
+    background-color: #330000;
+}
+
 .navbar {
     margin-bottom: 3px;
 }
@@ -83,4 +87,13 @@
     min-height: 18px;
     font-size: 10px;
     padding: 1px;
+}
+
+.ng-table .progress {
+  height: 1em;
+  margin-bottom: 0;
+}
+
+.ng-table .progress-bar {
+    background-image: none;
 }

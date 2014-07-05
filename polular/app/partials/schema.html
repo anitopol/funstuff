@@ -9,7 +9,7 @@
         <th ng-repeat="column in columnCollection" ng-show="column.visible"
             class="text-center sortable" 
             ng-class="{ 'sort-asc': ngTableParams.isSortBy(column.field, 'asc'), 'sort-desc': ngTableParams.isSortBy(column.field, 'desc') }" 
-            ng-click="ngTableParams.sorting(column.field, ngTableParams.isSortBy(column.field, 'asc') ? 'desc' : 'asc')" 
+            ng-click="ngTableParams.sorting(column.sortable, ngTableParams.isSortBy(column.sortable, 'asc') ? 'desc' : 'asc')" 
             ng-style="column.colStyle">
             <div ng-style="column.colStyle">{{column.title}}</div>
         </th>
@@ -31,7 +31,18 @@
     <tr ng-repeat="row in $data"
         ng-click="alert('wheee'); row.$selected = !row.$selected; changeSelection(row)"
         ng-class="{'info': row.$selected}" >
-        <td ng-repeat="column in columnCollection" ng-show="column.visible" sortable="column.field" class="{{column['cellClass']}}">
+        <td title="{{ row[statsColumnKey].weight }}" style="vertical-align: middle; ">
+            <div class="progress" ng-if="row[statsColumnKey].stripes.length > 0">
+                <div ng-repeat="stripe in row[statsColumnKey].stripes" 
+                     class="progress-bar editDist_{{stripe.index}}" 
+                     style="width: {{ stripe.width * 100 + '%'}}"/>
+            </div>
+        </td>
+        <td ng-repeat="column in columnCollection | filter:{'field': '!' + statsColumnKey }" 
+            ng-show="column.visible" 
+            sortable="column.field" 
+            class="{{column['cellClass']}}"
+        >
             {{row[column.field]}}
         </td>
     </tr>
