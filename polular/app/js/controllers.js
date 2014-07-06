@@ -11,6 +11,7 @@ angular.module(
             function ($scope, $routeParams, $log, $q, $filter, ngTableParams, utils, data) {
                 $scope.rowCollection = [ ];
                 $scope.statsColumnKey = '_stats_';
+                $scope.statsColumnSortKey = $scope.statsColumnKey + "weight_";
                 $scope.columnCollection = [ ];
                 $scope.ngTableParams = new ngTableParams(
                     {
@@ -40,6 +41,7 @@ angular.module(
                     }
                 );
 
+                $scope.quizSize = 6; 
                 $scope.quizQueue = [ ];
                 $scope.quizLog = [ ];
                 $scope.quizIdx = 0;
@@ -55,6 +57,35 @@ angular.module(
                 $scope.deselect = function() {
                     _($scope.rowCollection).each(function(row) { row.$selected = false; });
                     $scope.selectedRows = [];
+                };
+                var addSome = function(orderOps) {
+                    var filterSetup = $scope.ngTableParams.filter();
+                    var visibleRows =
+                        filterSetup ? 
+                            $filter('filter')($scope.rowCollection, filterSetup) :
+                            $scope.rowCollection ;
+                    orderOps(
+                        _.chain(visibleRows).filter(
+                            function(row) { return !row.$selected; }
+                        )
+                    ).first(
+                            $scope.quizSize
+                    ).each(
+                        function(row) { 
+                            row.$selected = true;
+                            $scope.selectedRows.push(row);
+                        } 
+                    );
+                };
+                $scope.addWorst = function() {
+                    addSome(function(chained) {
+                        return chained.sortBy(
+                            function(row) { return row[$scope.statsColumnSortKey]; }
+                        );
+                    });
+                };
+                $scope.addRandom = function() {
+                    addSome(function(chained) { return chained.shuffle(); });
                 };
                 $scope.selectedRows = [ ];
                 $scope.startQuiz = function() { $log.warn('$scope.startQuiz() not valid to be called'); };
@@ -163,7 +194,7 @@ angular.module(
                             return _.extend(
                                 rowObj,
                                 _.object(
-                                    [$scope.statsColumnKey, $scope.statsColumnKey + "weight_"], 
+                                    [$scope.statsColumnKey, $scope.statsColumnSortKey], 
                                     [statsVal, statsVal.weight]
                                 )
                             )
@@ -190,8 +221,8 @@ angular.module(
                                     visible: true,
                                     field: $scope.statsColumnKey,
                                     title: 'Stats',
-                                    sortable: $scope.statsColumnKey + "weight_",
-                                    filter: _.object([$scope.statsColumnKey + "weight_"], ['text']),
+                                    sortable: $scope.statsColumnSortKey,
+                                    filter: _.object([$scope.statsColumnSortKey], ['text']),
                                     cellClass: 'schemaTable_category',
                                     colStyle: {
                                         'max-width': '3em',

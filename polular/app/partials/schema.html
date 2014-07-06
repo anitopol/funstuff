@@ -1,8 +1,23 @@
 
 <div ng-show="quizQueue.length == 0">
 <div style="margin: 15px;">
-    <button type="button" class="btn btn-sm btn-info" ng-click="deselect()" ng-disabled="selectedRows.length == 0">Deselect</button>
-    <button type="button" class="btn btn-sm btn-primary" ng-click="startQuiz()" ng-disabled="selectedRows.length == 0 || quizQueue.length > 0">Start Quiz for {{ selectedRows.length }} items</button>
+    <button type="button" class="btn btn-sm btn-info" ng-click="addRandom()" >
+        <span class="glyphicon glyphicon-question-sign"></span>
+        +{{ quizSize }} Random
+    </button>
+    <button type="button" class="btn btn-sm btn-info" ng-click="addWorst()" >
+        <span class="glyphicon glyphicon-minus-sign"></span>
+        +{{ quizSize }} Worst
+    </button>
+    <button type="button" class="btn btn-sm btn-info" ng-click="deselect()" ng-disabled="selectedRows.length == 0">
+        <span class="glyphicon glyphicon-ban-circle"></span>
+        None
+    </button>
+    <span style="display: inline-block; width: 3em;"></span>
+    <button type="button" class="btn btn-sm btn-primary" ng-click="startQuiz()" ng-disabled="selectedRows.length == 0 || quizQueue.length > 0">
+        <span class="glyphicon glyphicon-fire"></span>
+        Start Quiz for {{ selectedRows.length }} items
+    </button>
 </div>
 <table ng-table="ngTableParams" show-filter="true" class="table table-striped table-responsive" >
     <thead>
