@@ -52,6 +52,10 @@ angular.module(
                         function(row) { return row.$selected; }
                     );
                 };
+                $scope.deselect = function() {
+                    _($scope.rowCollection).each(function(row) { row.$selected = false; });
+                    $scope.selectedRows = [];
+                };
                 $scope.selectedRows = [ ];
                 $scope.startQuiz = function() { $log.warn('$scope.startQuiz() not valid to be called'); };
                 $scope.nextInput = function() { $log.warn('$scope.nextInput() not valid to be called'); };

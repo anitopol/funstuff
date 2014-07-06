@@ -1,8 +1,9 @@
 
 <div ng-show="quizQueue.length == 0">
-
-<button type="button" class="btn btn-sm btn-primary" ng-click="startQuiz()" ng-disabled="selectedRows.length == 0 || quizQueue.length > 0">Start Quiz for {{ selectedRows.length }} items</button>
-
+<div style="margin: 15px;">
+    <button type="button" class="btn btn-sm btn-info" ng-click="deselect()" ng-disabled="selectedRows.length == 0">Deselect</button>
+    <button type="button" class="btn btn-sm btn-primary" ng-click="startQuiz()" ng-disabled="selectedRows.length == 0 || quizQueue.length > 0">Start Quiz for {{ selectedRows.length }} items</button>
+</div>
 <table ng-table="ngTableParams" show-filter="true" class="table table-striped table-responsive" >
     <thead>
     <tr>
