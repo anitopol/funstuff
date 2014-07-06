@@ -78,7 +78,6 @@
 .ng-table-pager {
     display: block;
     width: inherit;
-    border: 1px dashed gray;
     padding: 0.25em 0.5em;
 }
 
