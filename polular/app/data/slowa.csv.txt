@@ -674,3 +674,148 @@
 10;praca;znaleźć chwilę;найти минутку
 10;praca;zrobić dobre wrażenie;произвести хорошее впечатление
 10;praca;zwalniać;увольнять
+11;łuki;ponieważ;потому что, так как, ибо
+11;miasto;skrzyżowanie;перекресток
+11;miasto;tutejszy;здешний
+11;miasto;przychodnia;поликлиника
+11;miasto;msza;месса, литургия
+11;miasto;szatnia;гардероб, раздевалка
+11;łuki;zdecydowanie;решимость
+11;łuki;woleć;предпочитать
+11;miasto;przyjeżdżać;приезжать
+11;miasto;pozostać;остаться
+11;praca;uczelnia;учебное заведение
+11;praca;bezrobocie;безработица
+11;praca;instytucja;учреждение
+11;praca;absolwent;выпускник
+11;odzież;wyprzedaż;распродажа
+11;odzież;promocja;акция, продвижение
+11;praca;skończyć studia;закочить учебу
+11;łuki;tutaj;здесь, тут
+11;miasto;wyjść;выйти, уйти
+11;łuki;gdzieś;где-то, приблизительно
+11;miasto;kawalerka;однокомнатная квартира
+11;miasto;wynajem;наем, прокат
+11;łuki;przekonać;убежить, уверить
+11;miasto;blisko czegoś;рядом с чем-то
+11;miasto;nowoczesny;современный
+11;miasto;okolica;окрестность, район
+11;miasto;w okolicy;в окрестности
+11;przyroda;szczyt;вершина, верхушка
+11;miasto;wieżowiec;высотное здание
+11;miasto;mieszkaniec;житель
+11;miasto;przemysł;промышленность
+11;miasto;ośrodek;центр
+11;łuki;ponadto;кроме того
+11;miasto;targ;рынок, базар
+11;miasto;koncentrować się;сосредотачиваться
+11;miasto;zabudowa;застройка
+11;miasto;sanktuarium;святилище, святая святых
+11;miasto;handel;торговля
+11;miasto;handlowy;торговый
+11;miasto;zamek;замок
+11;miasto;katedra;кафедральный собор
+11;miasto;zakład;предприятие
+11;miasto;przejście dla pieszych;пешеходный переход
+11;miasto;rondo;поля шляпы, круговая развязка
+11;miasto;przeprowadzka;переезд, пересечение
+11;miasto;metropolia;метрополия
+11;charakter;doskonały;превосходный
+11;charakter;uciążliwy;мучительный
+11;łuki;dogodny moment;удобный момент
+11;miasto;wystrzelić;выстрелить
+11;łuki;kilkanaście;несколько сотен
+11;łuki;przeciętny;посредственный
+11;odzież;wydatek;расход, издержка
+11;łuki;kilkakrotnie;несколько раз
+11;jadalne;żywność;пища, продовольствие
+11;wieś;rolnik;аграрий, земледелец
+11;wieś;gospodarstwo rolne;сельское хозяйство
+11;wieś;ingerować w czyjeś sprawy;вмешиваться в чьи-то дела
+11;wieś;zboże;зерно, хлеба
+11;wieś;sad;фруктовый сад
+11;wieś;łąka;луг
+11;wieś;paść się;пастись
+11;wieś;krowa;корова
+11;wieś;zbierać grzyby;собирать грибы
+11;charakter;cudowny;чудесный
+11;wieś;ptak;птица
+11;wieś;wypoczywać;отдыхать
+11;wieś;świeże powietrze;свежий воздух
+11;łuki;potrzeba;потребность, нужда
+11;łuki;potrzebować;нуждаться
+11;łuki;alarmować;сигнализировать
+12;zdrowie;cierpieć na coś;страдать, болеть чем-то
+12;zdrowie;drogi oddechowe;дыхательные пути
+12;charakter;brutalny;грубый, жестокий
+12;charakter;czysty;чистый
+12;charakter;przyjazny;дружественный
+12;wieś;łono przyrody;лоно природы
+12;łuki;z jakich powodów;по каким причинам
+12;łuki;chętnie;охотно, с удовольствием
+12;łuki;moim zdaniem;по моему мнению
+12;łuki;jestem przekonany, że;я уверен что
+12;łuki;podsumowując;подводя итоги
+12;łuki;ponieważ;потому что, так как
+12;łuki;dlatego, że;потому что
+12;miasto;segregować śmieci;сортировать мусор
+12;charakter;koszmar;кошмар
+12;łuki;namawiać;уговаривать, убеждать
+12;łuki;namówić;уговорить, убедить
+12;idiom;uparty jak osioł;упрямый как осел
+12;idiom;zdrowy jak ryba;здоров как вол
+12;idiom;silny jak koń;сильный как лев
+12;idiom;pracowity jak mrówka;трудолюбивый как пчелка
+12;idiom;wierny jak pies;преданный как собака
+12;wieś;zwierzę;животное
+12;wieś;zwierzęta;животные
+12;łuki;rzadkość;редкость
+12;wieś;chomik;хомяк
+12;wieś;królik;кролик
+12;wieś;żółw;черепаха
+12;praca;zastąpiać;заменять
+12;praca;zastąpić;заменить, заместить
+12;łuki;w najlepszym gatunku;высшего сорта
+12;łuki;w zgodzie z;в согласии с
+12;łuki;deklarować;заявить
+12;łuki;zgadzać;договариваться
+12;miasto;ogród zoologiczny;зоопарк
+12;charakter;zwolennik;сторонник
+12;charakter;przeciwnik;противник
+12;charakter;walka;борьба, бой
+12;wieś;pożywienie;пропитание, пища
+12;charakter;męczyć się;мучиться
+12;praca;zaburzenie;нарушение
+12;praca;zaburzyć;нарушить
+12;praca;gatunek;род, вид
+12;praca;ingerować w czyjeś sprawy;вмешиваться в чьи-то дела
+12;miasto;teren;территория
+12;miasto;na terenie;на территории
+12;praca;ratunek;помощь, спасение
+12;praca;ratować;спасать
+12;praca;ingerencja;вмешательство
+12;praca;zmęczenie;усталость
+12;praca;działalność;деятельность
+12;wieś;wielbłąd;верблюд
+12;wieś;słoń;слон
+12;wieś;żubr;зубр
+12;wieś;rosnąć;расти
+12;zdrowie;spadek;наследство
+12;łuki;ze względu na;принимая во внимание
+12;praca;walory;достоинство
+12;praca;poziom;уровень
+12;łuki;rozpoczynać;начинать
+12;łuki;rozpocząć;начать
+12;charakter;wykup;выкуп
+12;miasto;środki;средства
+12;miasto;hamować;тормозить, задерживать
+12;miasto;zahamować;затормозить
+12;miasto;strefa;зона, полоса
+12;charakter;zmienić się zdecydowanie;кардинально измениться
+12;miasto;zabudować;застроить
+12;charakter;dokuczliwy;мучительный
+12;miasto;segregować;сортировать
+12;charakter;walczyć się;бороться
+12;łuki;przekonywać;убеждать, уверять
+12;łuki;przekonać;убедить, уверить
+12;miasto;pozostać w domu;остаться дома
