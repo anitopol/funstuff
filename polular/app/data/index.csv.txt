@@ -4,5 +4,5 @@ liczebniki;Liczebniki
 slowa;Slowa
 #dni_tygodnia;Dni tygodnia
 #miesiencyi;Miesięcy
-#zaimki_przypadki;Zaimki: przypadki
+zaimki;Zaimki: przypadki
 #slowa;Słowa

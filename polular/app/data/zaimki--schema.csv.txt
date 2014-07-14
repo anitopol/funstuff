@@ -1,0 +1,8 @@
+ru;RU;id;right;120+
+mian;Mianownik Кто;input;left;100+
+dopeln;Dopełniacz Кого;input;left;100+
+celow;Celownik Кому;input;left;100+
+bier;Biernik Кого;input;left;100+
+narz;Narzędnik Чем;input;left;100+
+miesc;Miejscownik О чем;input;left;100+
+
