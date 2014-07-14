@@ -1,3 +1,10 @@
+/*.table td, .table th, */.table>tbody>tr>td, .table>thead>tr>th {
+    padding: 0 1px;
+}
+
+.table > thead > tr > th {
+    border: none;
+}
 
 .schemaTable_id {
     color: #000;
@@ -19,12 +26,14 @@
     text-align: center;
 }
 
-.schemaTable_left {
+.table>tbody>tr>td.schemaTable_left, .table>thead>tr>th.schemaTable_left, .schemaTable_left {
     text-align: left;
+    padding-left: 0.5em;
 }
 
-.schemaTable_right {
+.table>tbody>tr>td.schemaTable_right, .table>thead>tr>th.schemaTable_right, .schemaTable_right {
     text-align: right;
+    padding-right: 0.5em;
 }
 
 .editDist_0 {
@@ -61,14 +70,6 @@
 
 .navbar {
     margin-bottom: 3px;
-}
-
-.table td, .table th, .table>tbody>tr>td, .table>thead>tr>th {
-    padding: 0 1px;
-}
-
-.table > thead > tr > th {
-    border: none;
 }
 
 .pagination {
