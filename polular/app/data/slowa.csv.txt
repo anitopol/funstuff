@@ -819,3 +819,103 @@
 12;łuki;przekonywać;убеждать, уверять
 12;łuki;przekonać;убедить, уверить
 12;miasto;pozostać w domu;остаться дома
+13;relacje;relacje;отношения
+13;relacje;ciągle;постоянно, непрерывно
+13;relacje;pretensja;претензия
+13;relacje;pierścionek;кольцо, колечко, перстенек
+13;relacje;kolczyk;серьга, сережка
+13;relacje;bransoletka;браслет
+13;relacje;zazdrosny;ревнивый, завистливый
+13;relacje;na pewno;наверное, несомненно
+13;relacje;prawie;почти
+13;relacje;gospodyni domowa;домохозяйка
+13;relacje;rozwód;развод
+13;relacje;małżeństwo;брак, супружество
+13;relacje;udany;удачный, успешный
+13;relacje;w każdym razie;в любом случае
+13;relacje;majątek;имение, поместье
+13;relacje;grzech;грех
+13;relacje;dotychczas;до сих пор
+13;relacje;siły witalne;жизненные силы
+13;relacje;pomysłowość;находчивость, изобретательность
+13;relacje;państwowy;государственный
+13;relacje;wymagający wysiłku;требующий усилий
+13;relacje;kontrahent;партнер, контрагент
+13;relacje;przyzwolenie;позволение, разрешение
+13;relacje;obciążenie;нагрузка, тяжесть
+13;relacje;standard życiowy;жизненный уровень
+13;relacje;namowa;уговаривание
+13;relacje;pożyczka;заем, ссуда
+13;relacje;kredyt;кредит
+13;relacje;lokal;помещение
+13;relacje;podziw;изумление, восторг
+13;relacje;zrobić fortunę;заработать состояние
+13;relacje;wbrew;вопреки, наперекор
+13;relacje;nudzić się;скучать
+13;relacje;dobra materialne;материальные блага
+13;relacje;współżycie;сожительство
+13;relacje;nuda;скука
+13;relacje;zła sytuacja materialna;плохое материальное положение
+13;relacje;zrada;измена, предательство
+13;relacje;status społeczny;общественный статус
+13;relacje;niezgodność;несоответствие
+13;relacje;życie w pojedynkę;одинокая жизнь
+13;relacje;nałog;вредная привычка
+13;relacje;bez nałogów;без вредных привычек
+13;relacje;rozwódka;разведенная
+13;relacje;kulturalny;культурный
+13;relacje;druga połowa;вторая половина
+13;relacje;scenariusz;сценарий
+13;relacje;miłość;любовь
+13;relacje;niewierność;неверность
+13;relacje;całować się;целоваться
+13;relacje;przytulać;обнимать, давать приют
+13;relacje;mieć pretensje;предъявлять претензии
+13;relacje;wracać;возвращаться
+13;relacje;zazdrościć;ревновать, завидовать
+13;relacje;wyjść za mąż;выйти за муж
+13;relacje;zrobić doktorat;получить степень доктора
+13;relacje;wynająć mieszkanie;арендовать квартиру
+13;relacje;rzucić palenie;бросить курить
+13;relacje;poznać kogoś;познакомиться с кем-либо
+13;relacje;kumpel;приятель, дружок
+13;relacje;naprawdę;действительно
+13;relacje;kłocić się;ссориться
+13;relacje;spróbować;попытаться, попробовать
+13;relacje;ratować związek;спасать отношения
+13;relacje;w przeciwieństwe od;в отличие от
+13;relacje;pobrać się;вступить в брак
+13;relacje;rozstać się;расстаться
+13;relacje;zdobyć doświadczenie;получить опыт
+13;relacje;mieć zamiar;намереваться
+13;relacje;tego dość;довольно, хватит
+13;relacje;to nie ma sensu;это бессмысленно
+13;relacje;potrafić;сумечь, смочь
+13;relacje;zaakceptować;одобрить, принять
+13;relacje;zrywać stosunki;разрывать отношения
+13;relacje;podzielić na pół;поделить пополам
+13;relacje;wymieniać;обменивать
+13;relacje;przeżywać stres;переживать стресс
+13;relacje;upokarzać;унижать
+13;relacje;dopingować;подбодрять, поощрять
+13;relacje;doceniać;ценить
+13;relacje;rozkręcać;раскручивать, расплетать
+13;relacje;rozkręcać interes;раскручивать свое дело
+13;relacje;dyskontować;извлекать выгоду
+13;relacje;odchodzić;уходить
+13;relacje;słuchawki;наушники
+13;relacje;zbudować związek;построить отношения
+13;relacje;wychowywać;воспитывать
+13;relacje;rozwiązać problem;решить проблему
+13;relacje;być uzależnionym od;быть зависимым от
+13;relacje;być w rozpaczy;быть в отчаянии
+13;relacje;odbierać słuchawkę;отвечать на телеф. звонок
+13;relacje;zakochać się;влюбиться
+13;relacje;właściwie;как следует, собственно говоря
+13;relacje;słuchawka;телефонная трубка
+13;relacje;matrymonialny;брачный
+13;relacje;ogłoszenie matrymonialne;матримониальное объявление
+13;relacje;domowe ognisko;домашний очаг
+13;relacje;samotność;одиночество
+13;relacje;kawaler;холостяк
+13;relacje;rozwodnik;разведенный
