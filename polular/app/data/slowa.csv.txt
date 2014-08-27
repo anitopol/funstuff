@@ -1,0 +1,921 @@
+04;jadalne;sklep monopolowy;алкомагазин
+04;jadalne;pomarańcza;апельсин
+04;jadalne;banan;банан
+04;jadalne;puszka;банка
+04;jadalne;dania z drobiu;блюда из птицы
+04;jadalne;obarzanek;бублик
+04;jadalne;bułka;булка
+04;jadalne;rosół;бульон, рассол
+04;jadalne;butelka;бутылка
+04;jadalne;bochenek;буханка
+04;jadalne;w południe;в полдень
+04;jadalne;dania jarskie;вегетарианские блюда
+04;jadalne;wieczorem;вечером
+04;jadalne;zawsze;всегда
+04;jadalne;napoje gorące;горячие напитки
+04;jadalne;gruszka;груша
+04;jadalne;robić zakupy;делать покупки
+04;jadalne;pieniądze;деньги
+04;jadalne;tani;дешевый
+04;jadalne;jeść;есть, кушать
+04;jadalne;śniadanie;завтрак
+04;jadalne;jeść śniadanie;завтракать
+04;jadalne;kapusta;капуста
+04;jadalne;ziemniaki;карофель, картошка
+04;jadalne;frytki;картофель фри
+04;jadalne;kawiarnia;кафе, кофейня
+04;jadalne;klient;клиент, заказчик
+04;jadalne;cukiernia;кондитерская
+04;jadalne;kawa biała;кофе с молоком
+04;jadalne;kura w rosole;курица в бульоне
+04;jadalne;cytryna;лимон
+04;jadalne;cebula;лук
+04;jadalne;masło;масло (сливочное)
+04;jadalne;jadłospis;меню
+04;jadalne;menu;меню
+04;jadalne;karta;меню, карта
+04;jadalne;deka;мера веса 10г
+04;jadalne;dania mięsne;мясные блюда
+04;jadalne;obiad;обед
+04;jadalne;jarzyny;овощи
+04;jadalne;warzywa;овощи, зелень
+04;jadalne;ogórek;огурец
+04;jadalne;orzechowy;ореховый
+04;jadalne;dział;отдел
+04;jadalne;kelner;официант
+04;jadalne;reklamówka;пакет
+04;jadalne;herbatniki;печенье
+04;jadalne;ciastko;пирожное
+04;jadalne;płacić gotówką;платить наличными
+04;jadalne;pomidor;помидор
+04;jadalne;po południu;после обеда
+04;jadalne;pojutrze;послезавтра
+04;jadalne;artykuły spożywcze;продовольственные товары
+04;jadalne;sklep spożywczy;продовольственный магазин
+04;jadalne;zupa ogórkowa;рассольник
+04;jadalne;rzadko;редко
+04;jadalne;restauracja;ресторан
+04;jadalne;rogalik;рожок (булка)
+04;jadalne;dania z ryb;рыбные блюда
+04;jadalne;targ;рынок
+04;jadalne;cukier;сахар
+04;jadalne;reszta;сдача
+04;jadalne;dzisiaj;сегодня, полная форма
+04;jadalne;śmietana;сметана
+04;jadalne;sól;соль
+04;jadalne;zupa;суп
+04;jadalne;rachunek;счет
+04;jadalne;tort;торт
+04;jadalne;kolacja;ужин
+04;jadalne;rano;утром, рано
+04;jadalne;owoce;фрукты
+04;jadalne;chleb;хлеб
+04;jadalne;pieczywo;хлебопродукты
+04;jadalne;napoje zimne;холодные напитки
+04;jadalne;herbata;чай
+04;jadalne;coś do picia;что-то попить
+04;jadalne;jabłko;яблоко
+04x;łuki;znakomicie;замечательно
+04x;łuki;dopiero;лишь, только
+04x;łuki;dziś;сегодня, кратко
+05;jadalne;alkohol;алкоголь
+05;jadalne;pierogi;вареники, пироги
+05;jadalne;gotować;варить, кипятить
+05;jadalne;widelec;вилка
+05;jadalne;smak;вкус
+05;jadalne;smakowity;вкусный, аппетитный
+05;jadalne;ewentualne;возможно
+05;jadalne;boczek;грудинка
+05;jadalne;robić;делать
+05;jadalne;dodać;добавить 
+05;jadalne;dodać do smaku;добавить по вкусу
+05;jadalne;płyn;жидкость
+05;jadalne;ząbek czosnku;зубчик чеснока
+05;jadalne;rodzynki;изюм
+05;jadalne;garnek;кастрюля
+05;jadalne;kilo;кило
+05;jadalne;kilogram;килограмм
+05;jadalne;składniki;компоненты
+05;jadalne;wędliny;копчености
+05;jadalne;list laurowy;лавровый лист
+05;jadalne;smakołyk;лакомство
+05;jadalne;łyżeczka;ложечка
+05;jadalne;łyżka;ложка
+05;jadalne;drogeria;магазин бытовой химии
+05;jadalne;miód;мед
+05;jadalne;nabiał;молокопродукты
+05;jadalne;marchewka;морковка
+05;jadalne;lody;мороженное
+05;jadalne;mąka;мука
+05;jadalne;gotówka;наличные деньги
+05;jadalne;pokroić w kostkę;нарезать кубиками
+05;jadalne;kilka;несколько
+05;jadalne;nóż;нож
+05;jadalne;opłukiwać;ополаскивать
+05;jadalne;orzechy;орехи
+05;jadalne;wystygnięcie;остывание
+05;jadalne;wystygnąć;остыть
+05;jadalne;mailować;отправлять имейл
+05;jadalne;wymieszać;перемешать
+05;jadalne;pieprz;перец
+05;jadalne;pić;пить
+05;jadalne;płacić;платить
+05;jadalne;podsmażyć;поджарить, подрумянить
+05;jadalne;kupować;покупать
+05;jadalne;woleć;предпочитать
+05;jadalne;przygotowanie;приготовление
+05;jadalne;przyjmować gości;принимать гостей
+05;jadalne;doprawiać solą;приправлять солью
+05;jadalne;ekspedient;продавец
+05;jadalne;kawa rozpuszczalna;растворимый кофе
+05;jadalne;olej;растительное масло
+05;jadalne;postanowić;решить
+05;jadalne;kieliszek;рюмка
+05;jadalne;serwetka;салфетка
+05;jadalne;burak;свекла
+05;jadalne;wieprzowina;свинина
+05;jadalne;zastawiać stół;сервировать стол
+05;jadalne;nakrywać do stołu;сервировать стол (накрывать)
+05;jadalne;patelnia;сковородка
+05;jadalne;ile kosztuje;сколько стоит?
+05;jadalne;śmietanka;сливки
+05;jadalne;parówka;сосиска
+05;jadalne;lista zakupów;список покупок
+05;jadalne;szklanka;стакан
+05;jadalne;kosztować;стоить
+05;jadalne;burak jadalny;столовая свекла
+05;jadalne;sztuciec stołowy;столовый прибор
+05;jadalne;cielęcina;телятина
+05;jadalne;łyżeczka do herbaty;чайная ложечка
+05;jadalne;filiżanka;чашка
+05;jadalne;czekolada;шоколад
+06;odzież;promocja;акция
+06;odzież;apteka;аптека
+06;odzież;biały;белый
+06;odzież;bluzka;блузка, кофточка
+06;odzież;duży;большой, крупный
+06;odzież;buty;ботинки, сапоги
+06;odzież;spodnie;брюки, штаны
+06;odzież;butelka;бутылка
+06;odzież;krawat;галстук
+06;odzież;niebieski;голубой, светло-синий
+06;odzież;tani;дешевый
+06;odzież;spodnie dżinsowe;джинсы
+06;odzież;długi;долгий, длинный
+06;odzież;drogi;дорогой
+06;odzież;żakiet;жакет, пиджак
+06;odzież;żółty;желтый
+06;odzież;kostium damski;женский костюм
+06;odzież;zielony;зеленый
+06;odzież;kilogram;килограм
+06;odzież;księgarnia;книжный магазин
+06;odzież;komplement;комплимент
+06;odzież;brązowy;коричневый
+06;odzież;brunatny;коричневый, бурый
+06;odzież;krótki;короткий, краткий
+06;odzież;garnitur;костюм (мужской)
+06;odzież;czerwony;красный
+06;odzież;kurtka;куртка
+06;odzież;kawałek;кусок, кусочек
+06;odzież;sklep odzieżowy;магазин одежды
+06;odzież;podkoszulek;майка, нижняя рубашка
+06;odzież;mały;маленький, небольшой
+06;odzież;obuwie;обувь
+06;odzież;odzież;одежда
+06;odzież;ubranie;одежда
+06;odzież;optyk;оптика
+06;odzież;pomarańczowy;оранжевый
+06;odzież;paczka;пачка, стопка, пакет, сверток
+06;odzież;marynarka;пиджак, флот
+06;odzież;sukienka;платье
+06;odzież;klientka;покупательница, клиентка
+06;odzież;sprzedawca;продавец
+06;odzież;sklep spożywczy;продовольсвенный магазин
+06;odzież;koszula;рубашка
+06;odzież;sweter;свитер, шерстяная кофта
+06;odzież;wąski;узкий, тесный
+06;odzież;kwiaciarnia;цветочный магазин
+06;odzież;czarny;черный
+06;odzież;szeroki;широкий
+06;odzież;spódnica;юбка
+07;idiom;czarna owca;белая ворона
+07;wakacje;chorować;болеть
+07;wakacje;Narodowe święto Niepodległości;гос прадзн Независимости
+07;wakacje;pieniądze;деньги
+07;odzież;ubrania dla dzieci;детская одежда
+07;łuki;czekać;ждать
+07;łuki;zapomnieć;забыть
+07;odzież;szukać;искать
+07;wakacje;wakacje;каникулы
+07;wakacje;ferie;каникулы
+07;odzież;rajstopy;колготки
+07;idiom;czerwony jak burak;красный как рак
+07;wakacje;leżeć;лежать
+07;wakacje;wykład;лекция
+07;odzież;prać chemicznie;машинная стирка
+07;odzież;nie chlorować;не хлорировать
+07;wakacje;niepodległość;независимость
+07;wakacje;Nowy Rok;новый год
+07;odzież;nosić;носить
+07;wakacje;spóźniać się;опаздывать
+07;wakacje;urlop;отпуск
+07;odzież;fascynacja;очарование, обаяние
+07;wakacje;Wielkanoc;пасха
+07;wakacje;pozdrawiać;передавать привет
+07;wakacje;pisać;писать
+07;odzież;kupować;покупить
+07;odzież;pamiętać;помнить
+07;wakacje;rewelacyjny;поразительный
+07;wakacje;proponować;предлагать
+07;odzież;przymierzalnia;примерочная
+07;odzież;przymierzać;примерять
+07;wakacje;spacer;прогулка
+07;odzież;sprzedawać;продавать
+07;odzież;ekspedient;продавец
+07;odzież;rozmiar;размер, величина, формат
+07;łuki;dawniej;ранее, прежде
+07;wakacje;relaksować się;расслабляться
+07;wakacje;Boże Narodzenie;Рождество
+07;odzież;prać ręcznie;ручная стирка
+07;odzież;sandały;сандалии
+07;łuki;poważnie;серьезно, всерьез
+07;odzież;prać w temperaturze;стирать в температуре
+07;łuki;gubić;терять
+07;odzież;tramwaj;трамвай
+07;odzież;lekcja;урок
+07;wakacje;rok akademicki;учебный год
+07;wakacje;chodzić pieszo;ходить пешком
+07;wakacje;czuć się;чувствовать себя
+07;idiom;jasne jak słońce;ясно как божий день
+08;sport;lodowisko;каток
+08;sport;skocznia;трамплин
+08;sport;boisko;площадка
+08;sport;sala gimnastyczna;гимнастический зал
+08;sport;kort;корт
+08;sport;łyżwiarstwo;конькобежный спорт
+08;sport;maraton;марафон
+08;sport;piłka nożna;футбол
+08;sport;piłka;мяч
+08;sport;piłkarz;футболист
+08;sport;pływanie;плаванье
+08;sport;medal;медаль
+08;sport;tenis;теннис
+08;sport;gimnastyka artystyczna;худож. гимнастика
+08;sport;jeździć konno;ездить верхом
+08;sport;zająć pierwsze miejsce;занять первое место
+08;sport;zdobyć medal;завоевать медаль
+08;sport;pobić rekord;побить рекорд
+08;sport;wygrać medal;завоевать медаль
+08;sport;środki dopingujące;допинг
+08;sport;lekkoatleta;легкоатлет
+08;sport;wyścigi samochodowe;автогонки
+08;sport;żeglarstwo;парусный спорт
+08;sport;koszykówka;баскетбол
+08;sport;kolarstwo;велоспорт
+08;sport;bieg;бег
+08;sport;łyżwiarstwo figurowe;фигурное катание
+08;sport;sztafeta;эстафета
+08;sport;boks;бокс
+08;sport;narciarstwo;лыжный спорт
+08;sport;uprawiać sport;заниматься спортом
+08;sport;sportowca;спортсмен
+08;sport;mięśnie;мыщцы
+08;sport;wędkarz;рыболов
+08;sport;silna wola;сильная воля
+08;sport;wytrzymałość;выносливость
+08;sport;rywalizacja;соперничество
+08;sport;samodyscyplina;самодисциплина
+08;sport;drużyna;команда
+08;sport;strzelić gola;забить гол
+08;sport;gracz;игрок
+08;sport;kraul;кроль
+08;sport;delfin;дельфин
+08;sport;żabka;брасс
+08;sport;rakieta;ракетка
+08;sport;skakać;скакать
+08;sport;zawodnik;спортсмен
+08;sport;brać udział;принимать участие
+08;sport;mistrz świata;чемпион мира
+08;sport;wygrywać;выигрывать
+08;sport;wygrać;выиграть
+08;sport;przegrywać;проигрывать
+08;sport;przegrać;проиграть
+08;sport;wynik gry;результат игры
+08;sport;wynik meczu;результат матча
+08;sport;kibic;болельщик
+08;sport;zwyciężać;побеждать
+08;sport;zwyciężyć;победить
+08;sport;mistrzostwa świata;чемпионат мира
+08;sport;robić ćwiczenia;делать упражения
+08;sport;stadion;стадион
+08;sport;wędkarstwo;рыбная ловля
+08;sport;park wodny;аквапарк
+08;sport;centrum SPA;СПА центр
+08;sport;sklep sportowy;спортивный магазин
+08;sport;relaks;разрядка, отдых
+08;sport;odnowa;обновление
+08;sport;mistrzynia świata;чемпионка мира
+08;sport;trener;тренер
+08;sport;rekordzistka świata;рекордсменка мира
+08;sport;pływak;пловец
+08;sport;zdobyć tytuł;получить титул
+08;sport;wyścigi ;гонки
+08;sport;wygrać wyścig;победить в соревнованиях
+08;sport;styl motylkowy;стиль баттерфляй
+08;sport;korty tenisowe;теннисные корты
+08;sport;dżokej;жокей
+08;sport;puchar;кубок
+08;sport;biliard;бильярд
+08;sport;aquarobik;аквааэробика
+08;sport;wspinaczka;альпинизм
+08;sport;wspinać się;восходить 
+08;sport;skoczek;прыгун
+08;sport;puchar świata;Кубок мира
+08;sport;wystartować;стартовать
+08;sport;biegać;бегун
+08;sport;dystans;дистанция
+08;sport;Igrzyska Olimpijskie;Олимпийские игры
+08;sport;osiągać;достигать
+08;sport;pięciobój;пятиборье
+08;sport;pochodnia;факел
+08;sport;rzut;бросок
+08;sport;skok w dal;прыжок в длину
+08;sport;skupiony;сосредоточенный
+08;sport;trofeum;трофей
+08;sport;trzykrotny;трехкратный
+08;sport;zwycięstwo;победа
+08;sport;zwycięzca;победить
+08;sport;lekkoatletyka;легкая атлетика
+08;sport;tenis stołowy;настольный теннис
+08;sport;kajakarstwo;бейсбол
+08;sport;jeździectwo;борьба
+08;sport;szermierka;фехтование
+08;sport;mistrzostwo;чемпионат
+08;sport;wywalczyć;завоевывать
+08;sport;z rzędu;подряд
+08;sport;skocznia narciarska;лыжный трамплин
+08;sport;siłownia;тренажерный зал
+08;sport;mistrz sportu;мастер спорта
+08;zdrowie;dostać katar;схватить насморк
+08;zdrowie;paznokieć;ноготь
+08;zdrowie;paznokcie;ногти
+08;zdrowie;głowa;голова
+08;zdrowie;plecy;спина
+08;zdrowie;ramię;плечо
+08;zdrowie;ramiona;плечи
+08;zdrowie;nos;нос
+08;zdrowie;ucho;ухо
+08;zdrowie;uczy;уши
+08;zdrowie;ząb;зуб
+08;zdrowie;zęby;зубы
+08;zdrowie;usta;губы
+08;zdrowie;rzęsa;ресница
+08;zdrowie;rzęsy;ресницы
+08;zdrowie;pierś;грудь
+08;zdrowie;kolano;колено
+08;zdrowie;brzuch;живот
+08;zdrowie;stopa;стопа
+08;zdrowie;palec;палец
+08;zdrowie;palce;пальцы
+08;zdrowie;dolegać;беспокоить
+08;zdrowie;co panu dolega;что вас беспокоит
+08;zdrowie;rozbierać się;раздеваться
+08;zdrowie;badać chorego;осматривать больного
+08;zdrowie;gorączka;повышенная температура
+08;zdrowie;katar;насморк
+08;zdrowie;kaszel;кашель
+08;zdrowie;recepta;рецепт
+08;zdrowie;lekarstwo;лекарство
+08;zdrowie;mieć dreszcze;знобить
+08;zdrowie;nadwaga;лишний вес
+08;zdrowie;stosować diety;сидеть на диете
+08;zdrowie;schudnąć;похудеть
+08;zdrowie;pigułka; пилюля
+08;zdrowie;brać antybiotyku;принимать антибиотик
+08;zdrowie;pacjent;пациент
+08;zdrowie;ból;боль
+08;zdrowie;brać leki;принимать лекарства
+08;zdrowie;czuć się;чувстовать себя
+08;zdrowie;dolegać;беспокоить
+08;zdrowie;dziennie;ежедневно
+08;zdrowie;gardło;горло
+08;zdrowie;gorzej;хуже
+08;zdrowie;internista;терапевт
+08;zdrowie;kaszleć;кашлять
+08;zdrowie;objaw;симптом
+08;zdrowie;symptom;симптом
+08;zdrowie;oddychać;дышать
+08;zdrowie;otworzyć;открыть
+08;zdrowie;środek przeciwbólowy;болеутоляющее средство
+08;zdrowie;stopień;градус
+08;zdrowie;zabieg;процедура
+08;zdrowie;zapisywać receptę;выписывать рецепт
+08;zdrowie;zastrzyk;укол
+08;zdrowie;przychodnia;поликлиника
+08;zdrowie;dolegliwość;недуг
+08;zdrowie;pogotowanie;скорая помощь
+08;zdrowie;karetka pogotowania;скорая помощь
+08;zdrowie;choroba;болезнь
+08;zdrowie;boleć;болеть
+08;zdrowie;niepokoić;беспокоить
+08;charakter;energiczny;энергичный
+08;charakter;inteligentny;интеллигентный
+08;charakter;dynamiczny;динамичный
+08;charakter;ciekawy;интересный
+08;charakter;otwarty;открытый
+08;charakter;interesujący;интересный
+08;charakter;ambitny;самолюбивый
+08;charakter;pracowity;трудолюбивый
+08;charakter;towarzyski;общительный
+08;charakter;oryginalny;оригинальный
+08;charakter;wesoły;веселый
+08;charakter;spontaniczny;спонтанный
+08;charakter;wrażliwy;восприимчивый
+08;charakter;niezależny;независимый
+08;charakter;odważny;смелый
+08;charakter;zdecydowany;решительный
+08;charakter;zabawny;забавный
+08;charakter;śmieszny;смешной
+08;charakter;spokojny;спокойный
+08;charakter;dobrze organizowany;организованный
+08;charakter;głupi;глупый
+08;charakter;głupia;глупая
+08;charakter;powolny;медленный
+08;charakter;nieśmiały;робкий
+08;charakter;zarozumiały;самонадеянный
+08;charakter;arogancki;наглый
+08;charakter;zamknięty w sobie;замкнутый
+08;charakter;nudny;скучный
+08;charakter;nieciekawy;неинтересный
+08;charakter;leniwy;ленивый
+08;charakter;nietowarzyski;нелюдимый
+08;charakter;niesympatyczny;несимпатичный
+08;charakter;smutny;грустный
+08;charakter;przeciętny;посредственный
+08;charakter;niewrażliwy;невосприимчивый
+08;charakter;zależny;зависимый
+08;charakter;rozsądny;благоразумный
+08;charakter;poważny;серьезный
+08;charakter;nerwowy;нервный
+08;charakter;roztrzepany;невнимательный, рассеянный
+08;charakter;uprzejmy;вежливый
+08;charakter;kontrowersyjny;спорный
+08;charakter;dokładny;аккуратный
+08;charakter;tolerancyjny;терпимый
+08;charakter;depresyjny;депрессивный
+08;charakter;zadowolony;довольный
+08;charakter;uczciwy;добросовестный
+09;charakter;cyniczny;циничный
+09;charakter;charyzmatyczny;харизматичный
+09;charakter;solidny;серьезный
+09;charakter;konfliktowy;конфликтный
+09;charakter;monotonny;монотонный
+09;charakter;niedoświadczony;неопытный
+09;charakter;niebanalny;нешаблонный
+09;charakter;dystyngowany;благовоспитанный
+09;praca;status społeczny;общественный статус
+09;praca;konsument;потребитель
+09;praca;edukacja;образование
+09;praca;odżywać się;питаться
+09;praca;prezenter;ведущий
+09;praca;przypadkowo;случайно
+09;praca;zatrudniać;давать работу
+09;praca;zatrudniać się;наниматься на работу
+09;praca;zanim;прежде чем, до того как
+09;praca;kojarzyć się;сочетаться, ассоциироваться
+09;praca;pasować;подходить
+09;praca;naprawdę;действительно
+09;praca;inspiracja;вдохновение
+09;praca;inspirować;вдохновлять
+09;praca;zdarzać;случаться
+09;praca;gwarantować;гарантировать
+09;praca;ponieważ;потому что
+09;praca;zarabiać;зарабатывать
+09;praca;kwestia;вопрос
+09;praca;cieszyć się;радоваться
+09;praca;zrezygnować się z;отказаться от
+09;praca;uważać;обращать внимание
+09;praca;podejrzany;подозреваемый
+09;praca;uzasadniać;обосновывать
+09;praca;podejrzewać o coś;подозревать в чем-то
+09;praca;zdefraudować;растратить
+09;praca;zdefraudowanie;растрата
+09;praca;proponować;предлагать
+09;praca;gadać;болтать, говорить
+09;praca;dostać;получить
+09;praca;akceptować;одобрять
+09;praca;być ciekawym świata;интересоваться миром
+09;praca;osiągać cel;достичь цели
+09;praca;mieć dobrzy gust;иметь хороший вкус
+09;praca;osiągać sukcesu;добиться успеха
+09;praca;mieć rację;быть правым
+09;praca;zgadać się;соглашаться
+09;praca;denerwować;раздражать, нервировать
+09;praca;krytykować;критиковать
+09;praca;irytować;сердить, раздражать, злить
+10;praca;aplikujący;кандидат
+10;praca;atut;козырь, сильная сторона
+10;praca;branża;отрасль
+10;praca;cechy charakteru;черты характера
+10;praca;doświadczenie zawodowe;профессиональный опыт
+10;praca;dział kadr;отдел кадров
+10;praca;dziedzina;область, отрасль
+10;praca;edukacja;образование
+10;praca;frustracja;раздраженность
+10;praca;głównie;главным образом
+10;praca;kandydat;кандидат
+10;praca;kwalifikacja;квалификация
+10;praca;list motywacyjny;сопроводительное письмо
+10;praca;mimo to;несмотря на это
+10;praca;negocjacje;переговоры
+10;praca;niezbędny;необходимый
+10;praca;obszar;пространство
+10;praca;oczekiwanie;ожидание, предположение
+10;praca;ogłoszenie;объявление
+10;praca;opinia;мнение
+10;praca;osiągnięcie;достижение
+10;praca;pierwsze wrażenie;первое впечатление
+10;praca;podanie o pracę;заявление на работу
+10;praca;podchwytliwy;каверзный
+10;praca;poprawa;улучшение
+10;praca;posada;положение
+10;praca;pracodawca;работодатель
+10;praca;pracownik;работник
+10;praca;predyspozycja;склонность
+10;praca;przydatny;пригодный, полезный
+10;praca;rozmowa kwalifikacyjna;собеседование
+10;praca;samoocena;самооценка
+10;praca;stanowisko;должность
+10;praca;sytuacja stresująca;стрессовая ситуация
+10;praca;sztywny;жесткий
+10;praca;treść;содержание
+10;praca;umiejętności;умения
+10;praca;uzyskiwać;получать
+10;praca;w rzeczywistości;в действительности
+10;praca;warunek;условие
+10;praca;wizerunek;образ
+10;praca;wnikliwy;вдумчивый
+10;praca;wprawdzie;по правде говоря
+10;praca;wykształcenie;образование
+10;praca;wynagrodzenie;плата, вознагрождение
+10;praca;podchwytliwe pytanie;каверзный вопрос
+10;praca;wypowiedź;заявление, высказывание
+10;praca;z pozoru;с виду, на вид
+10;praca;zarobki;заработки
+10;praca;zdolność;способность
+10;praca;dysponować;располагать чем-то
+10;praca;życiorys;биография
+10;praca;bezrobocie;безработица
+10;praca;bezrobotny;безработный
+10;praca;codzienny;ежедневно
+10;praca;czas pracy;рабочее время
+10;praca;dyplom;диплом
+10;praca;dziennie;ежедневно
+10;praca;emerytura;пенсия
+10;praca;etat;штат
+10;praca;istotny;важный, основной
+10;praca;koledzy z pracy;коллеги по работе
+10;praca;konsekwencje;последствия
+10;praca;łatwy;легкий
+10;praca;zatrudniać się;трудоустраиваться
+10;praca;minimum socjalne;прожиточный минимум
+10;praca;obojętny;безразличный
+10;praca;odpowiedzialny;ответственный
+10;praca;oferta pracy;предложение о работе
+10;praca;pasja;страсть
+10;praca;pensja;зарплата
+10;praca;poszukiwać;искать
+10;praca;praca na etacie;работа в штате
+10;praca;praktyka;практика
+10;praca;prawo jazdy;водительские права
+10;praca;premia;премия
+10;praca;prestiżowy;престижный
+10;praca;prezes;председатель, глава
+10;praca;programista;программист
+10;praca;referencje;рекомендации
+10;praca;robotnik;работник
+10;praca;rozmówca;собеседник
+10;praca;rozwiązanie;решение
+10;praca;rozwiązać;решить
+10;praca;samodzielność;самостоятельность
+10;praca;satysfakcja;удовлетворение
+10;praca;stresować;вызывать стресс
+10;praca;szef;шеф
+10;praca;średnia krajowa;средняя зарплата
+10;praca;ubezpieczenie;страховка
+10;praca;umysłowy;умственный
+10;praca;urlop;отпуск
+10;praca;wada;недостаток
+10;praca;warunki pracy;условия работы
+10;praca;ważny;важный
+10;praca;wykonywanie;выполнение
+10;praca;wymagania;требования
+10;praca;wytłumaczyć;объяснить
+10;praca;zakładać;учреждать
+10;praca;zaleta;достоинство
+10;praca;zarząd;управление
+10;praca;zaufanie;доверие
+10;praca;zawodowy;профессиональный
+10;praca;zawód;профессия
+10;praca;zostać;стать
+10;praca;zrobić karierę;сделать карьеру
+10;praca;kontrolować;контролировать
+10;praca;kończyć pracę;закончить работу
+10;praca;motywować;мотивировать
+10;praca;napędzać;подгонять
+10;praca;nastawiać się pozytywnie;настроиться позитивно
+10;praca;nawiązać kontakt;установить контакт
+10;praca;negocjować;вести переговоры
+10;praca;obserwować kogoś;наблюдать за кем-то
+10;praca;odchodzić na emeryturę;уходить на пенсию
+10;praca;panikować;паниковать
+10;praca;pasjonować się;увлекаться
+10;praca;podejmować decyzję;принимать решение
+10;praca;podjąć pracę;начать работу
+10;praca;podkreślać atuty;подчеркивать плюсы
+10;praca;podziękować;поблагодарить
+10;praca;posługiwać się;пользоваться чем-либо
+10;praca;powołać się na;сослаться на
+10;praca;pracować na własny rachunek;работать на себя
+10;praca;prowadzić;вести, управлять
+10;praca;prowadzić rozmowę;вести разговор
+10;praca;przeszkadzać;мешать
+10;praca;przygotowywać;подготавливать
+10;praca;przykuć uwagę;привлечь внимание
+10;praca;radzić sobie;справляться
+10;praca;rekruter;наемщик
+10;praca;skupić się;сосредоточиться
+10;praca;spodziewać się;ожидать
+10;praca;spóźniać  się;опаздывать
+10;praca;sprawdzać;проверять
+10;praca;sprawdzić;проверить
+10;praca;sprecyzować;уточнить
+10;praca;ubiegać się o stanowisko;претендовать на должность
+10;praca;ufać;доверять
+10;praca;ułatwiać;облегчать
+10;praca;utrudniać;затруднять
+10;praca;uzasadniać;обосновывать
+10;praca;uzasadnić;обосновать
+10;praca;uzyskać;получить, добиться
+10;praca;wyciszyć;приглушить
+10;praca;wydarzyć się;произойти
+10;praca;wykonywać;выполнять
+10;praca;wyrazić;выразить, высказывать
+10;praca;zachować spokój;сохранять спокойствие
+10;praca;zaczynać pracę;начинать работу
+10;praca;zaoferować;предложить
+10;praca;zarabiać;зарабатывать
+10;praca;zastanawiać się;размышлять
+10;praca;zatrudniać;давать работу кому-либо
+10;praca;zdarzać się;случаться
+10;praca;zdradzać;предавать
+10;praca;zebrać myśli;собраться с мыслями
+10;praca;zgadać się;соглашаться
+10;praca;znaleźć chwilę;найти минутку
+10;praca;zrobić dobre wrażenie;произвести хорошее впечатление
+10;praca;zwalniać;увольнять
+11;łuki;ponieważ;потому что, так как, ибо
+11;miasto;skrzyżowanie;перекресток
+11;miasto;tutejszy;здешний
+11;miasto;przychodnia;поликлиника
+11;miasto;msza;месса, литургия
+11;miasto;szatnia;гардероб, раздевалка
+11;łuki;zdecydowanie;решимость
+11;łuki;woleć;предпочитать
+11;miasto;przyjeżdżać;приезжать
+11;miasto;pozostać;остаться
+11;praca;uczelnia;учебное заведение
+11;praca;bezrobocie;безработица
+11;praca;instytucja;учреждение
+11;praca;absolwent;выпускник
+11;odzież;wyprzedaż;распродажа
+11;odzież;promocja;акция, продвижение
+11;praca;skończyć studia;закочить учебу
+11;łuki;tutaj;здесь, тут
+11;miasto;wyjść;выйти, уйти
+11;łuki;gdzieś;где-то, приблизительно
+11;miasto;kawalerka;однокомнатная квартира
+11;miasto;wynajem;наем, прокат
+11;łuki;przekonać;убежить, уверить
+11;miasto;blisko czegoś;рядом с чем-то
+11;miasto;nowoczesny;современный
+11;miasto;okolica;окрестность, район
+11;miasto;w okolicy;в окрестности
+11;przyroda;szczyt;вершина, верхушка
+11;miasto;wieżowiec;высотное здание
+11;miasto;mieszkaniec;житель
+11;miasto;przemysł;промышленность
+11;miasto;ośrodek;центр
+11;łuki;ponadto;кроме того
+11;miasto;targ;рынок, базар
+11;miasto;koncentrować się;сосредотачиваться
+11;miasto;zabudowa;застройка
+11;miasto;sanktuarium;святилище, святая святых
+11;miasto;handel;торговля
+11;miasto;handlowy;торговый
+11;miasto;zamek;замок
+11;miasto;katedra;кафедральный собор
+11;miasto;zakład;предприятие
+11;miasto;przejście dla pieszych;пешеходный переход
+11;miasto;rondo;поля шляпы, круговая развязка
+11;miasto;przeprowadzka;переезд, пересечение
+11;miasto;metropolia;метрополия
+11;charakter;doskonały;превосходный
+11;charakter;uciążliwy;мучительный
+11;łuki;dogodny moment;удобный момент
+11;miasto;wystrzelić;выстрелить
+11;łuki;kilkanaście;несколько сотен
+11;łuki;przeciętny;посредственный
+11;odzież;wydatek;расход, издержка
+11;łuki;kilkakrotnie;несколько раз
+11;jadalne;żywność;пища, продовольствие
+11;wieś;rolnik;аграрий, земледелец
+11;wieś;gospodarstwo rolne;сельское хозяйство
+11;wieś;ingerować w czyjeś sprawy;вмешиваться в чьи-то дела
+11;wieś;zboże;зерно, хлеба
+11;wieś;sad;фруктовый сад
+11;wieś;łąka;луг
+11;wieś;paść się;пастись
+11;wieś;krowa;корова
+11;wieś;zbierać grzyby;собирать грибы
+11;charakter;cudowny;чудесный
+11;wieś;ptak;птица
+11;wieś;wypoczywać;отдыхать
+11;wieś;świeże powietrze;свежий воздух
+11;łuki;potrzeba;потребность, нужда
+11;łuki;potrzebować;нуждаться
+11;łuki;alarmować;сигнализировать
+12;zdrowie;cierpieć na coś;страдать, болеть чем-то
+12;zdrowie;drogi oddechowe;дыхательные пути
+12;charakter;brutalny;грубый, жестокий
+12;charakter;czysty;чистый
+12;charakter;przyjazny;дружественный
+12;wieś;łono przyrody;лоно природы
+12;łuki;z jakich powodów;по каким причинам
+12;łuki;chętnie;охотно, с удовольствием
+12;łuki;moim zdaniem;по моему мнению
+12;łuki;jestem przekonany, że;я уверен что
+12;łuki;podsumowując;подводя итоги
+12;łuki;ponieważ;потому что, так как
+12;łuki;dlatego, że;потому что
+12;miasto;segregować śmieci;сортировать мусор
+12;charakter;koszmar;кошмар
+12;łuki;namawiać;уговаривать, убеждать
+12;łuki;namówić;уговорить, убедить
+12;idiom;uparty jak osioł;упрямый как осел
+12;idiom;zdrowy jak ryba;здоров как вол
+12;idiom;silny jak koń;сильный как лев
+12;idiom;pracowity jak mrówka;трудолюбивый как пчелка
+12;idiom;wierny jak pies;преданный как собака
+12;wieś;zwierzę;животное
+12;wieś;zwierzęta;животные
+12;łuki;rzadkość;редкость
+12;wieś;chomik;хомяк
+12;wieś;królik;кролик
+12;wieś;żółw;черепаха
+12;praca;zastąpiać;заменять
+12;praca;zastąpić;заменить, заместить
+12;łuki;w najlepszym gatunku;высшего сорта
+12;łuki;w zgodzie z;в согласии с
+12;łuki;deklarować;заявить
+12;łuki;zgadzać;договариваться
+12;miasto;ogród zoologiczny;зоопарк
+12;charakter;zwolennik;сторонник
+12;charakter;przeciwnik;противник
+12;charakter;walka;борьба, бой
+12;wieś;pożywienie;пропитание, пища
+12;charakter;męczyć się;мучиться
+12;praca;zaburzenie;нарушение
+12;praca;zaburzyć;нарушить
+12;praca;gatunek;род, вид
+12;praca;ingerować w czyjeś sprawy;вмешиваться в чьи-то дела
+12;miasto;teren;территория
+12;miasto;na terenie;на территории
+12;praca;ratunek;помощь, спасение
+12;praca;ratować;спасать
+12;praca;ingerencja;вмешательство
+12;praca;zmęczenie;усталость
+12;praca;działalność;деятельность
+12;wieś;wielbłąd;верблюд
+12;wieś;słoń;слон
+12;wieś;żubr;зубр
+12;wieś;rosnąć;расти
+12;zdrowie;spadek;наследство
+12;łuki;ze względu na;принимая во внимание
+12;praca;walory;достоинство
+12;praca;poziom;уровень
+12;łuki;rozpoczynać;начинать
+12;łuki;rozpocząć;начать
+12;charakter;wykup;выкуп
+12;miasto;środki;средства
+12;miasto;hamować;тормозить, задерживать
+12;miasto;zahamować;затормозить
+12;miasto;strefa;зона, полоса
+12;charakter;zmienić się zdecydowanie;кардинально измениться
+12;miasto;zabudować;застроить
+12;charakter;dokuczliwy;мучительный
+12;miasto;segregować;сортировать
+12;charakter;walczyć się;бороться
+12;łuki;przekonywać;убеждать, уверять
+12;łuki;przekonać;убедить, уверить
+12;miasto;pozostać w domu;остаться дома
+13;relacje;relacje;отношения
+13;relacje;ciągle;постоянно, непрерывно
+13;relacje;pretensja;претензия
+13;relacje;pierścionek;кольцо, колечко, перстенек
+13;relacje;kolczyk;серьга, сережка
+13;relacje;bransoletka;браслет
+13;relacje;zazdrosny;ревнивый, завистливый
+13;relacje;na pewno;наверное, несомненно
+13;relacje;prawie;почти
+13;relacje;gospodyni domowa;домохозяйка
+13;relacje;rozwód;развод
+13;relacje;małżeństwo;брак, супружество
+13;relacje;udany;удачный, успешный
+13;relacje;w każdym razie;в любом случае
+13;relacje;majątek;имение, поместье
+13;relacje;grzech;грех
+13;relacje;dotychczas;до сих пор
+13;relacje;siły witalne;жизненные силы
+13;relacje;pomysłowość;находчивость, изобретательность
+13;relacje;państwowy;государственный
+13;relacje;wymagający wysiłku;требующий усилий
+13;relacje;kontrahent;партнер, контрагент
+13;relacje;przyzwolenie;позволение, разрешение
+13;relacje;obciążenie;нагрузка, тяжесть
+13;relacje;standard życiowy;жизненный уровень
+13;relacje;namowa;уговаривание
+13;relacje;pożyczka;заем, ссуда
+13;relacje;kredyt;кредит
+13;relacje;lokal;помещение
+13;relacje;podziw;изумление, восторг
+13;relacje;zrobić fortunę;заработать состояние
+13;relacje;wbrew;вопреки, наперекор
+13;relacje;nudzić się;скучать
+13;relacje;dobra materialne;материальные блага
+13;relacje;współżycie;сожительство
+13;relacje;nuda;скука
+13;relacje;zła sytuacja materialna;плохое материальное положение
+13;relacje;zrada;измена, предательство
+13;relacje;status społeczny;общественный статус
+13;relacje;niezgodność;несоответствие
+13;relacje;życie w pojedynkę;одинокая жизнь
+13;relacje;nałog;вредная привычка
+13;relacje;bez nałogów;без вредных привычек
+13;relacje;rozwódka;разведенная
+13;relacje;kulturalny;культурный
+13;relacje;druga połowa;вторая половина
+13;relacje;scenariusz;сценарий
+13;relacje;miłość;любовь
+13;relacje;niewierność;неверность
+13;relacje;całować się;целоваться
+13;relacje;przytulać;обнимать, давать приют
+13;relacje;mieć pretensje;предъявлять претензии
+13;relacje;wracać;возвращаться
+13;relacje;zazdrościć;ревновать, завидовать
+13;relacje;wyjść za mąż;выйти за муж
+13;relacje;zrobić doktorat;получить степень доктора
+13;relacje;wynająć mieszkanie;арендовать квартиру
+13;relacje;rzucić palenie;бросить курить
+13;relacje;poznać kogoś;познакомиться с кем-либо
+13;relacje;kumpel;приятель, дружок
+13;relacje;naprawdę;действительно
+13;relacje;kłocić się;ссориться
+13;relacje;spróbować;попытаться, попробовать
+13;relacje;ratować związek;спасать отношения
+13;relacje;w przeciwieństwe od;в отличие от
+13;relacje;pobrać się;вступить в брак
+13;relacje;rozstać się;расстаться
+13;relacje;zdobyć doświadczenie;получить опыт
+13;relacje;mieć zamiar;намереваться
+13;relacje;tego dość;довольно, хватит
+13;relacje;to nie ma sensu;это бессмысленно
+13;relacje;potrafić;сумечь, смочь
+13;relacje;zaakceptować;одобрить, принять
+13;relacje;zrywać stosunki;разрывать отношения
+13;relacje;podzielić na pół;поделить пополам
+13;relacje;wymieniać;обменивать
+13;relacje;przeżywać stres;переживать стресс
+13;relacje;upokarzać;унижать
+13;relacje;dopingować;подбодрять, поощрять
+13;relacje;doceniać;ценить
+13;relacje;rozkręcać;раскручивать, расплетать
+13;relacje;rozkręcać interes;раскручивать свое дело
+13;relacje;dyskontować;извлекать выгоду
+13;relacje;odchodzić;уходить
+13;relacje;słuchawki;наушники
+13;relacje;zbudować związek;построить отношения
+13;relacje;wychowywać;воспитывать
+13;relacje;rozwiązać problem;решить проблему
+13;relacje;być uzależnionym od;быть зависимым от
+13;relacje;być w rozpaczy;быть в отчаянии
+13;relacje;odbierać słuchawkę;отвечать на телеф. звонок
+13;relacje;zakochać się;влюбиться
+13;relacje;właściwie;как следует, собственно говоря
+13;relacje;słuchawka;телефонная трубка
+13;relacje;matrymonialny;брачный
+13;relacje;ogłoszenie matrymonialne;матримониальное объявление
+13;relacje;domowe ognisko;домашний очаг
+13;relacje;samotność;одиночество
+13;relacje;kawaler;холостяк
+13;relacje;rozwodnik;разведенный

@@ -1,0 +1,3 @@
+num;Num;id;right;80
+ile;Glówne;input;left;120+
+ktora;Porządkowe;input;left;180+

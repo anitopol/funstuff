@@ -1,0 +1,110 @@
+я кратко;ja;mnie;mi;mnie;mną;mnie
+я;ja;mnie;mnie;mnie;mną;mnie
+ты;ty;ciebie;tobie;ciebie;tobą;tobie
+ты кратко;ty;cię;ci;cię;tobą;tobie
+он ;on;jego;jemu;jego;nim;nim
+он кратко;on;go;mu;go;nim;nim
+он н+;on;niego;niemu;niego;nim;nim
+она;ona;jej;jej;ją;nią;niej
+она н+;ona;niej;niej;nią;nią;niej
+оно;ono;jego;jemu;je;nim;nim
+оно кратко;ono;go;mu;je;nim;nim
+оно н+;ono;niego;niemu;nie;nim;nim
+мы;my;nas;nam;nas;nami;nas
+вы;wy;was;wam;was;wami;was
+они mo;oni;ich;im;ich;nimi;nich
+они mo н+;oni;nich;nim;nich;nimi;nich
+они nmo;one;ich;im;je;nimi;nich
+они nmo н+;one;nich;nim;nie;nimi;nich
+мой;mój;mojego;mojemu;mojego;moim;moim
+моя;moja;mojej;mojej;moją;moją;mojej
+моё;moje;mojego;mojemu;moje;moim;moim
+мои mo;moi;moich;moim;moich;moimi;moich
+мои nmo;moje;moich;moim;moje;moimi;moich
+мой кратко;mój;mego;memu;mego;mym;mym
+моя кратко;ma;mej;mej;mą;mą;mej
+моё кратко;me;mego;memu;me;mym;mym
+мои mo кратко;moi;mych;mym;mych;mymi;mych
+мои nmo кратко;me;mych;mym;me;mymi;mych
+твой;twój;twojego;twojemu;twojego;twoim;twoim
+твоя;twoja;twojej;twojej;twoją;twoją;twojej
+твоё;twoje;twojego;twojemu;twoje;twoim;twoim
+твои mo;twoi;twoich;twoim;twoich;twoimi;twoich
+твои nmo;twoje;twoich;twoim;twoje;twoimi;twoich
+твой кратко;twój;twego;twemu;twego;twym;twym
+твоя кратко;twa;twej;twej;twą;twą;twej
+твоё кратко;twe;twego;twemu;twe;twym;twym
+твои mo кратко;twoi;twych;twym;twych;twymi;twych
+твои nmo кратко;twe;twych;twym;twe;twymi;twych
+свой;swój;swojego;swojemu;swojego;swoim;swoim
+своя;swoja;swojej;swojej;swoją;swoją;swojej
+своё;swoje;swojego;swojemu;swoje;swoim;swoim
+свои mo;swoi;swoich;swoim;swoich;swoimi;swoich
+свои nmo;swoje;swoich;swoim;swoje;swoimi;swoich
+свой кратко;swój;swego;swemu;swego;swym;swym
+своя кратко;swa;swej;swej;swą;swą;swej
+своё кратко;swe;swego;swemu;swe;swym;swym
+свои mo кратко;swoi;swych;swym;swych;swymi;swych
+свои nmo кратко;swe;swych;swym;swe;swymi;swych
+наш;nasz;naszego;naszemu;naszego;naszym;naszym
+наша;nasza;naszej;naszej;naszą;naszą;naszej
+наше;nasze;naszego;naszemu;nasze;naszym;naszym
+наши mo;nasi;naszych;naszym;naszych;naszymi;naszych
+наши nmo;nasze;naszych;naszym;nasze;naszymi;naszych
+чей;czyj;czyjego;czyjemu;czyjego;czyim;czyim
+чья;czyja;czyjej;czyjej;czyją;czyją;czyjej
+чьё;czyje;czyjego;czyjemu;czyje;czyim;czyim
+чьи mo;czyi;czyich;czyim;czyich;czyimi;czyich
+чьи nmo;czyje;czyich;czyim;czyje;czyimi;czyich
+ваш;wasz;waszego;waszemu;waszego;waszym;waszym
+ваша;wasza;waszej;waszej;waszą;waszą;waszej
+ваше;wasze;waszego;waszemu;wasze;waszym;waszym
+ваши mo;wasi;waszych;waszym;waszych;waszymi;waszych
+ваши nmo;wasze;waszych;waszym;wasze;waszymi;waszych
+ничей;niczyj;niczyjego;niczyjemu;niczyjego;niczyim;niczyim
+ничья;niczyja;niczyjej;niczyjej;niczyją;niczyją;niczyjej
+ничьё;niczyje;niczyjego;niczyjemu;niczyje;niczyim;niczyim
+ничьи mo;niczyi;niczyich;niczyim;niczyich;niczyimi;niczyich
+ничьи nmo;niczyje;niczyich;niczyim;niczyje;niczyimi;niczyich
+ся;;siebie;sobie;siebie;sobą;sobie
+ся кратко;;się;sobie;się;sobą;sobie
+этот;ten;tego;temu;tego;tym;tym
+эта;ta;tej;tej;tę;tą;tej
+это;to;tego;temu;to;tym;tym
+эти mo;ci;tych;tym;tych;tymi;tych
+эти nmo;te;tych;tym;te;tymi;tych
+тот;tamten;tamtego;tamtemu;tamtego;tamtym;tamtym
+та;tamta;tamtej;tamtej;tamtą;tamtą;tamtej
+то;tamto;tamtego;tamtemu;tamto;tamtym;tamtym
+те mo;tamci;tamtych;tym;tamtych;tamtymi;tamtych
+те nmo;tamte;tamtych;tym;tamte;tamtymi;tamtych
+такой;taki;takiego;takiemu;takiego;takim;takim
+такая;taka;takiej;takiej;taką;taką;takiej
+такое;takie;takiego;takiemu;takie;takim;takim
+такие mo;tacy;takich;takim;takich;takimi;takich
+такие nmo;takie;takich;takim;takie;takimi;takich
+кто;kto;kogo;komu;kogo;kim;kim
+что;co;czego;czemu;co;czym;czym
+который;który;którego;któremu;którego;którym;którym
+которая;która;której;której;którą;którą;której
+которое;które;którego;któremu;które;którym;którym
+которые mo;którzy;których;którym;których;którymi;których
+которые nmo;które;których;którym;które;którymi;których
+какой;jaki;jakiego;jakiemu;jakiego;jakim;jakim
+какая;jaka;jakiej;jakiej;jaką;jaką;jakiej
+какое;jakie;jakiego;jakiemu;jakie;jakim;jakim
+какие mo;jacy;jakich;jakim;jakich;jakimi;jakich
+какие nmo;jakie;jakich;jakim;jakie;jakimi;jakich
+каждый;każdy;każdego;każdemu;każdego;każdym;każdym
+каждая;każda;każdej;każdej;każdą;każdą;każdej
+каждое;każde;każdego;każdemu;każde;każdym;każdym
+все mo;wszyscy;wszystkich;wszystkim;wszystkich;wszystkimi;wszystkich
+все nmo;wszystkie;wszystkich;wszystkim;wszystkie;wszystkimi;wszystkich
+всё;wszystko;wszystkiego;wszystkiemu;wszystkiego;wszystkim;wszystkim
+никто;nikt;nikogo;nikomu;nikogo;nikim;nikim
+ничто;nic;niczego;niczemu;nic;niczym;niczym
+ни одного;żaden;żadnego;żadnemu;żadnego;żadnym;żadnym
+ни одной;żadna;żadnej;żadnej;żadną;żadną;żadnej
+ни одного ср.р.;żadne;żadnego;żadnemu;żadne;żadnym;żadnym
+ни одного mo;żadni;żadnych;żadnym;żadnych;żadnymi;żadnych
+ни одного nmo;żadne;żadnych;żadnym;żadne;żadnymi;żadnych
