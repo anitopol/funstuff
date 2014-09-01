@@ -16,7 +16,5 @@ import java.util.List;
  */
 public class TestData extends TestBase {
     public static final String HomeURL = "http://anitopol.github.io/polular/#/view1";
-
-
-
+    public static final String IndexMenuUrl = "http://anitopol.github.io/polular/data/index.csv.txt";
 }
