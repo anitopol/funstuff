@@ -21,7 +21,7 @@ public class SmokeTestCzasowniki extends TestBase {
     @Test
     public void homePageActions() {
         Assert.assertNotNull(
-                SmokeTestCzasowniki.class.getResource("/log4jz.properties")
+                SmokeTestCzasowniki.class.getResource("/log4j.properties")
         );
 
 
