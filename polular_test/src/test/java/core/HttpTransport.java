@@ -5,7 +5,6 @@ import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.params.HttpMethodParams;
 import org.apache.http.HttpStatus;
-import ui_tests.TestData;
 
 import java.io.IOException;
 
@@ -13,8 +12,7 @@ import java.io.IOException;
  * Created by a on 01.09.14.
  */
 public class HttpTransport {
-    private static String url = TestData.IndexMenuUrl;
-    public static String[] retrieve() {
+    public static String[] retrieve(String url) {
         HttpClient client = new HttpClient();
 
         GetMethod method = new GetMethod(url);
