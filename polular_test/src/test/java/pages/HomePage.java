@@ -1,7 +1,11 @@
 package pages;
 
+import core.HttpTransport;
+import core.Response;
 import core.TestBase;
 
+import fun.Fun;
+import fun.Predicate;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -12,27 +16,18 @@ import utils.Log4Test;
 import java.util.ArrayList;
 import java.util.List;
 
-
-/**
- * Created with IntelliJ IDEA.
- * User: u
- * Date: 8/27/14
- * Time: 6:01 PM
- * To change this template use File | Settings | File Templates.
- */
 public class HomePage extends TestBase {
 
     protected By quizArrow = By.xpath("//b[@class='caret']");
 
-    protected By czasownikSelection = By.xpath("//li/a[text()='Czasowniki: czas terazneiszy']");
-    /*
-        protected By slowaSelection = By.xpath("//li/a[text()='" + quizList().get(3) + "']");
-    */
     protected By qiuzeSelectionMenu = By.className("ng-binding");
+    private List<Response.PageInfo> quizPages;
 
     public void open() {
         webDriver.get(TestData.HomeURL);
         Log4Test.info("Open WebUrl " + TestData.HomeURL);
+
+        quizPages = Response.index(HttpTransport.retrieve(TestData.IndexMenuUrl));
     }
 
     public boolean isOpened() {
@@ -44,9 +39,6 @@ public class HomePage extends TestBase {
         Log4Test.info("List of quizes displayed");
         webDriver.findElement(quizArrow).click();
         webDriver.findElement(quizArrow).click();
-        /*WebElement tableQuizes = webDriver.findElement(quizArrow);
-        Actions builder = new Actions(webDriver);
-        builder.doubleClick(tableQuizes);*/
     }
 
     public List<String> quizList() {
@@ -61,26 +53,51 @@ public class HomePage extends TestBase {
     }
 
     public CzasownikiPage czasownikiSelection() {
-        Log4Test.info("czasowniki page opened");
-        webDriver.findElement(czasownikSelection).click();
-        return new CzasownikiPage();
+        Response.PageInfo page = Fun.find(quizPages, Response.PageInfo.nameEq("czasowniki"));
+        {
+
+            Log4Test.info("czasowniki page opening");
+
+            webDriver.findElement(By.xpath("//li/a[text()='" + page.title + "']")).click();
+            return new CzasownikiPage();
+        }
     }
 
+   /* public CzasownikiPage CzasownikiPageOpening() {
+        Response.PageInfo page = Fun.find(quizPages, new Predicate<Response.PageInfo>() {
+            @Override
+            public boolean apply(Response.PageInfo value) {
+                return value.id.toLowerCase().contains("czasowniki");
+            }
+        });
+
+        Log4Test.info("czasowniki page opened");
+        webDriver.findElement(By.xpath("//li/a[text()='" + page.title + "']")).click();
+        return new CzasownikiPage();
+
+    }*/
+
     public SlowaPage slowaSelection() {
-        Log4Test.info("slowa page opened");
-        webDriver.findElement(By.xpath("//li/a[text()='" + quizList().get(2) + "']")).click();
-        return new SlowaPage();
+        Response.PageInfo page = Fun.find(quizPages, Response.PageInfo.nameEq("slowa"));
+        {
+            Log4Test.info("slowa page opening");
+            webDriver.findElement(By.xpath("//li/a[text()='" + page.title + "']")).click();
+            return new SlowaPage();
+        }
     }
 
     public LiczebnikiPage liczebnikiSelection() {
-        Log4Test.info("liczebniki page opened");
-        webDriver.findElement(By.xpath("//li/a[text()='" + quizList().get(1) + "']")).click();
+        Response.PageInfo page = Fun.find(quizPages, Response.PageInfo.nameEq("liczebniki"));
+
+        Log4Test.info("liczebniki page opening");
+        webDriver.findElement(By.xpath("//li/a[text()='" + page.title + "']")).click();
         return new LiczebnikiPage();
     }
 
     public ZaimkiPage zaimkiSelection() {
-        Log4Test.info("zaimki page opened");
-        webDriver.findElement(By.xpath("//li/a[text()='" + quizList().get(3) + "']")).click();
+        Response.PageInfo page = Fun.find(quizPages, Response.PageInfo.nameEq("zaimki"));
+        Log4Test.info("zaimki page opening");
+        webDriver.findElement(By.xpath("//li/a[text()='" + page.title + "']")).click();
         return new ZaimkiPage();
     }
 }

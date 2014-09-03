@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26cba469-29d8-48c1-9e1b-30f91a6abc29" name="Default" comment="http data integration appended">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/fun/Fun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/fun/Fun1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/core/HttpClientDataIntegration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/core/HttpTransport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/fun/Predicate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/core/Response.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/resources/log4jz.properties" afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/core/HttpClientDataIntegration.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/fun/Fun.java" afterPath="$PROJECT_DIR$/src/test/java/fun/Fun.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/core/HttpTransport.java" afterPath="$PROJECT_DIR$/src/test/java/core/HttpTransport.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/core/Response.java" afterPath="$PROJECT_DIR$/src/test/java/core/Response.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ui_tests/SmokeTestCzasowniki.java" afterPath="$PROJECT_DIR$/src/test/java/ui_tests/SmokeTestCzasowniki.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ui_tests/TestData.java" afterPath="$PROJECT_DIR$/src/test/java/ui_tests/TestData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polular_test.iml" afterPath="$PROJECT_DIR$/polular_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="polularTest.iws" />
@@ -79,24 +70,14 @@
     <favorites_list name="polularTest" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.80204195">
+    <splitter split-orientation="vertical" split-proportion="0.7456814">
       <split-first>
         <leaf>
-          <file leaf-file-name="HomePage.java" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="HomePage.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5697823" vertical-offset="483" max-vertical-offset="1264">
-                  <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="HttpClientDataIntegration.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/core/HttpClientDataIntegration.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
-                  <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1472">
+                  <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -105,18 +86,18 @@
           <file leaf-file-name="Response.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/core/Response.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="287" max-vertical-offset="960">
-                  <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+                  <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#342#507#0" expanded="true" />
-                    <element signature="e#496#497#0" expanded="true" />
-                    <element signature="e#578#832#0" expanded="true" />
-                    <element signature="e#821#822#0" expanded="true" />
-                    <element signature="e#1012#1230#0" expanded="true" />
-                    <element signature="e#1211#1212#0" expanded="true" />
-                    <element signature="e#1530#1531#0" expanded="true" />
-                    <element signature="e#1623#1624#0" expanded="true" />
+                    <element signature="e#370#535#0" expanded="true" />
+                    <element signature="e#524#525#0" expanded="true" />
+                    <element signature="e#606#860#0" expanded="true" />
+                    <element signature="e#849#850#0" expanded="true" />
+                    <element signature="e#1040#1258#0" expanded="true" />
+                    <element signature="e#1239#1240#0" expanded="true" />
+                    <element signature="e#1805#2011#0" expanded="true" />
+                    <element signature="e#1996#1997#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -125,8 +106,8 @@
           <file leaf-file-name="HttpTransport.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/core/HttpTransport.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="816">
-                  <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="784">
+                  <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -154,14 +135,12 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Fun.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/fun/Fun.java">
+          <file leaf-file-name="SmokeTestCzasowniki.java" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/ui_tests/SmokeTestCzasowniki.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
-                  <caret line="14" column="20" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="20" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state vertical-scroll-proportion="0.42105263" vertical-offset="0" max-vertical-offset="532">
+                  <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -180,7 +159,7 @@
             <entry file="file://$PROJECT_DIR$/src/test/java/ui_tests/TestData.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
-                  <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                  <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
@@ -210,12 +189,24 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Fun1.java" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="Fun1.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/fun/Fun1.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.1882353" vertical-offset="0" max-vertical-offset="176">
-                  <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176">
+                  <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Fun.java" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/fun/Fun.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="3.707317" vertical-offset="0" max-vertical-offset="752">
+                  <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -244,21 +235,22 @@
         <option value="$PROJECT_DIR$/src/test/java/core/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LiczebnikiPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/ZaimkiPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/CzasownikiPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ui_tests/SmokeTestCzasowniki.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/core/filter.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/Predicate.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/Fun1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/fun/Fun.java" />
         <option value="$PROJECT_DIR$/src/test/java/ui_tests/TestData.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/HttpClientDataIGetting.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/ResponseDataPArsing.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/ResponseDataParsing.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/HttpClientDataIntegration1111.java" />
-        <option value="$PROJECT_DIR$/src/test/java/core/HttpClientDataIntegration.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/HttpTransport.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fun/Fun.java" />
+        <option value="$PROJECT_DIR$/src/test/java/core/Response.java" />
+        <option value="$PROJECT_DIR$/src/test/java/core/HttpClientDataIntegration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui_tests/SmokeTestCzasowniki.java" />
       </list>
     </option>
   </component>
@@ -412,6 +404,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -572,7 +568,7 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HttpClientDataIntegration">
+  <component name="RunManager" selected="TestNG.SmokeTest1">
     <configuration default="false" name="SmokeTest1" type="TestNG" factoryName="TestNG" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -849,8 +845,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.HttpClientDataIntegration" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.SmokeTest1" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.SmokeTest1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HttpClientDataIntegration" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -868,12 +864,17 @@
       <created>1409143923025</created>
       <updated>1409143923025</updated>
       <workItem from="1409170345759" duration="32842000" />
-      <workItem from="1409492269660" duration="15203000" />
+      <workItem from="1409492269660" duration="26908000" />
     </task>
+    <task id="LOCAL-00001" summary="http data integration appended">
+      <created>1409596607665</created>
+      <updated>1409596607665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48045000" />
+    <option name="totallyTimeSpent" value="59750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1159" extended-state="6" />
@@ -884,7 +885,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32821497" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1612284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -901,7 +902,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1716418" sideWeight="0.67094016" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30134356" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2447217" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -980,14 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1024" max-vertical-offset="1456">
           <caret line="64" column="41" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/HttpClientDataIntegration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="479" max-vertical-offset="1872">
-          <caret line="85" column="61" selection-start-line="85" selection-start-column="61" selection-end-line="85" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -1177,34 +1170,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ui_tests/SmokeTestCzasowniki.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="752">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/reflect/Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34827146" vertical-offset="0" max-vertical-offset="7440">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/fun/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/fun/Fun1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1882353" vertical-offset="0" max-vertical-offset="176">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1249,68 +1218,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/fun/Fun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CzasownikiPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="560">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/HttpClientDataIntegration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/HttpTransport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="816">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#342#507#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#578#832#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#1012#1230#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1530#1531#0" expanded="true" />
-            <element signature="e#1623#1624#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ui_tests/TestData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/ZaimkiPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="208">
@@ -1327,6 +1234,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui_tests/TestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CzasownikiPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="560">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fun/Fun1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fun/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fun/Fun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.707317" vertical-offset="0" max-vertical-offset="752">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#370#535#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#606#860#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#1040#1258#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+            <element signature="e#1805#2011#0" expanded="true" />
+            <element signature="e#1996#1997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1472">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/LiczebnikiPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="208">
@@ -1335,10 +1310,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/HttpTransport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5697823" vertical-offset="483" max-vertical-offset="1264">
-          <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="784">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui_tests/SmokeTestCzasowniki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42105263" vertical-offset="0" max-vertical-offset="532">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
