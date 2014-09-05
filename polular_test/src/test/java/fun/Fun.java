@@ -25,6 +25,14 @@ public class Fun {
 
         return out;
     }
+    public static <T> List<T> filterNot(Iterable<T> input, final Predicate<T> p){
+        return filter(input, new Predicate<T>() {
+            @Override
+            public boolean apply(T value) {
+                return !p.apply(value);
+            }
+        });
+    }
 
     public static <T> T find(Iterable<T> input, Predicate<T> p) {
         T out = null;
@@ -35,7 +43,6 @@ public class Fun {
                 break;
             }
         }
-
         return out;
     }
 }

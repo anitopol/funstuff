@@ -8,7 +8,6 @@ import fun.Fun;
 import fun.Predicate;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.testng.collections.Lists;
 import ui_tests.TestData;
 import utils.Log4Test;
@@ -20,7 +19,9 @@ public class HomePage extends TestBase {
 
     protected By quizArrow = By.xpath("//b[@class='caret']");
 
-    protected By qiuzeSelectionMenu = By.className("ng-binding");
+    /*
+        protected By qiuzeSelectionMenu = By.className("ng-binding");
+    */
     private List<Response.PageInfo> quizPages;
 
     public void open() {
@@ -41,6 +42,7 @@ public class HomePage extends TestBase {
         webDriver.findElement(quizArrow).click();
     }
 
+/*
     public List<String> quizList() {
         List<WebElement> qiuzes = webDriver.findElements(qiuzeSelectionMenu);
         int size = qiuzes.size();
@@ -51,6 +53,7 @@ public class HomePage extends TestBase {
 
         return qiuzList;
     }
+*/
 
     public CzasownikiPage czasownikiSelection() {
         Response.PageInfo page = Fun.find(quizPages, Response.PageInfo.nameEq("czasowniki"));
