@@ -8,9 +8,6 @@ import org.apache.http.HttpStatus;
 
 import java.io.IOException;
 
-/**
- * Created by a on 01.09.14.
- */
 public class HttpTransport {
     public static String[] retrieve(String url) {
         HttpClient client = new HttpClient();

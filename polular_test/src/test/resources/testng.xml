@@ -7,7 +7,7 @@
         <classes>
 
 
-            <class name="ui_tests.SmokeTestCzasowniki"/>
+            <class name="ui_tests.SmokeTest"/>
            
         </classes>
     </test>

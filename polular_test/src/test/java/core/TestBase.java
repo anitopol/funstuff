@@ -3,19 +3,12 @@ package core;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.*;
+import utils.Log4Test;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created with IntelliJ IDEA.
- * User: u
- * Date: 8/27/14
- * Time: 6:03 PM
- * To change this template use File | Settings | File Templates.
- */
 public class TestBase {
     protected static WebDriver webDriver;
 
@@ -39,6 +32,17 @@ public class TestBase {
 
     }
 
+    @BeforeMethod(alwaysRun = true)
+    public void openBlankPage() {
+        Log4Test.info("blank before test");
+        webDriver.navigate().to("about:blank");
+    }
+
+    @AfterMethod(alwaysRun = true)
+    public void navigateToBlankPage() {
+        Log4Test.info("blank after test");
+        webDriver.navigate().to("about:blank");
+    }
 
     @AfterSuite
     public void tearDown() throws InterruptedException
