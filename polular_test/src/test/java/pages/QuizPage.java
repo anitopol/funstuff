@@ -13,6 +13,7 @@ import ui_tests.TestData;
 import utils.Log4Test;
 
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 
 public class QuizPage extends Page {
@@ -21,6 +22,14 @@ public class QuizPage extends Page {
     protected By rowsInQuiz = By.xpath("//tbody/tr");
     protected By activeCountRowsButton = By.xpath("//button[@class='btn btn-default ng-scope active']/span");
     protected By forQuizesNumberbutton = By.xpath("//button[@class='btn btn-sm btn-primary ng-binding']");
+    protected By someElementForQuiz = By.xpath("//tr[2]/td[3]");
+    protected By selectedRowsInQuiz = By.xpath("//tr[@class='ng-scope info']");
+    protected By randomQuizAddingButton = By.xpath("//button[@ng-click=\"addRandom()\"]");
+    protected By deselectingButton = By.xpath("//button[@ng-click=\"deselect()\"]");
+    protected By hundredDisplayedButton = By.xpath("//button/span[text() = '10']");
+    protected By forwardNavigationButtonsEnabled = By.xpath("//ul[@class='pagination ng-table-pagination']/li[@class='ng-scope']/a");
+    protected By nextButton = By.xpath("//a[@ng-switch-when='next']");
+    protected By nextButtonParent = By.xpath("//a[@ng-switch-when='next']/..");
     private List<Response.ColumnInfo> categoriesList;
     private List<String> categoriesTitles;
 
@@ -69,5 +78,36 @@ public class QuizPage extends Page {
         Log4Test.info("Verify number of rows displayed is equal to active number button");
         List<WebElement> rowsOfPolisVerbs = webDriver.findElements(rowsInQuiz);
         Assert.assertEquals(String.valueOf(rowsOfPolisVerbs.size()), webDriver.findElement(activeCountRowsButton).getText());
+    }
+
+
+    public void verifNumberOfSelectedRowsDisplayed() {
+        Log4Test.info("Verify number of rows selected is equal to active number on quiz button");
+        webDriver.findElement(someElementForQuiz).click();
+        List<WebElement> rowsOfSelectedWords = webDriver.findElements(selectedRowsInQuiz);
+        Assert.assertEquals(String.valueOf(rowsOfSelectedWords.size()), webDriver.findElement(forQuizesNumberbutton).getText().replace("Quiz for ", ""));
+    }
+
+    public void verifyDeselectionOfRows() {
+        Log4Test.info("Verify rows deselected by none button");
+        webDriver.findElement(deselectingButton).click();
+        List<WebElement> rowsOfSelectedWords = webDriver.findElements(selectedRowsInQuiz);
+        Assert.assertEquals(String.valueOf(rowsOfSelectedWords.size()), webDriver.findElement(forQuizesNumberbutton).getText().replace("Quiz for ", ""));
+    }
+
+    public void randomButtonUsage() {
+        Log4Test.info("Verify rows correctly selected by random button");
+        webDriver.findElement(hundredDisplayedButton).click();
+        webDriver.findElement(randomQuizAddingButton).click();
+        int size = webDriver.findElements(selectedRowsInQuiz).size();
+        while (
+                !webDriver.findElement(nextButton).findElement(By.xpath("..")).getAttribute("class").contains("disabled")
+        ) {
+            webDriver.findElement(nextButton).click();
+            webDriver.manage().timeouts().implicitlyWait(250, TimeUnit.MILLISECONDS);
+
+            size += webDriver.findElements(selectedRowsInQuiz).size();
+        }
+        Assert.assertEquals(String.valueOf(size), webDriver.findElement(forQuizesNumberbutton).getText().replace("Quiz for ", ""));
     }
 }

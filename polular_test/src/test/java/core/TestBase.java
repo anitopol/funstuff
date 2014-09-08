@@ -18,24 +18,18 @@ public class TestBase {
     public static void setUp() throws IOException
 
     {
-
         webDriver = new FirefoxDriver();
-        wait = new WebDriverWait(webDriver, 30);
-
+        wait = new WebDriverWait(webDriver, 20);
         webDriver.manage().window().maximize();
-
-        webDriver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-
-        webDriver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
-
-        webDriver.manage().timeouts().setScriptTimeout(30, TimeUnit.SECONDS);
-
     }
 
     @BeforeMethod(alwaysRun = true)
     public void openBlankPage() {
         Log4Test.info("blank before test");
         webDriver.navigate().to("about:blank");
+        webDriver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+        webDriver.manage().timeouts().setScriptTimeout(2, TimeUnit.SECONDS);
+        webDriver.manage().timeouts().pageLoadTimeout(5, TimeUnit.SECONDS);
     }
 
     @AfterMethod(alwaysRun = true)
