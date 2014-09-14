@@ -919,3 +919,110 @@
 13;relacje;samotność;одиночество
 13;relacje;kawaler;холостяк
 13;relacje;rozwodnik;разведенный
+14;sprzęt;sprzęt;оборудование, инвентарь
+14;sprzęt;sprzęt domowy;домашняя утварь
+14;sprzęt;lodówka;холодильник
+14;sprzęt;pojemnik na;контейнер, резервуар для
+14;sprzęt;kuchenka elektryczna;кухонная электроплита
+14;sprzęt;deska do prasowania;гладильная доска
+14;sprzęt;zmywarka do naczyń;посудомоечная машина
+14;sprzęt;czajnik;чайник
+14;sprzęt;żelazko;утюг
+14;sprzęt;prasowanie;глажение
+14;sprzęt;robot kuchenny;кухонный комбайн
+14;sprzęt;krojenie;резка, кройка
+14;sprzęt;odkurzacz;пылесос
+14;łuki;odrobina;малость, частица, крупица
+14;sprzęt;pralka;стиральная машина
+14;sprzęt;suszarka do włosów;фен для волос
+14;sprzęt;urządzenie mieszkania;оборудование квартиры
+14;sprzęt;ekspres do kawy;кофеварка
+14;sprzęt;mikrofalówka;микроволновка
+14;sprzęt;urządzenie;устройство, оборудование
+14;łuki;kształt;форма
+14;sprzęt;pilot;пульт
+14;sprzęt;pulpit;пульт, воспаленный
+14;sprzęt;gwarancja;гарантия
+14;łuki;nadal;по прежнему, впредь, в дальнейшем
+14;sprzęt;bardzo mi to odpowiada;мне это очень подходит
+14;sprzęt;oburzony;возмущенный
+14;sprzęt;dostęp to Internetu;доступ в Интернет
+14;sprzęt;a to pech!;вот незадача!
+14;sprzęt;telewizja kablowa;кабельное телевидение
+14;sprzęt;słuchawka;телефонная трубка
+14;sprzęt;klawiatura;клавиатура
+14;sprzęt;dokonać wynalazku;изобрести, сделать изобретение
+14;sprzęt;przycisk;нажим, кнопка
+14;łuki;wybieranie;отбор, выбор, разработка
+14;sprzęt;rata miesięczna;месячный платеж
+14;sprzęt;zostawić wiadomość po sygnale;оставить сообщение после сигнала
+14;sprzęt;rozmówca;собеседник
+14;sprzęt;rata;взнос, платеж, часть, доля
+14;sprzęt;konsument;потребитель
+14;sprzęt;reklamacja;претензия, жалоба
+14;łuki;niepotrzebny;ненужный, излишний
+14;łuki;zupełnie;совершенно, совсем, вполне
+14;sprzęt;wynalazek;изобретение
+14;sprzęt;energooszczędny;энергосберегающий
+14;łuki;wszędzie;везде, всюду повсюду
+14;sprzęt;wyprasowany;выглаженный
+14;sprzęt;zepsuty;испорченный, сломанный, избалованный
+14;sprzęt;naprawiony;отремонтированный
+14;łuki;grzecznie;вежливо, учтиво, любезно
+14;łuki;irytacja;раздражение, злость
+14;łuki;pech;невезение, неудача
+14;sprzęt;budzik;будильник
+14;łuki;cokolwiek;что-нибудь, что-либо
+14;sprzęt;prasować;гладить, утюжить
+14;sprzęt;kroić;резать, отрезать
+14;sprzęt;przygotować;приготовить, подготовить
+14;sprzęt;odkurzać;стирать, выбивать пыль
+14;sprzęt;przechowywać;хранить, укрывать, прятать
+14;sprzęt;przechowywać żywność;хранить продукты
+14;sprzęt;suszyć włosy;сушить волосы
+14;sprzęt;myć naczynia;мыть посуду
+14;sprzęt;ugotować kawę;сварить кофе
+14;sprzęt;kurzyć;поднимать пыль, сыпать (снегом)
+14;sprzęt;gotować;кипятить, варить, готовить
+14;sprzęt;włączyć;включить
+14;sprzęt;wyłączyć;выключить
+14;sprzęt;naprawić;починить
+14;sprzęt;irytować;раздражать, сердить, злить
+14;sprzęt;zepsuć się;испортиться, сломаться
+14;łuki;pękać z zazdrości;лопаться от зависти
+14;łuki;kupić coś od ręki;купить что-то сразу, немедленно
+14;łuki;kształtować;формировать
+14;sprzęt;kształtować gust;формировать вкус
+14;łuki;lansować;популяризировать
+14;łuki;poradzić sobie z;справиться с
+14;łuki;zdawać sobie sprawę;осознавать
+14;łuki;owijać coś w bawełnę;умалчивать о чем-либо
+14;sprzęt;odkładać słuchawkę;класть телефонную трубку
+14;łuki;korzystać z czegoś;пользоваться чем-либо
+14;łuki;na co dzień;каждый день
+14;łuki;wywoływać;вызывать, выкликать
+14;łuki;oburzyć się;возмутиться, вознегодовать
+14;sprzęt;składać reklamację;составлять жалобу
+14;łuki;prosić o pomóc;просить о помощи
+14;łuki;zareagować na coś;отреагировать на что-либо
+14;łuki;skierować;направить
+14;sprzęt;skierować sprawę;передать дело
+14;łuki;służyć do;служить для
+14;sprzęt;wybierać numer;набирать номер
+14;sprzęt;pękać ze śmiechu;покатываться со смеху
+14;sprzęt;płacić raty;вносить платежи
+14;łuki;wczasy;отдых, досуг
+14;sprzęt;oszust;обманщик, мошенник, аферист
+14;łuki;czynność;занятие, дело, действие
+14;sprzęt;pokrywa;крышка, верхний слой
+14;sprzęt;gust;вкус
+14;sprzęt;mam pecha;мне не везет
+14;sprzęt;wynaleźć;найти, изобрести
+14;sprzęt;być zadowolonym z;быть довольным
+14;sprzęt;rozwijać się;развиваться
+14;łuki;prawie wszystko;почти все
+14;łuki;upowszechnienie;распространение, популяризация
+14;sprzęt;upowszechniać się;распространяться
+14;łuki;dostęp;доступ
+14;łuki;prawie;почти
+14;sprzęt;luksus;роскошь, комфорт
