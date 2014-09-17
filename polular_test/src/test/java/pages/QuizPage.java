@@ -12,26 +12,30 @@ import org.testng.Assert;
 import ui_tests.TestData;
 import utils.Log4Test;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 
 public class QuizPage extends Page {
     public final Response.PageInfo info;
+    public List<Response.ColumnInfo> categoriesList;
     protected By categoriesDivLinks = By.xpath("//th/div[@class='ng-binding']");
     protected By rowsInQuiz = By.xpath("//tbody/tr");
     protected By activeCountRowsButton = By.xpath("//button[@class='btn btn-default ng-scope active']/span");
-    protected By forQuizesNumberbutton = By.xpath("//button[@class='btn btn-sm btn-primary ng-binding']");
+    protected By forQuizesNumberOrGoButton = By.xpath("//button[@class='btn btn-sm btn-primary ng-binding']");
     protected By someElementForQuiz = By.xpath("//tr[2]/td[3]");
     protected By selectedRowsInQuiz = By.xpath("//tr[@class='ng-scope info']");
     protected By randomQuizAddingButton = By.xpath("//button[@ng-click=\"addRandom()\"]");
     protected By deselectingButton = By.xpath("//button[@ng-click=\"deselect()\"]");
-    protected By hundredDisplayedButton = By.xpath("//button/span[text() = '10']");
-    protected By forwardNavigationButtonsEnabled = By.xpath("//ul[@class='pagination ng-table-pagination']/li[@class='ng-scope']/a");
+    protected By numberDisplayedButton = By.xpath("//button/span[text() = '10']");
     protected By nextButton = By.xpath("//a[@ng-switch-when='next']");
-    protected By nextButtonParent = By.xpath("//a[@ng-switch-when='next']/..");
-    private List<Response.ColumnInfo> categoriesList;
+    protected By russianTranslation = By.xpath("//form//div[@class='ng-binding']/i");
+    protected By divWithPolishWordsAndNumberOfWordsInQuiz = By.xpath("//form//div[@class='ng-binding']");
+    protected By cellsWithRussianTransForSelectedRows = By.xpath("//tr[@class='ng-scope info']/td[@class='schemaTable_right schemaTable_id']");
     private List<String> categoriesTitles;
+
 
     public QuizPage(WebDriver webDriver, Response.PageInfo info) {
         super(webDriver);
@@ -81,33 +85,67 @@ public class QuizPage extends Page {
     }
 
 
-    public void verifNumberOfSelectedRowsDisplayed() {
+    public void verifyNumberOfSelectedRowsDisplayed() {
         Log4Test.info("Verify number of rows selected is equal to active number on quiz button");
         webDriver.findElement(someElementForQuiz).click();
         List<WebElement> rowsOfSelectedWords = webDriver.findElements(selectedRowsInQuiz);
-        Assert.assertEquals(String.valueOf(rowsOfSelectedWords.size()), webDriver.findElement(forQuizesNumberbutton).getText().replace("Quiz for ", ""));
+        Assert.assertEquals(String.valueOf(rowsOfSelectedWords.size()), webDriver.findElement(forQuizesNumberOrGoButton).getText().replace("Quiz for ", ""));
     }
 
     public void verifyDeselectionOfRows() {
         Log4Test.info("Verify rows deselected by none button");
         webDriver.findElement(deselectingButton).click();
         List<WebElement> rowsOfSelectedWords = webDriver.findElements(selectedRowsInQuiz);
-        Assert.assertEquals(String.valueOf(rowsOfSelectedWords.size()), webDriver.findElement(forQuizesNumberbutton).getText().replace("Quiz for ", ""));
+        Assert.assertEquals(String.valueOf(rowsOfSelectedWords.size()), webDriver.findElement(forQuizesNumberOrGoButton).getText().replace("Quiz for ", ""));
     }
 
     public void randomButtonUsage() {
         Log4Test.info("Verify rows correctly selected by random button");
-        webDriver.findElement(hundredDisplayedButton).click();
+        webDriver.findElement(numberDisplayedButton).click();
         webDriver.findElement(randomQuizAddingButton).click();
         int size = webDriver.findElements(selectedRowsInQuiz).size();
         while (
                 !webDriver.findElement(nextButton).findElement(By.xpath("..")).getAttribute("class").contains("disabled")
-        ) {
+                ) {
             webDriver.findElement(nextButton).click();
             webDriver.manage().timeouts().implicitlyWait(250, TimeUnit.MILLISECONDS);
 
             size += webDriver.findElements(selectedRowsInQuiz).size();
         }
-        Assert.assertEquals(String.valueOf(size), webDriver.findElement(forQuizesNumberbutton).getText().replace("Quiz for ", ""));
+        Assert.assertEquals(String.valueOf(size), webDriver.findElement(forQuizesNumberOrGoButton).getText().replace("Quiz for ", ""));
     }
+
+    public void quizStartOpportunity() {
+        Log4Test.info("Verify quiz could not be started before some words adding");
+        webDriver.findElement(someElementForQuiz).click();
+        webDriver.findElement(deselectingButton).click();
+        Assert.assertTrue(webDriver.findElement(forQuizesNumberOrGoButton).getAttribute("disabled") != null);
+        webDriver.findElement(someElementForQuiz).click();
+        Assert.assertTrue(webDriver.findElement(forQuizesNumberOrGoButton).getAttribute("disabled") == null);
+    }
+
+    public void forQuizPreparations() {
+        Log4Test.info("elements for quiz setup");
+        if (webDriver.findElement(deselectingButton).getAttribute("disabled") != null) {
+            webDriver.findElement(deselectingButton).click();
+        }
+        webDriver.findElement(randomQuizAddingButton).click();
+        while (
+
+                !webDriver.findElement(nextButton).findElement(By.xpath("..")).getAttribute("class").contains("disabled")
+                ) {
+            List<WebElement> selectedRussianTranslations = webDriver.findElements(cellsWithRussianTransForSelectedRows);
+            webDriver.findElement(nextButton).click();
+            webDriver.manage().timeouts().implicitlyWait(250, TimeUnit.MILLISECONDS);
+            selectedRussianTranslations.addAll(webDriver.findElements(cellsWithRussianTransForSelectedRows));
+        }
+        webDriver.findElement(forQuizesNumberOrGoButton).click();
+        String divTotal = webDriver.findElement(divWithPolishWordsAndNumberOfWordsInQuiz).getText();
+        String russianWord = webDriver.findElement(russianTranslation).getText();
+        String polishCategoryName = divTotal.substring(divTotal.indexOf(':') + 1).replace(russianWord, "");
+        String quantityOfQuizItems = divTotal.substring(divTotal.indexOf("of ") + 3, divTotal.indexOf(":") - 1);
+        String itemCurrentNumber = divTotal.substring(0, 1);
+    }
+
+
 }
