@@ -19,7 +19,7 @@
 мыть;myć;I;XI a;myję;myjesz;myje;myjemy;myjecie;myją
 нести;nieść;I;XI;niosę;niesiesz;niesie;niesiemy;niesiecie;niosą
 прочитывать;odczytywać;I;VIII a;odczytuję;odczytujesz;odczytuje;odczytujemy;odczytujecie;odczytują
-обробатывать;opracowywać;I;;opracowuję;opracowujesz;opracowuje;opracowujemy;opracowujecie;opracowują
+обрабатывать;opracowywać;I;;opracowuję;opracowujesz;opracowuje;opracowujemy;opracowujecie;opracowują
 получать;otrzymywać;I;;otrzymuję;otrzymujesz;otrzymuje;otrzymujemy;otrzymujecie;otrzymują
 пить;pić;I;X a;piję;pijesz;pije;pijemy;pijecie;piją
 печь;piec;I;*;piekę;pieczesz;piecze;pieczemy;pieczecie;pieką
