@@ -15,8 +15,8 @@
 04;jadalne;napoje gorące;горячие напитки
 04;jadalne;gruszka;груша
 04;jadalne;robić zakupy;делать покупки
-04;jadalne;pieniądze;деньги
-04;jadalne;tani;дешевый
+04 07;jadalne;pieniądze;деньги
+04 06 15;jadalne;tani;дешевый
 04;jadalne;jeść;есть, кушать
 04;jadalne;śniadanie;завтрак
 04;jadalne;jeść śniadanie;завтракать
@@ -41,7 +41,6 @@
 04;jadalne;warzywa;овощи, зелень
 04;jadalne;ogórek;огурец
 04;jadalne;orzechowy;ореховый
-04;jadalne;dział;отдел
 04;jadalne;kelner;официант
 04;jadalne;reklamówka;пакет
 04;jadalne;herbatniki;печенье
@@ -51,13 +50,13 @@
 04;jadalne;po południu;после обеда
 04;jadalne;pojutrze;послезавтра
 04;jadalne;artykuły spożywcze;продовольственные товары
-04;jadalne;sklep spożywczy;продовольственный магазин
+04 06;jadalne;sklep spożywczy;продовольственный магазин
 04;jadalne;zupa ogórkowa;рассольник
 04;jadalne;rzadko;редко
 04;jadalne;restauracja;ресторан
 04;jadalne;rogalik;рожок (булка)
 04;jadalne;dania z ryb;рыбные блюда
-04;jadalne;targ;рынок
+04 11;jadalne;targ;рынок, базар
 04;jadalne;cukier;сахар
 04;jadalne;reszta;сдача
 04;jadalne;dzisiaj;сегодня, полная форма
@@ -75,12 +74,12 @@
 04;jadalne;herbata;чай
 04;jadalne;coś do picia;что-то попить
 04;jadalne;jabłko;яблоко
-04x;łuki;znakomicie;замечательно
-04x;łuki;dopiero;лишь, только
-04x;łuki;dziś;сегодня, кратко
+04x;spójniki;znakomicie;замечательно
+04x;spójniki;dopiero;лишь, только
+04x;spójniki;dziś;сегодня, кратко
 05;jadalne;alkohol;алкоголь
 05;jadalne;pierogi;вареники, пироги
-05;jadalne;gotować;варить, кипятить
+05 14;jadalne;gotować;варить, кипятить
 05;jadalne;widelec;вилка
 05;jadalne;smak;вкус
 05;jadalne;smakowity;вкусный, аппетитный
@@ -94,7 +93,7 @@
 05;jadalne;rodzynki;изюм
 05;jadalne;garnek;кастрюля
 05;jadalne;kilo;кило
-05;jadalne;kilogram;килограмм
+05 06;jadalne;kilogram;килограмм
 05;jadalne;składniki;компоненты
 05;jadalne;wędliny;копчености
 05;jadalne;list laurowy;лавровый лист
@@ -121,12 +120,11 @@
 05;jadalne;pić;пить
 05;jadalne;płacić;платить
 05;jadalne;podsmażyć;поджарить, подрумянить
-05;jadalne;kupować;покупать
-05;jadalne;woleć;предпочитать
+05 07;jadalne;kupować;покупать
 05;jadalne;przygotowanie;приготовление
 05;jadalne;przyjmować gości;принимать гостей
 05;jadalne;doprawiać solą;приправлять солью
-05;jadalne;ekspedient;продавец
+05 07 15;jadalne;ekspedient;продавец
 05;jadalne;kawa rozpuszczalna;растворимый кофе
 05;jadalne;olej;растительное масло
 05;jadalne;postanowić;решить
@@ -149,36 +147,31 @@
 05;jadalne;łyżeczka do herbaty;чайная ложечка
 05;jadalne;filiżanka;чашка
 05;jadalne;czekolada;шоколад
-06;odzież;promocja;акция
 06;odzież;apteka;аптека
 06;odzież;biały;белый
-06;odzież;bluzka;блузка, кофточка
 06;odzież;duży;большой, крупный
 06;odzież;buty;ботинки, сапоги
-06;odzież;spodnie;брюки, штаны
-06;odzież;butelka;бутылка
+06 15;odzież;spodnie;брюки, штаны
 06;odzież;krawat;галстук
 06;odzież;niebieski;голубой, светло-синий
-06;odzież;tani;дешевый
 06;odzież;spodnie dżinsowe;джинсы
 06;odzież;długi;долгий, длинный
 06;odzież;drogi;дорогой
-06;odzież;żakiet;жакет, пиджак
+06 15;odzież;żakiet;жакет, пиджак
 06;odzież;żółty;желтый
 06;odzież;kostium damski;женский костюм
 06;odzież;zielony;зеленый
-06;odzież;kilogram;килограм
 06;odzież;księgarnia;книжный магазин
 06;odzież;komplement;комплимент
 06;odzież;brązowy;коричневый
 06;odzież;brunatny;коричневый, бурый
 06;odzież;krótki;короткий, краткий
-06;odzież;garnitur;костюм (мужской)
-06;odzież;czerwony;красный
-06;odzież;kurtka;куртка
+06 15;odzież;garnitur;костюм (мужской)
+06 15;odzież;czerwony;красный
+06 15;odzież;kurtka;куртка
 06;odzież;kawałek;кусок, кусочек
 06;odzież;sklep odzieżowy;магазин одежды
-06;odzież;podkoszulek;майка, нижняя рубашка
+06 15;odzież;podkoszulek;майка, нижняя рубашка
 06;odzież;mały;маленький, небольшой
 06;odzież;obuwie;обувь
 06;odzież;odzież;одежда
@@ -190,25 +183,23 @@
 06;odzież;sukienka;платье
 06;odzież;klientka;покупательница, клиентка
 06;odzież;sprzedawca;продавец
-06;odzież;sklep spożywczy;продовольсвенный магазин
-06;odzież;koszula;рубашка
-06;odzież;sweter;свитер, шерстяная кофта
+06 15;odzież;koszula;рубашка
+06 15;odzież;sweter;свитер, шерстяная кофта
 06;odzież;wąski;узкий, тесный
 06;odzież;kwiaciarnia;цветочный магазин
 06;odzież;czarny;черный
 06;odzież;szeroki;широкий
-06;odzież;spódnica;юбка
+06 15;odzież;spódnica;юбка
 07;idiom;czarna owca;белая ворона
 07;wakacje;chorować;болеть
 07;wakacje;Narodowe święto Niepodległości;гос прадзн Независимости
-07;wakacje;pieniądze;деньги
 07;odzież;ubrania dla dzieci;детская одежда
-07;łuki;czekać;ждать
-07;łuki;zapomnieć;забыть
+07;spójniki;czekać;ждать
+07;spójniki;zapomnieć;забыть
 07;odzież;szukać;искать
 07;wakacje;wakacje;каникулы
 07;wakacje;ferie;каникулы
-07;odzież;rajstopy;колготки
+07 15;odzież;rajstopy;колготки
 07;idiom;czerwony jak burak;красный как рак
 07;wakacje;leżeć;лежать
 07;wakacje;wykład;лекция
@@ -217,30 +208,28 @@
 07;wakacje;niepodległość;независимость
 07;wakacje;Nowy Rok;новый год
 07;odzież;nosić;носить
-07;wakacje;spóźniać się;опаздывать
-07;wakacje;urlop;отпуск
+07 10;wakacje;spóźniać się;опаздывать
+07 10;wakacje;urlop;отпуск
 07;odzież;fascynacja;очарование, обаяние
 07;wakacje;Wielkanoc;пасха
 07;wakacje;pozdrawiać;передавать привет
 07;wakacje;pisać;писать
-07;odzież;kupować;покупить
 07;odzież;pamiętać;помнить
 07;wakacje;rewelacyjny;поразительный
-07;wakacje;proponować;предлагать
-07;odzież;przymierzalnia;примерочная
+07 09;wakacje;proponować;предлагать
+07 15;odzież;przymierzalnia;примерочная
 07;odzież;przymierzać;примерять
 07;wakacje;spacer;прогулка
 07;odzież;sprzedawać;продавать
-07;odzież;ekspedient;продавец
 07;odzież;rozmiar;размер, величина, формат
-07;łuki;dawniej;ранее, прежде
+07;spójniki;dawniej;ранее, прежде
 07;wakacje;relaksować się;расслабляться
 07;wakacje;Boże Narodzenie;Рождество
 07;odzież;prać ręcznie;ручная стирка
-07;odzież;sandały;сандалии
-07;łuki;poważnie;серьезно, всерьез
+07 15;odzież;sandały;сандалии
+07;spójniki;poważnie;серьезно, всерьез
 07;odzież;prać w temperaturze;стирать в температуре
-07;łuki;gubić;терять
+07;spójniki;gubić;терять
 07;odzież;tramwaj;трамвай
 07;odzież;lekcja;урок
 07;wakacje;rok akademicki;учебный год
@@ -395,9 +384,7 @@
 08;zdrowie;pacjent;пациент
 08;zdrowie;ból;боль
 08;zdrowie;brać leki;принимать лекарства
-08;zdrowie;czuć się;чувстовать себя
-08;zdrowie;dolegać;беспокоить
-08;zdrowie;dziennie;ежедневно
+08 10;zdrowie;dziennie;ежедневно
 08;zdrowie;gardło;горло
 08;zdrowie;gorzej;хуже
 08;zdrowie;internista;терапевт
@@ -411,7 +398,7 @@
 08;zdrowie;zabieg;процедура
 08;zdrowie;zapisywać receptę;выписывать рецепт
 08;zdrowie;zastrzyk;укол
-08;zdrowie;przychodnia;поликлиника
+08 11;zdrowie;przychodnia;поликлиника
 08;zdrowie;dolegliwość;недуг
 08;zdrowie;pogotowanie;скорая помощь
 08;zdrowie;karetka pogotowania;скорая помощь
@@ -451,7 +438,6 @@
 08;charakter;nietowarzyski;нелюдимый
 08;charakter;niesympatyczny;несимпатичный
 08;charakter;smutny;грустный
-08;charakter;przeciętny;посредственный
 08;charakter;niewrażliwy;невосприимчивый
 08;charakter;zależny;зависимый
 08;charakter;rozsądny;благоразумный
@@ -473,34 +459,30 @@
 09;charakter;niedoświadczony;неопытный
 09;charakter;niebanalny;нешаблонный
 09;charakter;dystyngowany;благовоспитанный
-09;praca;status społeczny;общественный статус
-09;praca;konsument;потребитель
-09;praca;edukacja;образование
+09 13;praca;status społeczny;общественный статус
+09 14;praca;konsument;потребитель
+09 10;praca;edukacja;образование
 09;praca;odżywać się;питаться
 09;praca;prezenter;ведущий
 09;praca;przypadkowo;случайно
-09;praca;zatrudniać;давать работу
+09 10;praca;zatrudniać;давать работу
 09;praca;zatrudniać się;наниматься на работу
 09;praca;zanim;прежде чем, до того как
 09;praca;kojarzyć się;сочетаться, ассоциироваться
-09;praca;pasować;подходить
-09;praca;naprawdę;действительно
+09 13;praca;naprawdę;действительно
 09;praca;inspiracja;вдохновение
 09;praca;inspirować;вдохновлять
-09;praca;zdarzać;случаться
 09;praca;gwarantować;гарантировать
-09;praca;ponieważ;потому что
-09;praca;zarabiać;зарабатывать
+09 10;praca;zarabiać;зарабатывать
 09;praca;kwestia;вопрос
 09;praca;cieszyć się;радоваться
 09;praca;zrezygnować się z;отказаться от
 09;praca;uważać;обращать внимание
 09;praca;podejrzany;подозреваемый
-09;praca;uzasadniać;обосновывать
+09 10;praca;uzasadniać;обосновывать
 09;praca;podejrzewać o coś;подозревать в чем-то
 09;praca;zdefraudować;растратить
 09;praca;zdefraudowanie;растрата
-09;praca;proponować;предлагать
 09;praca;gadać;болтать, говорить
 09;praca;dostać;получить
 09;praca;akceptować;одобрять
@@ -509,10 +491,10 @@
 09;praca;mieć dobrzy gust;иметь хороший вкус
 09;praca;osiągać sukcesu;добиться успеха
 09;praca;mieć rację;быть правым
-09;praca;zgadać się;соглашаться
+09 10;praca;zgadać się;соглашаться
 09;praca;denerwować;раздражать, нервировать
 09;praca;krytykować;критиковать
-09;praca;irytować;сердить, раздражать, злить
+09 14;praca;irytować;сердить, раздражать, злить
 10;praca;aplikujący;кандидат
 10;praca;atut;козырь, сильная сторона
 10;praca;branża;отрасль
@@ -520,7 +502,6 @@
 10;praca;doświadczenie zawodowe;профессиональный опыт
 10;praca;dział kadr;отдел кадров
 10;praca;dziedzina;область, отрасль
-10;praca;edukacja;образование
 10;praca;frustracja;раздраженность
 10;praca;głównie;главным образом
 10;praca;kandydat;кандидат
@@ -570,7 +551,6 @@
 10;praca;codzienny;ежедневно
 10;praca;czas pracy;рабочее время
 10;praca;dyplom;диплом
-10;praca;dziennie;ежедневно
 10;praca;emerytura;пенсия
 10;praca;etat;штат
 10;praca;istotny;важный, основной
@@ -594,7 +574,7 @@
 10;praca;programista;программист
 10;praca;referencje;рекомендации
 10;praca;robotnik;работник
-10;praca;rozmówca;собеседник
+10 14;praca;rozmówca;собеседник
 10;praca;rozwiązanie;решение
 10;praca;rozwiązać;решить
 10;praca;samodzielność;самостоятельность
@@ -604,8 +584,7 @@
 10;praca;średnia krajowa;средняя зарплата
 10;praca;ubezpieczenie;страховка
 10;praca;umysłowy;умственный
-10;praca;urlop;отпуск
-10;praca;wada;недостаток
+10 15;praca;wada;недостаток, брак, дефект
 10;praca;warunki pracy;условия работы
 10;praca;ważny;важный
 10;praca;wykonywanie;выполнение
@@ -646,7 +625,6 @@
 10;praca;rekruter;наемщик
 10;praca;skupić się;сосредоточиться
 10;praca;spodziewać się;ожидать
-10;praca;spóźniać  się;опаздывать
 10;praca;sprawdzać;проверять
 10;praca;sprawdzić;проверить
 10;praca;sprecyzować;уточнить
@@ -654,7 +632,6 @@
 10;praca;ufać;доверять
 10;praca;ułatwiać;облегчать
 10;praca;utrudniać;затруднять
-10;praca;uzasadniać;обосновывать
 10;praca;uzasadnić;обосновать
 10;praca;uzyskać;получить, добиться
 10;praca;wyciszyć;приглушить
@@ -664,39 +641,34 @@
 10;praca;zachować spokój;сохранять спокойствие
 10;praca;zaczynać pracę;начинать работу
 10;praca;zaoferować;предложить
-10;praca;zarabiać;зарабатывать
 10;praca;zastanawiać się;размышлять
-10;praca;zatrudniać;давать работу кому-либо
-10;praca;zdarzać się;случаться
+09 10;praca;zdarzać się;случаться
 10;praca;zdradzać;предавать
 10;praca;zebrać myśli;собраться с мыслями
-10;praca;zgadać się;соглашаться
 10;praca;znaleźć chwilę;найти минутку
 10;praca;zrobić dobre wrażenie;произвести хорошее впечатление
 10;praca;zwalniać;увольнять
-11;łuki;ponieważ;потому что, так как, ибо
+09 11;spójniki;ponieważ;потому что, так как, ибо
 11;miasto;skrzyżowanie;перекресток
 11;miasto;tutejszy;здешний
-11;miasto;przychodnia;поликлиника
 11;miasto;msza;месса, литургия
 11;miasto;szatnia;гардероб, раздевалка
-11;łuki;zdecydowanie;решимость
-11;łuki;woleć;предпочитать
+11;spójniki;zdecydowanie;решимость
+05 11;spójniki;woleć;предпочитать
 11;miasto;przyjeżdżać;приезжать
 11;miasto;pozostać;остаться
 11;praca;uczelnia;учебное заведение
-11;praca;bezrobocie;безработица
 11;praca;instytucja;учреждение
 11;praca;absolwent;выпускник
 11;odzież;wyprzedaż;распродажа
-11;odzież;promocja;акция, продвижение
+06 11 15;odzież;promocja;акция, продвижение
 11;praca;skończyć studia;закочить учебу
-11;łuki;tutaj;здесь, тут
+11;spójniki;tutaj;здесь, тут
 11;miasto;wyjść;выйти, уйти
-11;łuki;gdzieś;где-то, приблизительно
+11;spójniki;gdzieś;где-то, приблизительно
 11;miasto;kawalerka;однокомнатная квартира
 11;miasto;wynajem;наем, прокат
-11;łuki;przekonać;убежить, уверить
+11 12;spójniki;przekonać;убедить, уверить
 11;miasto;blisko czegoś;рядом с чем-то
 11;miasto;nowoczesny;современный
 11;miasto;okolica;окрестность, район
@@ -706,8 +678,7 @@
 11;miasto;mieszkaniec;житель
 11;miasto;przemysł;промышленность
 11;miasto;ośrodek;центр
-11;łuki;ponadto;кроме того
-11;miasto;targ;рынок, базар
+11;spójniki;ponadto;кроме того
 11;miasto;koncentrować się;сосредотачиваться
 11;miasto;zabudowa;застройка
 11;miasto;sanktuarium;святилище, святая святых
@@ -722,16 +693,15 @@
 11;miasto;metropolia;метрополия
 11;charakter;doskonały;превосходный
 11;charakter;uciążliwy;мучительный
-11;łuki;dogodny moment;удобный момент
+11;spójniki;dogodny moment;удобный момент
 11;miasto;wystrzelić;выстрелить
-11;łuki;kilkanaście;несколько сотен
-11;łuki;przeciętny;посредственный
+11;spójniki;kilkanaście;несколько сотен
+08 11;spójniki;przeciętny;посредственный
 11;odzież;wydatek;расход, издержка
-11;łuki;kilkakrotnie;несколько раз
+11;spójniki;kilkakrotnie;несколько раз
 11;jadalne;żywność;пища, продовольствие
 11;wieś;rolnik;аграрий, земледелец
 11;wieś;gospodarstwo rolne;сельское хозяйство
-11;wieś;ingerować w czyjeś sprawy;вмешиваться в чьи-то дела
 11;wieś;zboże;зерно, хлеба
 11;wieś;sad;фруктовый сад
 11;wieś;łąka;луг
@@ -742,26 +712,25 @@
 11;wieś;ptak;птица
 11;wieś;wypoczywać;отдыхать
 11;wieś;świeże powietrze;свежий воздух
-11;łuki;potrzeba;потребность, нужда
-11;łuki;potrzebować;нуждаться
-11;łuki;alarmować;сигнализировать
+11;spójniki;potrzeba;потребность, нужда
+11;spójniki;potrzebować;нуждаться
+11;spójniki;alarmować;сигнализировать
 12;zdrowie;cierpieć na coś;страдать, болеть чем-то
 12;zdrowie;drogi oddechowe;дыхательные пути
 12;charakter;brutalny;грубый, жестокий
 12;charakter;czysty;чистый
 12;charakter;przyjazny;дружественный
 12;wieś;łono przyrody;лоно природы
-12;łuki;z jakich powodów;по каким причинам
-12;łuki;chętnie;охотно, с удовольствием
-12;łuki;moim zdaniem;по моему мнению
-12;łuki;jestem przekonany, że;я уверен что
-12;łuki;podsumowując;подводя итоги
-12;łuki;ponieważ;потому что, так как
-12;łuki;dlatego, że;потому что
+12;spójniki;z jakich powodów;по каким причинам
+12;spójniki;chętnie;охотно, с удовольствием
+12;spójniki;moim zdaniem;по моему мнению
+12;spójniki;jestem przekonany, że;я уверен что
+12;spójniki;podsumowując;подводя итоги
+12;spójniki;dlatego, że;потому что
 12;miasto;segregować śmieci;сортировать мусор
 12;charakter;koszmar;кошмар
-12;łuki;namawiać;уговаривать, убеждать
-12;łuki;namówić;уговорить, убедить
+12;spójniki;namawiać;уговаривать, убеждать
+12;spójniki;namówić;уговорить, убедить
 12;idiom;uparty jak osioł;упрямый как осел
 12;idiom;zdrowy jak ryba;здоров как вол
 12;idiom;silny jak koń;сильный как лев
@@ -769,16 +738,16 @@
 12;idiom;wierny jak pies;преданный как собака
 12;wieś;zwierzę;животное
 12;wieś;zwierzęta;животные
-12;łuki;rzadkość;редкость
+12;spójniki;rzadkość;редкость
 12;wieś;chomik;хомяк
 12;wieś;królik;кролик
 12;wieś;żółw;черепаха
 12;praca;zastąpiać;заменять
 12;praca;zastąpić;заменить, заместить
-12;łuki;w najlepszym gatunku;высшего сорта
-12;łuki;w zgodzie z;в согласии с
-12;łuki;deklarować;заявить
-12;łuki;zgadzać;договариваться
+12;spójniki;w najlepszym gatunku;высшего сорта
+12;spójniki;w zgodzie z;в согласии с
+12;spójniki;deklarować;заявить
+12;spójniki;zgadzać;договариваться
 12;miasto;ogród zoologiczny;зоопарк
 12;charakter;zwolennik;сторонник
 12;charakter;przeciwnik;противник
@@ -788,7 +757,7 @@
 12;praca;zaburzenie;нарушение
 12;praca;zaburzyć;нарушить
 12;praca;gatunek;род, вид
-12;praca;ingerować w czyjeś sprawy;вмешиваться в чьи-то дела
+11 12;praca;ingerować w czyjeś sprawy;вмешиваться в чьи-то дела
 12;miasto;teren;территория
 12;miasto;na terenie;на территории
 12;praca;ratunek;помощь, спасение
@@ -801,11 +770,11 @@
 12;wieś;żubr;зубр
 12;wieś;rosnąć;расти
 12;zdrowie;spadek;наследство
-12;łuki;ze względu na;принимая во внимание
+12;spójniki;ze względu na;принимая во внимание
 12;praca;walory;достоинство
 12;praca;poziom;уровень
-12;łuki;rozpoczynać;начинать
-12;łuki;rozpocząć;начать
+12;spójniki;rozpoczynać;начинать
+12;spójniki;rozpocząć;начать
 12;charakter;wykup;выкуп
 12;miasto;środki;средства
 12;miasto;hamować;тормозить, задерживать
@@ -816,8 +785,7 @@
 12;charakter;dokuczliwy;мучительный
 12;miasto;segregować;сортировать
 12;charakter;walczyć się;бороться
-12;łuki;przekonywać;убеждать, уверять
-12;łuki;przekonać;убедить, уверить
+12;spójniki;przekonywać;убеждать, уверять
 12;miasto;pozostać w domu;остаться дома
 13;relacje;relacje;отношения
 13;relacje;ciągle;постоянно, непрерывно
@@ -827,7 +795,7 @@
 13;relacje;bransoletka;браслет
 13;relacje;zazdrosny;ревнивый, завистливый
 13;relacje;na pewno;наверное, несомненно
-13;relacje;prawie;почти
+13 14;spójniki;prawie;почти
 13;relacje;gospodyni domowa;домохозяйка
 13;relacje;rozwód;развод
 13;relacje;małżeństwo;брак, супружество
@@ -857,7 +825,6 @@
 13;relacje;nuda;скука
 13;relacje;zła sytuacja materialna;плохое материальное положение
 13;relacje;zrada;измена, предательство
-13;relacje;status społeczny;общественный статус
 13;relacje;niezgodność;несоответствие
 13;relacje;życie w pojedynkę;одинокая жизнь
 13;relacje;nałog;вредная привычка
@@ -879,7 +846,6 @@
 13;relacje;rzucić palenie;бросить курить
 13;relacje;poznać kogoś;познакомиться с кем-либо
 13;relacje;kumpel;приятель, дружок
-13;relacje;naprawdę;действительно
 13;relacje;kłocić się;ссориться
 13;relacje;spróbować;попытаться, попробовать
 13;relacje;ratować związek;спасать отношения
@@ -912,7 +878,7 @@
 13;relacje;odbierać słuchawkę;отвечать на телеф. звонок
 13;relacje;zakochać się;влюбиться
 13;relacje;właściwie;как следует, собственно говоря
-13;relacje;słuchawka;телефонная трубка
+13 14;relacje;słuchawka;телефонная трубка
 13;relacje;matrymonialny;брачный
 13;relacje;ogłoszenie matrymonialne;матримониальное объявление
 13;relacje;domowe ognisko;домашний очаг
@@ -932,47 +898,44 @@
 14;sprzęt;robot kuchenny;кухонный комбайн
 14;sprzęt;krojenie;резка, кройка
 14;sprzęt;odkurzacz;пылесос
-14;łuki;odrobina;малость, частица, крупица
+14;spójniki;odrobina;малость, частица, крупица
 14;sprzęt;pralka;стиральная машина
 14;sprzęt;suszarka do włosów;фен для волос
 14;sprzęt;urządzenie mieszkania;оборудование квартиры
 14;sprzęt;ekspres do kawy;кофеварка
 14;sprzęt;mikrofalówka;микроволновка
 14;sprzęt;urządzenie;устройство, оборудование
-14;łuki;kształt;форма
+14;spójniki;kształt;форма
 14;sprzęt;pilot;пульт
 14;sprzęt;pulpit;пульт, воспаленный
 14;sprzęt;gwarancja;гарантия
-14;łuki;nadal;по прежнему, впредь, в дальнейшем
+14;spójniki;nadal;по прежнему, впредь, в дальнейшем
 14;sprzęt;bardzo mi to odpowiada;мне это очень подходит
 14;sprzęt;oburzony;возмущенный
 14;sprzęt;dostęp to Internetu;доступ в Интернет
 14;sprzęt;a to pech!;вот незадача!
 14;sprzęt;telewizja kablowa;кабельное телевидение
-14;sprzęt;słuchawka;телефонная трубка
 14;sprzęt;klawiatura;клавиатура
 14;sprzęt;dokonać wynalazku;изобрести, сделать изобретение
 14;sprzęt;przycisk;нажим, кнопка
-14;łuki;wybieranie;отбор, выбор, разработка
+14;spójniki;wybieranie;отбор, выбор, разработка
 14;sprzęt;rata miesięczna;месячный платеж
 14;sprzęt;zostawić wiadomość po sygnale;оставить сообщение после сигнала
-14;sprzęt;rozmówca;собеседник
 14;sprzęt;rata;взнос, платеж, часть, доля
-14;sprzęt;konsument;потребитель
 14;sprzęt;reklamacja;претензия, жалоба
-14;łuki;niepotrzebny;ненужный, излишний
-14;łuki;zupełnie;совершенно, совсем, вполне
+14;spójniki;niepotrzebny;ненужный, излишний
+14;spójniki;zupełnie;совершенно, совсем, вполне
 14;sprzęt;wynalazek;изобретение
 14;sprzęt;energooszczędny;энергосберегающий
-14;łuki;wszędzie;везде, всюду повсюду
+14;spójniki;wszędzie;везде, всюду повсюду
 14;sprzęt;wyprasowany;выглаженный
 14;sprzęt;zepsuty;испорченный, сломанный, избалованный
 14;sprzęt;naprawiony;отремонтированный
-14;łuki;grzecznie;вежливо, учтиво, любезно
-14;łuki;irytacja;раздражение, злость
-14;łuki;pech;невезение, неудача
+14;spójniki;grzecznie;вежливо, учтиво, любезно
+14;spójniki;irytacja;раздражение, злость
+14;spójniki;pech;невезение, неудача
 14;sprzęt;budzik;будильник
-14;łuki;cokolwiek;что-нибудь, что-либо
+14;spójniki;cokolwiek;что-нибудь, что-либо
 14;sprzęt;prasować;гладить, утюжить
 14;sprzęt;kroić;резать, отрезать
 14;sprzęt;przygotować;приготовить, подготовить
@@ -983,46 +946,134 @@
 14;sprzęt;myć naczynia;мыть посуду
 14;sprzęt;ugotować kawę;сварить кофе
 14;sprzęt;kurzyć;поднимать пыль, сыпать (снегом)
-14;sprzęt;gotować;кипятить, варить, готовить
 14;sprzęt;włączyć;включить
 14;sprzęt;wyłączyć;выключить
 14;sprzęt;naprawić;починить
-14;sprzęt;irytować;раздражать, сердить, злить
 14;sprzęt;zepsuć się;испортиться, сломаться
-14;łuki;pękać z zazdrości;лопаться от зависти
-14;łuki;kupić coś od ręki;купить что-то сразу, немедленно
-14;łuki;kształtować;формировать
+14;spójniki;pękać z zazdrości;лопаться от зависти
+14;spójniki;kupić coś od ręki;купить что-то сразу, немедленно
+14;spójniki;kształtować;формировать
 14;sprzęt;kształtować gust;формировать вкус
-14;łuki;lansować;популяризировать
-14;łuki;poradzić sobie z;справиться с
-14;łuki;zdawać sobie sprawę;осознавать
-14;łuki;owijać coś w bawełnę;умалчивать о чем-либо
+14;spójniki;lansować;популяризировать
+14;spójniki;poradzić sobie z;справиться с
+14;spójniki;zdawać sobie sprawę;осознавать
+14;spójniki;owijać coś w bawełnę;умалчивать о чем-либо
 14;sprzęt;odkładać słuchawkę;класть телефонную трубку
-14;łuki;korzystać z czegoś;пользоваться чем-либо
-14;łuki;na co dzień;каждый день
-14;łuki;wywoływać;вызывать, выкликать
-14;łuki;oburzyć się;возмутиться, вознегодовать
+14;spójniki;korzystać z czegoś;пользоваться чем-либо
+14;spójniki;na co dzień;каждый день
+14;spójniki;wywoływać;вызывать, выкликать
+14;spójniki;oburzyć się;возмутиться, вознегодовать
 14;sprzęt;składać reklamację;составлять жалобу
-14;łuki;prosić o pomóc;просить о помощи
-14;łuki;zareagować na coś;отреагировать на что-либо
-14;łuki;skierować;направить
+14;spójniki;prosić o pomóc;просить о помощи
+14;spójniki;zareagować na coś;отреагировать на что-либо
+14;spójniki;skierować;направить
 14;sprzęt;skierować sprawę;передать дело
-14;łuki;służyć do;служить для
+14;spójniki;służyć do;служить для
 14;sprzęt;wybierać numer;набирать номер
 14;sprzęt;pękać ze śmiechu;покатываться со смеху
 14;sprzęt;płacić raty;вносить платежи
-14;łuki;wczasy;отдых, досуг
+14;spójniki;wczasy;отдых, досуг
 14;sprzęt;oszust;обманщик, мошенник, аферист
-14;łuki;czynność;занятие, дело, действие
+14;spójniki;czynność;занятие, дело, действие
 14;sprzęt;pokrywa;крышка, верхний слой
 14;sprzęt;gust;вкус
 14;sprzęt;mam pecha;мне не везет
 14;sprzęt;wynaleźć;найти, изобрести
 14;sprzęt;być zadowolonym z;быть довольным
 14;sprzęt;rozwijać się;развиваться
-14;łuki;prawie wszystko;почти все
-14;łuki;upowszechnienie;распространение, популяризация
+14;spójniki;prawie wszystko;почти все
+14;spójniki;upowszechnienie;распространение, популяризация
 14;sprzęt;upowszechniać się;распространяться
-14;łuki;dostęp;доступ
-14;łuki;prawie;почти
+14;spójniki;dostęp;доступ
 14;sprzęt;luksus;роскошь, комфорт
+15;spójniki;akurat;как раз, именно
+15;odzież;adidasy;кроссовки
+15;odzież;artykuł;товар
+15;odzież;artykułów dziecięcych;(отдел) детских товаров
+15;odzież;artykułów sportowych;(отдел) спортивных товаров
+15;spójniki;atrakcyjny;привлекательный, заманчивый
+15;odzież;bielizny;(отдел) белья
+15;odzież;bielizny pościelowej;(отдел) постельного белья
+15;odzież;biustonosz;бюстгалтер
+06 15;odzież;bluzka;блузка, кофточка
+15;odzież;brak;отсутствие, нехватка
+15;odzież;brakować;не хватать
+15;odzież;buciki na obcasie;туфли на каблуке
+15;odzież;buty;ботинки, сапоги
+15;odzież;cena promocyjna;специальная цена
+15;odzież;ciuchy;одежда, тряпки (разг)
+15;odzież;co jest do twarzy komu;что к лицу кому
+15;odzież;co podoba się komu;что нравится кому
+15;odzież;co smakuje komu;что нравится кому (о еде)
+15;odzież;czółenka;туфли-лодочки (ср.р, мн.ч)
+15;odzież;dres;спортивный костюм
+04 15;spójniki;dział;отдел
+15;odzież;dziewiarstwa;(отдел) трикотажных изделий
+15;odzież;dżinsy;джинсы
+15;odzież;futro;мех, шуба
+15;odzież;futrzany;меховой
+15;odzież;garsonka;платье, костюм
+15;odzież;gatunek;сорт, качество
+15;odzież;golf;гольф
+15;odzież;gospodarstwa domowego;(отдел) товаров для дома
+15;spójniki;jakość;качество
+15;odzież;jesionka;осеннее, демисезонное пальто
+15;odzież;kalesony;кальсоны
+15;odzież;kamizelka;жилет, жилетка
+15;odzież;kapcie;тапочки
+15;odzież;kaptur;капюшон
+15;odzież;kieszeń;карман
+15;odzież;kłapki;шлепанцы
+15;odzież;kołnierz;воротник
+15;odzież;kosmetyków;(отдел) косметики
+15;odzież;kostium;костюм женский
+15;odzież;kozaki;сапоги
+15;odzież;kożuch;дубленка, полушубок
+15;odzież;mankament;брак, дефект
+15;odzież;marynarka;пиджак
+15;spójniki;mieścić się;помещаться, находиться
+15;spójniki;mnóstwo;множество, полно
+15;odzież;obuwie;обувь
+15;odzież;odpinać;отстегивать
+15;odzież;odzież damska;одежда женская
+15;odzież;odzież męska;одежда мужская
+15;odzież;palto;пальто
+15;odzież;pas;ремень
+15;odzież;pasek;ремешок
+15;odzież;pasmanterii;(отдел) швейной галантереи
+09 15;odzież;pasować;подходить, соответствовать
+15;odzież;perfumerii;(отдел) парфюмерии
+15;odzież;piżama;пижама
+15;odzież;płaszcz;плащ
+15;odzież;podkolanówki;гольфы
+15;odzież;półbuty;полуботинки, туфли
+15;odzież;półgolf;гольф
+15;odzież;pończochy;чулки
+15;odzież;przymierzyć;примерить
+15;odzież;pulower;пуловер, джемпер
+15;odzież;rękaw;рукав
+15;odzież;skarpetki;носки
+15;odzież;skóra;кожа
+15;odzież;skórzany;кожаный
+15;odzież;sprzedaż;продажа
+15;odzież;stanik;бюстгалтер
+15;odzież;stoisko;секция, стенд, прилавок
+15;odzież;suknia dobre leży;платье хорошо сидит
+15;odzież;sweterek;шерстяная кофточка
+15;odzież;szlafrok;домашний халат
+15;odzież;szorty;шорты
+15;odzież;tanio;дешево
+15;odzież;tłok;толкотня, давка
+15;odzież;trampki;кеды, спортивная обувь
+15;odzież;w czym jest do twarzy komu;в чем хорошо кому
+15;spójniki;wejść;подняться
+15;spójniki;wjechać;въехать
+15;odzież;wyrób;изделие
+15;odzież;wystarczać;хватать, быть достаточным
+15;odzież;zapinać;застегивать
+15;odzież;zatrzask;кнопка, защелка
+15;spójniki;zejść;спуститься
+15;spójniki;zjechać;съехать
+15;odzież;znajdować;находить
+15;spójniki;znaleźć;найти
+15;odzież;zniżka;скидка
