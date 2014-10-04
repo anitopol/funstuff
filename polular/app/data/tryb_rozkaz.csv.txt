@@ -1,0 +1,75 @@
+bać się;bój się;niech się boi;bójmy się;bójcie się;niech się boją
+bawić się;baw się;niech się bawi;bawmy się;bawcie się;niech się bawią
+budować;buduj;niech buduje;budujmy;budujcie;niech budują
+być;bądź;niech będzie;bądźmy;bądźcie;niech będą
+chcieć;chciej;niech chce;chciejmy;chciejcie;niech chcą
+czekać;czekaj;niech czeka;czekajmy;czekajcie;niech czekają
+czytać;czytaj;niech czyta;czytajmy;czytajcie;niech czytają
+dać;daj;niech da;dajmy;dajcie;niech dadzą
+grać;graj;niech gra;grajmy;grajcie;niech grają
+ignorować;ignoruj;niech ignoruje;ignorujmy;ignorujcie;niech ignorują
+iść;idź;niech idzie;idźmy;idźcie;niech idą
+jechać;jedź;niech jedzie;jedźmy;jedźcie;niech jadą
+jeść;jedz;niech je;jedzmy;jedzcie;niech jedzą
+skończyć;skończ;niech skończy;skończmy;skończcie;niech skończą
+kupić;kup;niech kupi;kupmy;kupcie;niech kupią
+kupować;kupuj;niech kupuje;kupujmy;kupujcie;niech kupują
+#martwić;;;;;
+malować;maluj;niech maluje;malujmy;malujcie;niech malują
+mieć;miej;niech ma;miejmy;miejcie;niech mają
+modlić się;módl;niech modli;módlmy;módlcie;niech modlą
+mówić;mów;niech mówi;mówimy;mówcie;niech mówią
+myśleć;myśl;niech myśli;myślmy;myślcie;niech myślą
+naprawić;napraw;niech naprawi;naprawmy;naprawcie;niech naprawią
+począć;pocznij;niech pocznie;pocznijmy;pocznijcie;niech poczną
+zwiedzić;zwiedź;niech zwiedzi;zwiedźmy;zwiedźcie;niech zwiedzą
+#patrzeć;;;;;
+pić;pij;niech pije;pijmy;pijcie;niech piją
+pisać;pisz;niech pisze;piszmy;piszcie;niech piszą
+#płacić;płać;;;;
+powiedzieć;powiedz;niech powie;powiedzmy;powiedzcie;niech powiedzą
+próbować;próbuj;niech próbuje;próbujmy;próbujcie;niech próbują
+#prosić;proś;;;;
+#przestać;;;;;
+#przestawać;;;;;
+przetłumaczyć;przetłumacz;niech przetłumaczy;przetłumaczmy;przetłumaczcie;niech przetłumaczą
+pytać;pytaj;niech pyta;pytajmy;pytajcie;niech pytają
+rozmawiać;rozmawiaj;niech rozmawia;rozmawiajmy;rozmawiajcie;niech rozmawiają
+siadać;siadaj;niech siada;siadajmy;siadajcie;niech siadają
+siąść;siądź;niech siądzie;siądźmy;siądźcie;niech siądą
+słuchać;słuchaj;niech słucha;słuchajmy;słuchajcie;niech słuchają
+słyszeć;słysz;niech słyszy;słyszmy;słyszcie;niech słyszą
+spać;śpij;niech śpi;śpijmy;śpijcie;niech śpią
+śpiewać;śpiewaj;niech śpiewa;śpiewajmy;śpiewajcie;niech śpiewają
+sprzedać;sprzedaj;niech sprzeda;sprzedajmy;sprzedajcie;niech sprzedadzą
+#sprzedawać;;;;;
+stać;stań się;niech się stanie;stańmy się;stańcie się;niech się staną
+szanować;szanuj;niech szanuje;szanujmy;szanujcie;niech szanują
+tańczyć;tańcz;niech tańczy;tańczmy;tańczcie;niech tańczą
+uczyć;ucz;niech uczy;uczmy;uczcie;niech uczą
+ugotować;ugotuj;niech ugotuje;ugotujmy;ugotujcie;niech ugotują
+#umierać;;;;;
+wejść;wejdź;niech wejdzie;wejdźmy;wejdźcie;niech wejdą
+#wracać;;;;;
+wrócić;wróć;niech wróci;wróćmy;wróćcie;niech wrócą
+wstydzić;wstydź się;niech się wstydzi;wstydźmy się;wstydźcie się;niech się wstydzą
+#wysłać;;;;;
+wysyłać;wysyłaj;niech wysyła;wysyłajmy;wysyłajcie;niech wysyłają
+wziąć;weź;niech weźmie;weźmy;weźcie;niech wezmą
+#zacząć;;;;;
+zaczynać;zaczynaj;niech zaczyna;zaczynajmy;zaczynajcie;niech zaczynają
+zadzwonić;zadzwoń;niech zadzwoni;zadzwońmy;zadzwońcie;niech zadzwonią
+zapominać;zapominaj;niech zapomina;zapominajmy;zapominajcie;niech zapominają
+zapomnieć;zapomnij;niech zapomni;zapomnijmy;zapomnijcie;niech zapomną
+#zapraszać;;;;;
+#zaprosić;;;;;
+zastanawiać;zastanawiaj;niech zastanawia;zastanawiajmy;zastanawiajcie;niech zastanawiają
+#zastanowić;;;;;
+zgadzać;zgódź;niech zgadza;zgódźmy;zgódźcie;niech zgadzają
+zgodzić;zgódź;niech zgodzi;zgódźmy;zgódźcie;niech zgodzą
+zostać;zostań;niech zostanie;zostańmy;zostańcie;niech zostaną
+zostawać;zostawaj;niech zostaje;zostawajmy;zostawajcie;niech zostają
+#zostawiać;;;;;
+zostawić;zostaw;niech zostawi;zostawmy;zostawcie;niech zostawią
+zrobić;zrób;niech zrobi;zróbmy;zróbcie;niech zrobią
+zrozumieć;zrozum;niech zrozumie;zrozumiejmy;zrozumiejcie;niech zrozumieją
