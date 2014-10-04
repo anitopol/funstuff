@@ -56,7 +56,7 @@
 04;jadalne;restauracja;ресторан
 04;jadalne;rogalik;рожок (булка)
 04;jadalne;dania z ryb;рыбные блюда
-04 11;jadalne;targ;рынок, базар
+04 11 16;jadalne;targ;рынок, базар
 04;jadalne;cukier;сахар
 04;jadalne;reszta;сдача
 04;jadalne;dzisiaj;сегодня, полная форма
@@ -135,7 +135,7 @@
 05;jadalne;zastawiać stół;сервировать стол
 05;jadalne;nakrywać do stołu;сервировать стол (накрывать)
 05;jadalne;patelnia;сковородка
-05;jadalne;ile kosztuje;сколько стоит?
+05 16;jadalne;ile kosztuje;сколько стоит?
 05;jadalne;śmietanka;сливки
 05;jadalne;parówka;сосиска
 05;jadalne;lista zakupów;список покупок
@@ -152,7 +152,7 @@
 06;odzież;duży;большой, крупный
 06;odzież;buty;ботинки, сапоги
 06 15;odzież;spodnie;брюки, штаны
-06;odzież;krawat;галстук
+06 16;odzież;krawat;галстук
 06;odzież;niebieski;голубой, светло-синий
 06;odzież;spodnie dżinsowe;джинсы
 06;odzież;długi;долгий, длинный
@@ -221,7 +221,7 @@
 07;odzież;przymierzać;примерять
 07;wakacje;spacer;прогулка
 07;odzież;sprzedawać;продавать
-07;odzież;rozmiar;размер, величина, формат
+07 16;odzież;rozmiar;размер, величина, формат
 07;spójniki;dawniej;ранее, прежде
 07;wakacje;relaksować się;расслабляться
 07;wakacje;Boże Narodzenie;Рождество
@@ -368,7 +368,7 @@
 08;zdrowie;palce;пальцы
 08;zdrowie;dolegać;беспокоить
 08;zdrowie;co panu dolega;что вас беспокоит
-08;zdrowie;rozbierać się;раздеваться
+08 16;zdrowie;rozbierać się;раздеваться
 08;zdrowie;badać chorego;осматривать больного
 08;zdrowie;gorączka;повышенная температура
 08;zdrowie;katar;насморк
@@ -790,9 +790,9 @@
 13;relacje;relacje;отношения
 13;relacje;ciągle;постоянно, непрерывно
 13;relacje;pretensja;претензия
-13;relacje;pierścionek;кольцо, колечко, перстенек
+13 16;relacje;pierścionek;кольцо, колечко, перстенек
 13;relacje;kolczyk;серьга, сережка
-13;relacje;bransoletka;браслет
+13 16;relacje;bransoletka;браслет
 13;relacje;zazdrosny;ревнивый, завистливый
 13;relacje;na pewno;наверное, несомненно
 13 14;spójniki;prawie;почти
@@ -1038,8 +1038,8 @@
 15;odzież;odzież damska;одежда женская
 15;odzież;odzież męska;одежда мужская
 15;odzież;palto;пальто
-15;odzież;pas;ремень
-15;odzież;pasek;ремешок
+15 16;odzież;pas;ремень
+15 16;odzież;pasek;ремешок
 15;odzież;pasmanterii;(отдел) швейной галантереи
 09 15;odzież;pasować;подходить, соответствовать
 15;odzież;perfumerii;(отдел) парфюмерии
@@ -1077,3 +1077,106 @@
 15;odzież;znajdować;находить
 15;spójniki;znaleźć;найти
 15;odzież;zniżka;скидка
+16;odzież;dodatki;аксесуары
+16;odzież;muszka;бабочка
+16;odzież;szelki;подтяжки, бретели
+16;odzież;parasol;зонт
+16;odzież;apaszka;шейный платок, косынка
+16;odzież;chustka;платок, косынка
+16;odzież;torebka;сумка
+16;odzież;portmonetka;кошелек, портмоне
+16;odzież;kapelusz;шляпа
+16;odzież;rękawiczki;перчатки, варежки
+16;odzież;szalik;шаль, шарф
+16;odzież;chusteczka do nosa;носовой платочек
+16;odzież;tkaniny;ткани
+16;odzież;wełna;шерсть
+16;odzież;jedwab;шелк
+16;odzież;aksamit;бархат
+16;odzież;bawełna;хлопок
+16;odzież;sztruks;вельвет
+16;odzież;flanela;фланель
+16;odzież;włókno sztuczne;искусственное волокно
+16;odzież;gładki;гладкий, ровный
+16;odzież;we wzorek;в узоры
+16;odzież;w deseń;с орнаментом
+16;odzież;w kwiaty;в цветы
+16;odzież;w kratkę;в клетку (клетчатое)
+16;odzież;w kropki;в крапинку
+16;odzież;w grochy;в горошек
+16;odzież;w paski;в полоски
+16;odzież;pościel;постель
+16;odzież;pierzyna;пуховое одеяло, перина
+16;odzież;poduszka;подушка
+16;odzież;jasiek;подушечка
+16;odzież;kołdra;стеганое одеяло
+16;odzież;koc;шестяное одеяло
+16;odzież;podpinka;пододеяльник
+16;odzież;poszwa;пододеяльник
+16;odzież;prześcieradło;простынь
+16;odzież;poszewka;наволочка
+16;odzież;wyroby jubilerskie;ювелирные изделия
+16;odzież;łańcuszek;цепочка
+16;odzież;wisiorek;подвеска
+16;odzież;pierścionek;кольцо, колечко
+16;odzież;obrączka ślubna;обручальное кольцо
+16;odzież;kolczyki;серьги
+16;odzież;klipsy;клипсы
+16;odzież;korale;бусы
+16;odzież;naszyjnik;ожерелье
+16;odzież;kolia;колье, ожерелье
+16;odzież;broszka;брошь
+16;odzież;spinki;запонки
+16;odzież;kosmetyki;косметика
+16;odzież;woda toaletowa;туалетная вода
+16;odzież;szampon;шампунь
+16;odzież;żel;гель
+16;odzież;żel pod prysznic;гель для душа
+16;odzież;mleczko kosmetyczne;косметическое молочко
+16;odzież;puder;пудра
+16;odzież;tusz;тушь для ресниц
+16;odzież;cienie;тени
+16;odzież;szminka;помада
+16;odzież;lakier;лак
+16;odzież;lakier do paznokci;лак для ногтей
+16;odzież;mydło;мыло
+16;odzież;olejek;масло
+16;odzież;krem do golenia;крем для бритья
+16;odzież;krem po goleniu;крем после бритья
+16;odzież;krem do twarzy;крем для лица
+16;odzież;krem do cery normalnej;крем для нормальной кожи
+16;odzież;krem do cery suchej;крем для сухой кожи
+16;odzież;krem do cery tłustej;крем для жирной кожи
+16;odzież;dom towarowy;универмаг
+16;odzież;komis;комиссионный магазин
+16;odzież;targowisko;рынок, базар
+16;odzież;bazar;базар
+16;odzież;kiermasz;ярмарка, базар
+16;odzież;targi;ярмарка
+16;odzież;giełda;биржа
+16;odzież;hurtownia;оптовый склад
+16;odzież;kiosk;киоск
+16;odzież;pawilon;павильон
+16;odzież;stragan;лоток, палатка, ларек
+16;odzież;budka;ларек, киоск
+16;odzież;w jakiej cenie;в какую цену...
+16;odzież;po ile;по чем...
+16;odzież;ile płacę;сколько я плачу...
+16;odzież;uroda;красота
+16;odzież;tusza;тучность, полнота
+16;odzież;grzywka;челка
+16;odzież;strzyżenie;стрижка
+16;odzież;proste włosy;прямые волосы
+16;odzież;kręcone włosy;вьющиеся волосы
+16;odzież;modelowanie włosów;укладка волос
+16;odzież;balejaż włosów;колорирование волос
+16;odzież;pielęgnacja;уход
+16;odzież;numer buta;размер ботинка
+16;odzież;numer kołnierza;размер воротника
+16;odzież;numer kołnierzyka;размер воротничка
+16;odzież;wzrost;рост
+16;odzież;wkładać;надевать
+16;odzież;włożyć;надеть
+16;odzież;ubierać się;одеваться
+16;odzież;ubrać się;одеться
+16;odzież;rozebrać się;раздеться

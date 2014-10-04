@@ -1,4 +1,5 @@
 czasowniki_teraz_odmiany;Czasowniki: czas terazneiszy
+tryb_rozkaz;Czasowniki : tryb rozkazujący
 #czasowniki_preszly_odmiany;Czasowniki: czas przesly
 liczebniki;Liczebniki
 slowa;Slowa
