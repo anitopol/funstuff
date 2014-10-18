@@ -1,7 +1,7 @@
 04;jadalne;sklep monopolowy;алкомагазин
 04;jadalne;pomarańcza;апельсин
 04;jadalne;banan;банан
-04;jadalne;puszka;банка
+04 17;jadalne;puszka;банка
 04;jadalne;dania z drobiu;блюда из птицы
 04;jadalne;obarzanek;бублик
 04;jadalne;bułka;булка
@@ -17,7 +17,7 @@
 04;jadalne;robić zakupy;делать покупки
 04 07;jadalne;pieniądze;деньги
 04 06 15;jadalne;tani;дешевый
-04;jadalne;jeść;есть, кушать
+04 17;jadalne;jeść;есть, кушать
 04;jadalne;śniadanie;завтрак
 04;jadalne;jeść śniadanie;завтракать
 04;jadalne;kapusta;капуста
@@ -25,7 +25,7 @@
 04;jadalne;frytki;картофель фри
 04;jadalne;kawiarnia;кафе, кофейня
 04;jadalne;klient;клиент, заказчик
-04;jadalne;cukiernia;кондитерская
+04 17;jadalne;cukiernia;кондитерская
 04;jadalne;kawa biała;кофе с молоком
 04;jadalne;kura w rosole;курица в бульоне
 04;jadalne;cytryna;лимон
@@ -60,8 +60,8 @@
 04;jadalne;cukier;сахар
 04;jadalne;reszta;сдача
 04;jadalne;dzisiaj;сегодня, полная форма
-04;jadalne;śmietana;сметана
-04;jadalne;sól;соль
+04 17;jadalne;śmietana;сметана
+04 17;jadalne;sól;соль
 04;jadalne;zupa;суп
 04;jadalne;rachunek;счет
 04;jadalne;tort;торт
@@ -69,7 +69,7 @@
 04;jadalne;rano;утром, рано
 04;jadalne;owoce;фрукты
 04;jadalne;chleb;хлеб
-04;jadalne;pieczywo;хлебопродукты
+04 17;jadalne;pieczywo;хлебопродукты
 04;jadalne;napoje zimne;холодные напитки
 04;jadalne;herbata;чай
 04;jadalne;coś do picia;что-то попить
@@ -81,17 +81,17 @@
 05;jadalne;pierogi;вареники, пироги
 05 14;jadalne;gotować;варить, кипятить
 05;jadalne;widelec;вилка
-05;jadalne;smak;вкус
+05 17;jadalne;smak;вкус
 05;jadalne;smakowity;вкусный, аппетитный
 05;jadalne;ewentualne;возможно
-05;jadalne;boczek;грудинка
+05 17;jadalne;boczek;грудинка
 05;jadalne;robić;делать
-05;jadalne;dodać;добавить 
+05 17;jadalne;dodać;добавить
 05;jadalne;dodać do smaku;добавить по вкусу
 05;jadalne;płyn;жидкость
 05;jadalne;ząbek czosnku;зубчик чеснока
 05;jadalne;rodzynki;изюм
-05;jadalne;garnek;кастрюля
+05 17;jadalne;garnek;кастрюля
 05;jadalne;kilo;кило
 05 06;jadalne;kilogram;килограмм
 05;jadalne;składniki;компоненты
@@ -102,7 +102,7 @@
 05;jadalne;łyżka;ложка
 05;jadalne;drogeria;магазин бытовой химии
 05;jadalne;miód;мед
-05;jadalne;nabiał;молокопродукты
+05 17;jadalne;nabiał;молокопродукты
 05;jadalne;marchewka;морковка
 05;jadalne;lody;мороженное
 05;jadalne;mąka;мука
@@ -115,8 +115,8 @@
 05;jadalne;wystygnięcie;остывание
 05;jadalne;wystygnąć;остыть
 05;jadalne;mailować;отправлять имейл
-05;jadalne;wymieszać;перемешать
-05;jadalne;pieprz;перец
+05 17;jadalne;wymieszać;перемешать, вымешать
+05 17;jadalne;pieprz;перец
 05;jadalne;pić;пить
 05;jadalne;płacić;платить
 05;jadalne;podsmażyć;поджарить, подрумянить
@@ -128,29 +128,29 @@
 05;jadalne;kawa rozpuszczalna;растворимый кофе
 05;jadalne;olej;растительное масло
 05;jadalne;postanowić;решить
-05;jadalne;kieliszek;рюмка
+05 17;jadalne;kieliszek;рюмка
 05;jadalne;serwetka;салфетка
 05;jadalne;burak;свекла
-05;jadalne;wieprzowina;свинина
+05 17;jadalne;wieprzowina;свинина
 05;jadalne;zastawiać stół;сервировать стол
-05;jadalne;nakrywać do stołu;сервировать стол (накрывать)
-05;jadalne;patelnia;сковородка
+05 17;jadalne;nakrywać do stołu;сервировать стол (накрывать)
+05 17;jadalne;patelnia;сковородка
 05 16;jadalne;ile kosztuje;сколько стоит?
-05;jadalne;śmietanka;сливки
-05;jadalne;parówka;сосиска
+05 17;jadalne;śmietanka;сливки
+05 17;jadalne;parówka;сосиска
 05;jadalne;lista zakupów;список покупок
-05;jadalne;szklanka;стакан
+05 17;jadalne;szklanka;стакан
 05;jadalne;kosztować;стоить
 05;jadalne;burak jadalny;столовая свекла
 05;jadalne;sztuciec stołowy;столовый прибор
-05;jadalne;cielęcina;телятина
+05 17;jadalne;cielęcina;телятина
 05;jadalne;łyżeczka do herbaty;чайная ложечка
 05;jadalne;filiżanka;чашка
 05;jadalne;czekolada;шоколад
 06;odzież;apteka;аптека
 06;odzież;biały;белый
 06;odzież;duży;большой, крупный
-06;odzież;buty;ботинки, сапоги
+06 15;odzież;buty;ботинки, сапоги
 06 15;odzież;spodnie;брюки, штаны
 06 16;odzież;krawat;галстук
 06;odzież;niebieski;голубой, светло-синий
@@ -173,13 +173,13 @@
 06;odzież;sklep odzieżowy;магазин одежды
 06 15;odzież;podkoszulek;майка, нижняя рубашка
 06;odzież;mały;маленький, небольшой
-06;odzież;obuwie;обувь
+06 15;odzież;obuwie;обувь
 06;odzież;odzież;одежда
 06;odzież;ubranie;одежда
 06;odzież;optyk;оптика
 06;odzież;pomarańczowy;оранжевый
 06;odzież;paczka;пачка, стопка, пакет, сверток
-06;odzież;marynarka;пиджак, флот
+06 15;odzież;marynarka;пиджак, флот
 06;odzież;sukienka;платье
 06;odzież;klientka;покупательница, клиентка
 06;odzież;sprzedawca;продавец
@@ -462,11 +462,11 @@
 09 13;praca;status społeczny;общественный статус
 09 14;praca;konsument;потребитель
 09 10;praca;edukacja;образование
-09;praca;odżywać się;питаться
+09 17;praca;odżywać się;питаться
 09;praca;prezenter;ведущий
 09;praca;przypadkowo;случайно
 09 10;praca;zatrudniać;давать работу
-09;praca;zatrudniać się;наниматься на работу
+09 10;praca;zatrudniać się;наниматься на работу
 09;praca;zanim;прежде чем, до того как
 09;praca;kojarzyć się;сочетаться, ассоциироваться
 09 13;praca;naprawdę;действительно
@@ -557,7 +557,6 @@
 10;praca;koledzy z pracy;коллеги по работе
 10;praca;konsekwencje;последствия
 10;praca;łatwy;легкий
-10;praca;zatrudniać się;трудоустраиваться
 10;praca;minimum socjalne;прожиточный минимум
 10;praca;obojętny;безразличный
 10;praca;odpowiedzialny;ответственный
@@ -700,7 +699,7 @@
 08 11;spójniki;przeciętny;посредственный
 11;odzież;wydatek;расход, издержка
 11;spójniki;kilkakrotnie;несколько раз
-11;jadalne;żywność;пища, продовольствие
+11 17;jadalne;żywność;пища, продовольствие
 11;wieś;rolnik;аграрий, земледелец
 11;wieś;gospodarstwo rolne;сельское хозяйство
 11;wieś;zboże;зерно, хлеба
@@ -753,7 +752,7 @@
 12;charakter;zwolennik;сторонник
 12;charakter;przeciwnik;противник
 12;charakter;walka;борьба, бой
-12;wieś;pożywienie;пропитание, пища
+12 17;wieś;pożywienie;пропитание, пища, еда
 12;charakter;męczyć się;мучиться
 12;praca;zaburzenie;нарушение
 12;praca;zaburzyć;нарушить
@@ -939,7 +938,7 @@
 14;spójniki;cokolwiek;что-нибудь, что-либо
 14;sprzęt;prasować;гладить, утюжить
 14;sprzęt;kroić;резать, отрезать
-14;sprzęt;przygotować;приготовить, подготовить
+14 17;sprzęt;przygotować;приготовить, подготовить
 14;sprzęt;odkurzać;стирать, выбивать пыль
 14;sprzęt;przechowywać;хранить, укрывать, прятать
 14;sprzęt;przechowywać żywność;хранить продукты
@@ -1000,7 +999,6 @@
 15;odzież;brak;отсутствие, нехватка
 15;odzież;brakować;не хватать
 15;odzież;buciki na obcasie;туфли на каблуке
-15;odzież;buty;ботинки, сапоги
 15;odzież;cena promocyjna;специальная цена
 15;odzież;ciuchy;одежда, тряпки (разг)
 15;odzież;co jest do twarzy komu;что к лицу кому
@@ -1031,10 +1029,8 @@
 15;odzież;kozaki;сапоги
 15;odzież;kożuch;дубленка, полушубок
 15;odzież;mankament;брак, дефект
-15;odzież;marynarka;пиджак
 15;spójniki;mieścić się;помещаться, находиться
 15;spójniki;mnóstwo;множество, полно
-15;odzież;obuwie;обувь
 15;odzież;odpinać;отстегивать
 15;odzież;odzież damska;одежда женская
 15;odzież;odzież męska;одежда мужская
@@ -1119,7 +1115,6 @@
 16;odzież;wyroby jubilerskie;ювелирные изделия
 16;odzież;łańcuszek;цепочка
 16;odzież;wisiorek;подвеска
-16;odzież;pierścionek;кольцо, колечко
 16;odzież;obrączka ślubna;обручальное кольцо
 16;odzież;kolczyki;серьги
 16;odzież;klipsy;клипсы
@@ -1181,3 +1176,209 @@
 16;odzież;ubierać się;одеваться
 16;odzież;ubrać się;одеться
 16;odzież;rozebrać się;раздеться
+17;jadalne;buraczki;свекла
+17;jadalne;chrzan;хрен
+17;jadalne;czosnek;чеснок
+17;jadalne;drób;птица
+17;jadalne;filet;филе
+17;jadalne;galareta;жиле
+17;jadalne;galarecie;жиле (заливное)
+17;jadalne;nózki w galarecie;холодец
+17;jadalne;kurczak z rożna;курица гриль
+17;jadalne;marchew;морковь
+17;jadalne;nadziewany;фаршированный
+17;jadalne;napój;напиток
+17;jadalne;trunek;напиток
+17;jadalne;ozór;язык
+17;jadalne;ozorek;язык
+17;jadalne;pieczeń;жаркое
+17;jadalne;polędwica;вырезка
+17;jadalne;wino wytrawne;вино сухое
+17;jadalne;zamówić;заказать
+17;jadalne;zamawiać;заказывать
+17;jadalne;zjeść posiłek;съесть порцию
+17;jadalne;podwieczorek;полудник
+17;jadalne;jeść, pić co;есть, пить что-то
+17;jadalne;napić się czego;напиться
+17;jadalne;sałata;салат растение
+17;jadalne;sałatka;салат
+17;jadalne;przystawka;закуска
+17;jadalne;zakąska;закуска
+17;jadalne;przekąska;закуска
+17;jadalne;wznieść toast za zdrowie;провозгласить тост за здоровье
+17;jadalne;wygłosić toast na cześć kogo;провозгласить тост в честь кого-то
+17;jadalne;prosić do stołu;просить к столу
+17;jadalne;siadać do stołu;Садиться за стол
+17;jadalne;zasiąść do stołu;сесть за стол
+17;jadalne;usiąść przy stole;сесть за стол
+17;jadalne;wstawać od stołu;вставать из-за стола
+17;jadalne;sprzątać ze stołu;убирать со стола
+17;jadalne;podjąć decyzję;принять решение
+17;jadalne;decyzja zapadła;решение принято
+17;jadalne;bar mleczny;Кафе-молочная
+17;jadalne;gospoda;закусочная
+17;jadalne;karczma;корчма
+17;jadalne;zajazd;трактир
+17;jadalne;stołówka;соловая
+17;jadalne;jadłodajnia;закусочная, столовая
+17;jadalne;knajpa;клуб, пивная
+17;jadalne;bistro;бистро
+17;jadalne;piwiarnia;пивная
+17;jadalne;pub;паб
+17;jadalne;winiarnia;винная лавка
+17;jadalne;bufet;буфет
+17;jadalne;spożywać;потреблять
+17;jadalne;próbować;пробовать
+17;jadalne;kosztować;отведывать
+17;jadalne;częstować się;угощаться
+17;jadalne;żuć;жевать
+17;jadalne;ugryźć (prze-);Укусить (перегрызть)
+17;jadalne;łykać;глотать
+17;jadalne;przełknąć;проглотить
+17;jadalne;połykać;проглатывать
+17;jadalne;popijać;попивать
+17;jadalne;popić;попить
+17;jadalne;jedzenie;пища
+17;jadalne;posiłek;прием пищи
+17;jadalne;pokarm;корм
+17;jadalne;danie;блюдо
+17;jadalne;danie gorące;горячее блюдо
+17;jadalne;danie mięsne;мясное блюдо
+17;jadalne;danie rybne;рыбное блюдо
+17;jadalne;danie jarskie;вегетрианское блюдо
+17;jadalne;dietyczne;диетическое
+17;jadalne;narodowe;национальное
+17;jadalne;danie firmowe (specjalność);фирменное блюдо
+17;jadalne;jedzenie zdrowe;здоровая еда
+17;jadalne;jedzenie smaczne;вкусная еда
+17;jadalne;Pycha!;Объедение
+17;jadalne;Palce lizać!;пальчики оближешь
+17;jadalne;Smacznego!;приятного аппетита
+17;jadalne;głodny;голодный
+17;jadalne;najedzony;сытый
+17;jadalne;na czczo;натощак
+17;jadalne;smakosz;гурман
+17;jadalne;łakomczuch;лакомка
+17;jadalne;obżartuch;обжора
+17;jadalne;jarosz;вегетарианец
+17;jadalne;mięso;мясо
+17;jadalne;wołowina;говядина
+17;jadalne;baranina;баранина
+17;jadalne;konina;конина
+17;jadalne;kura;курица
+17;jadalne;kurczak;цыпленок
+17;jadalne;kaczka;утка
+17;jadalne;indyk;индюк
+17;jadalne;indyczka;индейка
+17;jadalne;gęś;гусь
+17;jadalne;kiełbasa;колбаса
+17;jadalne;szynka;ветчина
+17;jadalne;placek;тесто, сдоба
+17;jadalne;babka;бабка
+17;jadalne;pączek;поньчик
+17;jadalne;drożdżówka;булочка из дрожжевого теста
+17;jadalne;ptyś;заварное пирожное
+17;jadalne;makowiec;пирог с маком
+17;jadalne;kremówka;пирожное (наполеон)
+17;jadalne;napoleonka;наполеон
+17;jadalne;szarlotka;шарлотка
+17;jadalne;mleko (zsiadłe,kwaśne);молоко (кислое, простокваша)
+17;jadalne;twaróg;творог
+17;jadalne;maślanka;обезжиренные сливки
+17;jadalne;jogurt;йогурт
+17;jadalne;dodatek;гарнир
+17;jadalne;pieczarka;шампиньон
+17;jadalne;kluski (leniwe);клецки, галушки
+17;jadalne;kopytka;клецки из картофеля
+17;jadalne;papryka;красный перец
+17;jadalne;musztarda;горчица
+17;jadalne;ocet;уксус
+17;jadalne;olej (oliwa);растительное масло
+17;jadalne;sos;соус
+17;jadalne;majonez;майонез
+17;jadalne;keczup;кетчуп
+17;jadalne;słodki;сладкий
+17;jadalne;gorzki;горький
+17;jadalne;słony;соленый
+17;jadalne;ostry;острый
+17;jadalne;pikantny;пикантный
+17;jadalne;kwaśny;кислый
+17;jadalne;cierpki;терпкий
+17;jadalne;ugotować;сварить
+17;jadalne;usmażyć;поджарить
+17;jadalne;upiec;испечь
+17;jadalne;zapiekać;запечь
+17;jadalne;dusić;тушить, выжимать
+17;jadalne;marynować;мариновать
+17;jadalne;grillować;готовить на гриле
+17;jadalne;odgrzewać;разогревать
+17;jadalne;gotowany;кипяченый, вареный
+17;jadalne;smażony;жареный
+17;jadalne;pieczony;печеный
+17;jadalne;zapiekany;запеченный
+17;jadalne;duszony;тушеный
+17;jadalne;świeży;свежий
+17;jadalne;surowy;сырой
+17;jadalne;suszony;сушеный
+17;jadalne;mrożony;замороженный
+17;jadalne;wędzony;копченый
+17;jadalne;umyć;помыть
+17;jadalne;opłukać;вымыть
+17;jadalne;wyszorować;вымыть, вычистить
+17;jadalne;obrać;очистить, снять кожуру
+17;jadalne;oskrobać;почистить
+17;jadalne;pokroić;нарезать
+17;jadalne;posiekać;покроить, нарубить
+17;jadalne;ubić;взбить
+17;jadalne;zaparzyć;заварить, запарить
+17;jadalne;ostudzić;охладить
+17;jadalne;dolać;долить
+17;jadalne;posmarować;помазать
+17;jadalne;posłodzić;положить сахар
+17;jadalne;zemleć;смолоть
+17;jadalne;wycisnąć;выдавить
+17;jadalne;utrzeć;растереть
+17;jadalne;rozgnieść;раздавить
+17;jadalne;rozwałkować;раскатать
+17;jadalne;obtoczyć;обвалять
+17;jadalne;posolić;посолить
+17;jadalne;przyprawić;приправить
+17;jadalne;białka;белки
+17;jadalne;węglowodany;углеводы
+17;jadalne;tłuszcze;жиры
+17;jadalne;błonnik;клетчатка
+17;jadalne;naczynia;посуда
+17;jadalne;przykrywka;крышка
+17;jadalne;brytfanna;противень
+17;jadalne;blacha;противень
+17;jadalne;miska;миска
+17;jadalne;półmisek;блюдо
+17;jadalne;salaterka;салатник
+17;jadalne;dzbanek;кувшин
+17;jadalne;talerz głęboki;глубокая тарелка
+17;jadalne;talerz płytki;Мелкая тарелка
+17;jadalne;kubek;кружка
+17;jadalne;spodek;блюдце
+17;jadalne;kufel;пивная кружка
+17;jadalne;solniczka;солонка
+17;jadalne;pieprzniczka;перечница
+17;jadalne;cukiernica;сахарница
+17;jadalne;popielniczka;пепельница
+17;jadalne;taca;поднос
+17;jadalne;chochla;ковш, черпак
+17;jadalne;korkociąg;штопор
+17;jadalne;otwieracz;открывачка
+17;jadalne;deska do krojenia;кухонная доска
+17;jadalne;wykałaczka;зубочистка
+17;jadalne;obrus;скатерть
+17;jadalne;serwetka;скатерть
+17;jadalne;słoik;стеклянная банка
+17;jadalne;tabliczka czekolady;плитка шоколада
+17;jadalne;plasterek;ломтик
+17;jadalne;kromka;ломоть
+17;jadalne;dzwonko;кусок рыбы
+17;jadalne;pęczek;пучок
+17;jadalne;woreczek;мешочек
+17;jadalne;szczypta;щепотка
+17;jadalne;sztuka;штука
+17;jadalne;porcja;порция
