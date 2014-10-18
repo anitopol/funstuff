@@ -1178,6 +1178,6 @@
 16;odzież;wzrost;рост
 16;odzież;wkładać;надевать
 16;odzież;włożyć;надеть
-16;odzież;ubierać się;одеваться
+16;odzież;ubierać się;одеваться
 16;odzież;ubrać się;одеться
 16;odzież;rozebrać się;раздеться
