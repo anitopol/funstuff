@@ -31,7 +31,7 @@
 04;jadalne;cytryna;лимон
 04;jadalne;cebula;лук
 04;jadalne;masło;масло (сливочное)
-04;jadalne;jadłospis;меню
+04;jadalne;jadłospis;меню, список блюд
 04;jadalne;menu;меню
 04;jadalne;karta;меню, карта
 04;jadalne;deka;мера веса 10г
@@ -81,7 +81,7 @@
 05;jadalne;pierogi;вареники, пироги
 05 14;jadalne;gotować;варить, кипятить
 05;jadalne;widelec;вилка
-05 17;jadalne;smak;вкус
+05 17;jadalne;smak;вкус (чувство)
 05;jadalne;smakowity;вкусный, аппетитный
 05;jadalne;ewentualne;возможно
 05 17;jadalne;boczek;грудинка
@@ -127,10 +127,10 @@
 05 07 15;jadalne;ekspedient;продавец
 05;jadalne;kawa rozpuszczalna;растворимый кофе
 05;jadalne;olej;растительное масло
-05;jadalne;postanowić;решить
+05;jadalne;postanowić;постановить
 05 17;jadalne;kieliszek;рюмка
 05;jadalne;serwetka;салфетка
-05;jadalne;burak;свекла
+05;jadalne;burak;свекла, буряк
 05 17;jadalne;wieprzowina;свинина
 05;jadalne;zastawiać stół;сервировать стол
 05 17;jadalne;nakrywać do stołu;сервировать стол (накрывать)
@@ -154,7 +154,7 @@
 06 15;odzież;spodnie;брюки, штаны
 06 16;odzież;krawat;галстук
 06;odzież;niebieski;голубой, светло-синий
-06;odzież;spodnie dżinsowe;джинсы
+06;odzież;spodnie dżinsowe;джинсы штаны
 06;odzież;długi;долгий, длинный
 06;odzież;drogi;дорогой
 06 15;odzież;żakiet;жакет, пиджак
@@ -175,14 +175,14 @@
 06;odzież;mały;маленький, небольшой
 06 15;odzież;obuwie;обувь
 06;odzież;odzież;одежда
-06;odzież;ubranie;одежда
+06;odzież;ubranie;одежда, убранство
 06;odzież;optyk;оптика
 06;odzież;pomarańczowy;оранжевый
 06;odzież;paczka;пачка, стопка, пакет, сверток
 06 15;odzież;marynarka;пиджак, флот
 06;odzież;sukienka;платье
 06;odzież;klientka;покупательница, клиентка
-06;odzież;sprzedawca;продавец
+06;odzież;sprzedawca;продавец,торговец
 06 15;odzież;koszula;рубашка
 06 15;odzież;sweter;свитер, шерстяная кофта
 06;odzież;wąski;узкий, тесный
@@ -191,13 +191,13 @@
 06;odzież;szeroki;широкий
 06 15;odzież;spódnica;юбка
 07;idiom;czarna owca;белая ворона
-07;wakacje;chorować;болеть
+07;wakacje;chorować;хворать
 07;wakacje;Narodowe święto Niepodległości;гос прадзн Независимости
 07;odzież;ubrania dla dzieci;детская одежда
 07;spójniki;czekać;ждать
 07;spójniki;zapomnieć;забыть
 07;odzież;szukać;искать
-07;wakacje;wakacje;каникулы
+07;wakacje;wakacje;каникулы, выходные
 07;wakacje;ferie;каникулы
 07 15;odzież;rajstopy;колготки
 07;idiom;czerwony jak burak;красный как рак
@@ -254,7 +254,7 @@
 08;sport;zająć pierwsze miejsce;занять первое место
 08;sport;zdobyć medal;завоевать медаль
 08;sport;pobić rekord;побить рекорд
-08;sport;wygrać medal;завоевать медаль
+08;sport;wygrać medal;выиграть медаль
 08;sport;środki dopingujące;допинг
 08;sport;lekkoatleta;легкоатлет
 08;sport;wyścigi samochodowe;автогонки
@@ -267,7 +267,7 @@
 08;sport;boks;бокс
 08;sport;narciarstwo;лыжный спорт
 08;sport;uprawiać sport;заниматься спортом
-08;sport;sportowca;спортсмен
+08;sport;sportowca;спортсмен (буквально)
 08;sport;mięśnie;мыщцы
 08;sport;wędkarz;рыболов
 08;sport;silna wola;сильная воля
@@ -333,7 +333,7 @@
 08;sport;trofeum;трофей
 08;sport;trzykrotny;трехкратный
 08;sport;zwycięstwo;победа
-08;sport;zwycięzca;победить
+08;sport;zwycięzca;победитель
 08;sport;lekkoatletyka;легкая атлетика
 08;sport;tenis stołowy;настольный теннис
 08;sport;kajakarstwo;бейсбол
@@ -389,7 +389,7 @@
 08;zdrowie;gorzej;хуже
 08;zdrowie;internista;терапевт
 08;zdrowie;kaszleć;кашлять
-08;zdrowie;objaw;симптом
+08;zdrowie;objaw;симптом, проявление
 08;zdrowie;symptom;симптом
 08;zdrowie;oddychać;дышать
 08;zdrowie;otworzyć;открыть
@@ -401,14 +401,14 @@
 08 11;zdrowie;przychodnia;поликлиника
 08;zdrowie;dolegliwość;недуг
 08;zdrowie;pogotowanie;скорая помощь
-08;zdrowie;karetka pogotowania;скорая помощь
+08;zdrowie;karetka pogotowania;скорая помощь (машина)
 08;zdrowie;choroba;болезнь
 08;zdrowie;boleć;болеть
-08;zdrowie;niepokoić;беспокоить
+08;zdrowie;niepokoić;тревожить
 08;charakter;energiczny;энергичный
 08;charakter;inteligentny;интеллигентный
 08;charakter;dynamiczny;динамичный
-08;charakter;ciekawy;интересный
+08;charakter;ciekawy;интересный, любопытный
 08;charakter;otwarty;открытый
 08;charakter;interesujący;интересный
 08;charakter;ambitny;самолюбивый
@@ -453,7 +453,7 @@
 08;charakter;uczciwy;добросовестный
 09;charakter;cyniczny;циничный
 09;charakter;charyzmatyczny;харизматичный
-09;charakter;solidny;серьезный
+09;charakter;solidny;серьезный, солидный
 09;charakter;konfliktowy;конфликтный
 09;charakter;monotonny;монотонный
 09;charakter;niedoświadczony;неопытный
@@ -461,7 +461,7 @@
 09;charakter;dystyngowany;благовоспитанный
 09 13;praca;status społeczny;общественный статус
 09 14;praca;konsument;потребитель
-09 10;praca;edukacja;образование
+09 10;praca;edukacja;образование, обучение
 09 17;praca;odżywać się;питаться
 09;praca;prezenter;ведущий
 09;praca;przypadkowo;случайно
@@ -495,7 +495,7 @@
 09;praca;denerwować;раздражать, нервировать
 09;praca;krytykować;критиковать
 09 14;praca;irytować;сердить, раздражать, злить
-10;praca;aplikujący;кандидат
+10;praca;aplikujący;кандидат, соискатель
 10;praca;atut;козырь, сильная сторона
 10;praca;branża;отрасль
 10;praca;cechy charakteru;черты характера
@@ -548,7 +548,7 @@
 10;praca;życiorys;биография
 10;praca;bezrobocie;безработица
 10;praca;bezrobotny;безработный
-10;praca;codzienny;ежедневно
+10;praca;codzienny;каждодневно
 10;praca;czas pracy;рабочее время
 10;praca;dyplom;диплом
 10;praca;emerytura;пенсия
@@ -563,7 +563,7 @@
 10;praca;oferta pracy;предложение о работе
 10;praca;pasja;страсть
 10;praca;pensja;зарплата
-10;praca;poszukiwać;искать
+10;praca;poszukiwać;поискать
 10;praca;praca na etacie;работа в штате
 10;praca;praktyka;практика
 10;praca;prawo jazdy;водительские права
@@ -572,7 +572,7 @@
 10;praca;prezes;председатель, глава
 10;praca;programista;программист
 10;praca;referencje;рекомендации
-10;praca;robotnik;работник
+10;praca;robotnik;работник, рабочий
 10 14;praca;rozmówca;собеседник
 10;praca;rozwiązanie;решение
 10;praca;rozwiązać;решить
@@ -590,7 +590,7 @@
 10;praca;wymagania;требования
 10;praca;wytłumaczyć;объяснить
 10;praca;zakładać;учреждать
-10;praca;zaleta;достоинство
+10;praca;zaleta;достоинство, преимущество
 10;praca;zarząd;управление
 10;praca;zaufanie;доверие
 10;praca;zawodowy;профессиональный
@@ -782,7 +782,7 @@
 12;miasto;strefa;зона, полоса
 12;charakter;zmienić się zdecydowanie;кардинально измениться
 12;miasto;zabudować;застроить
-12;charakter;dokuczliwy;мучительный
+12;charakter;dokuczliwy;мучительный, докучающий
 12;miasto;segregować;сортировать
 12;charakter;walczyć się;бороться
 12;spójniki;przekonywać;убеждать, уверять
@@ -959,7 +959,7 @@
 14;spójniki;zdawać sobie sprawę;осознавать
 14;spójniki;owijać coś w bawełnę;умалчивать о чем-либо
 14;sprzęt;odkładać słuchawkę;класть телефонную трубку
-14;spójniki;korzystać z czegoś;пользоваться чем-либо
+14;spójniki;korzystać z czegoś;использовать что-то
 14;spójniki;na co dzień;каждый день
 14;spójniki;wywoływać;вызывать, выкликать
 14;spójniki;oburzyć się;возмутиться, вознегодовать
@@ -976,7 +976,7 @@
 14;sprzęt;oszust;обманщик, мошенник, аферист
 14;spójniki;czynność;занятие, дело, действие
 14;sprzęt;pokrywa;крышка, верхний слой
-14;sprzęt;gust;вкус
+14;sprzęt;gust;вкус (стиль)
 14;sprzęt;mam pecha;мне не везет
 14;sprzęt;wynaleźć;найти, изобрести
 14;sprzęt;być zadowolonym z;быть довольным
@@ -1044,7 +1044,7 @@
 15;odzież;płaszcz;плащ
 15;odzież;podkolanówki;гольфы
 15;odzież;półbuty;полуботинки, туфли
-15;odzież;półgolf;гольф
+15;odzież;półgolf;гольф (одежда)
 15;odzież;pończochy;чулки
 15;odzież;przymierzyć;примерить
 15;odzież;pulower;пуловер, джемпер
@@ -1053,7 +1053,7 @@
 15;odzież;skóra;кожа
 15;odzież;skórzany;кожаный
 15;odzież;sprzedaż;продажа
-15;odzież;stanik;бюстгалтер
+15;odzież;stanik;лифчик
 15;odzież;stoisko;секция, стенд, прилавок
 15;odzież;suknia dobre leży;платье хорошо сидит
 15;odzież;sweterek;шерстяная кофточка
@@ -1108,7 +1108,7 @@
 16;odzież;jasiek;подушечка
 16;odzież;kołdra;стеганое одеяло
 16;odzież;koc;шестяное одеяло
-16;odzież;podpinka;пододеяльник
+16;odzież;podpinka;пододеяльник 1
 16;odzież;poszwa;пододеяльник
 16;odzież;prześcieradło;простынь
 16;odzież;poszewka;наволочка
@@ -1145,7 +1145,7 @@
 16;odzież;krem do cery tłustej;крем для жирной кожи
 16;odzież;dom towarowy;универмаг
 16;odzież;komis;комиссионный магазин
-16;odzież;targowisko;рынок, базар
+16;odzież;targowisko;рынок
 16;odzież;bazar;базар
 16;odzież;kiermasz;ярмарка, базар
 16;odzież;targi;ярмарка
@@ -1179,7 +1179,7 @@
 17;jadalne;buraczki;свекла
 17;jadalne;chrzan;хрен
 17;jadalne;czosnek;чеснок
-17;jadalne;drób;птица
+17;jadalne;drób;птица (еда)
 17;jadalne;filet;филе
 17;jadalne;galareta;жиле
 17;jadalne;galarecie;жиле (заливное)
@@ -1187,10 +1187,10 @@
 17;jadalne;kurczak z rożna;курица гриль
 17;jadalne;marchew;морковь
 17;jadalne;nadziewany;фаршированный
-17;jadalne;napój;напиток
+17;jadalne;napój;напиток, питье
 17;jadalne;trunek;напиток
 17;jadalne;ozór;язык
-17;jadalne;ozorek;язык
+17;jadalne;ozorek;язык (уменьшительное)
 17;jadalne;pieczeń;жаркое
 17;jadalne;polędwica;вырезка
 17;jadalne;wino wytrawne;вино сухое
@@ -1202,15 +1202,15 @@
 17;jadalne;napić się czego;напиться
 17;jadalne;sałata;салат растение
 17;jadalne;sałatka;салат
-17;jadalne;przystawka;закуска
+17;jadalne;przystawka;закуска 1
 17;jadalne;zakąska;закуска
-17;jadalne;przekąska;закуска
+17;jadalne;przekąska;перекус
 17;jadalne;wznieść toast za zdrowie;провозгласить тост за здоровье
 17;jadalne;wygłosić toast na cześć kogo;провозгласить тост в честь кого-то
 17;jadalne;prosić do stołu;просить к столу
 17;jadalne;siadać do stołu;Садиться за стол
 17;jadalne;zasiąść do stołu;сесть за стол
-17;jadalne;usiąść przy stole;сесть за стол
+17;jadalne;usiąść przy stole;усесться за стол
 17;jadalne;wstawać od stołu;вставать из-за стола
 17;jadalne;sprzątać ze stołu;убирать со стола
 17;jadalne;podjąć decyzję;принять решение
@@ -1293,7 +1293,7 @@
 17;jadalne;papryka;красный перец
 17;jadalne;musztarda;горчица
 17;jadalne;ocet;уксус
-17;jadalne;olej (oliwa);растительное масло
+17;jadalne;olej (oliwa);растительное масло (оливковое)
 17;jadalne;sos;соус
 17;jadalne;majonez;майонез
 17;jadalne;keczup;кетчуп
@@ -1350,9 +1350,9 @@
 17;jadalne;naczynia;посуда
 17;jadalne;przykrywka;крышка
 17;jadalne;brytfanna;противень
-17;jadalne;blacha;противень
+17;jadalne;blacha;противень, лист
 17;jadalne;miska;миска
-17;jadalne;półmisek;блюдо
+17;jadalne;półmisek;блюдо (посуда)
 17;jadalne;salaterka;салатник
 17;jadalne;dzbanek;кувшин
 17;jadalne;talerz głęboki;глубокая тарелка
@@ -1371,7 +1371,7 @@
 17;jadalne;deska do krojenia;кухонная доска
 17;jadalne;wykałaczka;зубочистка
 17;jadalne;obrus;скатерть
-17;jadalne;serwetka;скатерть
+17;jadalne;serwetka;скатерть, салфетка
 17;jadalne;słoik;стеклянная банка
 17;jadalne;tabliczka czekolady;плитка шоколада
 17;jadalne;plasterek;ломтик
