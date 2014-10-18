@@ -14,4 +14,7 @@ public class TestData extends TestBase {
     public static final String schemaUrl(Response.PageInfo page) {
         return "http://anitopol.github.io/polular/data/"+page.id+"--schema.csv.txt";
     }
+    public static final String dataUrl(Response.PageInfo page) {
+        return "http://anitopol.github.io/polular/data/"+page.id+".csv.txt";
+    }
 }
