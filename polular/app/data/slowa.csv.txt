@@ -648,6 +648,7 @@
 10;praca;znaleźć chwilę;найти минутку
 10;praca;zrobić dobre wrażenie;произвести хорошее впечатление
 10;praca;zwalniać;увольнять
+11;praca;sonda uliczna;уличный опрос
 09 11;spójniki;ponieważ;потому что, так как, ибо
 11;miasto;skrzyżowanie;перекресток
 11;miasto;tutejszy;здешний
@@ -1035,8 +1036,8 @@
 15;spójniki;mnóstwo;множество, полно
 15;odzież;obuwie;обувь
 15;odzież;odpinać;отстегивать
-15;odzież;odzież damska;одежда женская
-15;odzież;odzież męska;одежда мужская
+15;odzież;odzież damska;одежда женская
+15;odzież;odzież męska;одежда мужская
 15;odzież;palto;пальто
 15 16;odzież;pas;ремень
 15 16;odzież;pasek;ремешок
