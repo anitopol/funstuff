@@ -1279,106 +1279,106 @@
 17;jadalne;drożdżówka;булочка из дрожжевого теста
 17;jadalne;ptyś;заварное пирожное
 17;jadalne;makowiec;пирог с маком
-17;jadalne;kremówka;пирожное (наполеон)
-17;jadalne;napoleonka;наполеон
-17;jadalne;szarlotka;шарлотка
-17;jadalne;mleko (zsiadłe,kwaśne);молоко (кислое, простокваша)
-17;jadalne;twaróg;творог
-17;jadalne;maślanka;обезжиренные сливки
-17;jadalne;jogurt;йогурт
-17;jadalne;dodatek;гарнир
-17;jadalne;pieczarka;шампиньон
-17;jadalne;kluski (leniwe);клецки, галушки
-17;jadalne;kopytka;клецки из картофеля
-17;jadalne;papryka;красный перец
-17;jadalne;musztarda;горчица
-17;jadalne;ocet;уксус
-17;jadalne;olej (oliwa);растительное масло (оливковое)
-17;jadalne;sos;соус
-17;jadalne;majonez;майонез
-17;jadalne;keczup;кетчуп
-17;jadalne;słodki;сладкий
-17;jadalne;gorzki;горький
-17;jadalne;słony;соленый
-17;jadalne;ostry;острый
-17;jadalne;pikantny;пикантный
-17;jadalne;kwaśny;кислый
-17;jadalne;cierpki;терпкий
-17;jadalne;ugotować;сварить
-17;jadalne;usmażyć;поджарить
-17;jadalne;upiec;испечь
-17;jadalne;zapiekać;запечь
-17;jadalne;dusić;тушить, выжимать
-17;jadalne;marynować;мариновать
-17;jadalne;grillować;готовить на гриле
-17;jadalne;odgrzewać;разогревать
-17;jadalne;gotowany;кипяченый, вареный
-17;jadalne;smażony;жареный
-17;jadalne;pieczony;печеный
-17;jadalne;zapiekany;запеченный
-17;jadalne;duszony;тушеный
-17;jadalne;świeży;свежий
-17;jadalne;surowy;сырой
-17;jadalne;suszony;сушеный
-17;jadalne;mrożony;замороженный
-17;jadalne;wędzony;копченый
-17;jadalne;umyć;помыть
-17;jadalne;opłukać;вымыть
-17;jadalne;wyszorować;вымыть, вычистить
-17;jadalne;obrać;очистить, снять кожуру
-17;jadalne;oskrobać;почистить
-17;jadalne;pokroić;нарезать
-17;jadalne;posiekać;покроить, нарубить
-17;jadalne;ubić;взбить
-17;jadalne;zaparzyć;заварить, запарить
-17;jadalne;ostudzić;охладить
-17;jadalne;dolać;долить
-17;jadalne;posmarować;помазать
-17;jadalne;posłodzić;положить сахар
-17;jadalne;zemleć;смолоть
-17;jadalne;wycisnąć;выдавить
-17;jadalne;utrzeć;растереть
-17;jadalne;rozgnieść;раздавить
-17;jadalne;rozwałkować;раскатать
-17;jadalne;obtoczyć;обвалять
-17;jadalne;posolić;посолить
-17;jadalne;przyprawić;приправить
-17;jadalne;białka;белки
-17;jadalne;węglowodany;углеводы
-17;jadalne;tłuszcze;жиры
-17;jadalne;błonnik;клетчатка
-17;jadalne;naczynia;посуда
-17;jadalne;przykrywka;крышка
-17;jadalne;brytfanna;противень
-17;jadalne;blacha;противень, лист
-17;jadalne;miska;миска
-17;jadalne;półmisek;блюдо (посуда)
-17;jadalne;salaterka;салатник
-17;jadalne;dzbanek;кувшин
-17;jadalne;talerz głęboki;глубокая тарелка
-17;jadalne;talerz płytki;Мелкая тарелка
-17;jadalne;kubek;кружка
-17;jadalne;spodek;блюдце
-17;jadalne;kufel;пивная кружка
-17;jadalne;solniczka;солонка
-17;jadalne;pieprzniczka;перечница
-17;jadalne;cukiernica;сахарница
-17;jadalne;popielniczka;пепельница
-17;jadalne;taca;поднос
-17;jadalne;chochla;ковш, черпак
-17;jadalne;korkociąg;штопор
-17;jadalne;otwieracz;открывачка
-17;jadalne;deska do krojenia;кухонная доска
-17;jadalne;wykałaczka;зубочистка
-17;jadalne;obrus;скатерть
-17;jadalne;serwetka;скатерть, салфетка
-17;jadalne;słoik;стеклянная банка
-17;jadalne;tabliczka czekolady;плитка шоколада
-17;jadalne;plasterek;ломтик
-17;jadalne;kromka;ломоть
-17;jadalne;dzwonko;кусок рыбы
-17;jadalne;pęczek;пучок
-17;jadalne;woreczek;мешочек
-17;jadalne;szczypta;щепотка
-17;jadalne;sztuka;штука
-17;jadalne;porcja;порция
+18;jadalne;kremówka;пирожное (наполеон)
+18;jadalne;napoleonka;наполеон
+18;jadalne;szarlotka;шарлотка
+18;jadalne;mleko (zsiadłe,kwaśne);молоко (кислое, простокваша)
+18;jadalne;twaróg;творог
+18;jadalne;maślanka;обезжиренные сливки
+18;jadalne;jogurt;йогурт
+18;jadalne;dodatek;гарнир
+18;jadalne;pieczarka;шампиньон
+18;jadalne;kluski (leniwe);клецки, галушки
+18;jadalne;kopytka;клецки из картофеля
+18;jadalne;papryka;красный перец
+18;jadalne;musztarda;горчица
+18;jadalne;ocet;уксус
+18;jadalne;olej (oliwa);растительное масло (оливковое)
+18;jadalne;sos;соус
+18;jadalne;majonez;майонез
+18;jadalne;keczup;кетчуп
+18;jadalne;słodki;сладкий
+18;jadalne;gorzki;горький
+18;jadalne;słony;соленый
+18;jadalne;ostry;острый
+18;jadalne;pikantny;пикантный
+18;jadalne;kwaśny;кислый
+18;jadalne;cierpki;терпкий
+18;jadalne;ugotować;сварить
+18;jadalne;usmażyć;поджарить
+18;jadalne;upiec;испечь
+18;jadalne;zapiekać;запечь
+18;jadalne;dusić;тушить, выжимать
+18;jadalne;marynować;мариновать
+18;jadalne;grillować;готовить на гриле
+18;jadalne;odgrzewać;разогревать
+18;jadalne;gotowany;кипяченый, вареный
+18;jadalne;smażony;жареный
+18;jadalne;pieczony;печеный
+18;jadalne;zapiekany;запеченный
+18;jadalne;duszony;тушеный
+18;jadalne;świeży;свежий
+18;jadalne;surowy;сырой
+18;jadalne;suszony;сушеный
+18;jadalne;mrożony;замороженный
+18;jadalne;wędzony;копченый
+18;jadalne;umyć;помыть
+18;jadalne;opłukać;вымыть
+18;jadalne;wyszorować;вымыть, вычистить
+18;jadalne;obrać;очистить, снять кожуру
+18;jadalne;oskrobać;почистить
+18;jadalne;pokroić;нарезать
+18;jadalne;posiekać;покроить, нарубить
+18;jadalne;ubić;взбить
+18;jadalne;zaparzyć;заварить, запарить
+18;jadalne;ostudzić;охладить
+18;jadalne;dolać;долить
+18;jadalne;posmarować;помазать
+18;jadalne;posłodzić;положить сахар
+18;jadalne;zemleć;смолоть
+18;jadalne;wycisnąć;выдавить
+18;jadalne;utrzeć;растереть
+18;jadalne;rozgnieść;раздавить
+18;jadalne;rozwałkować;раскатать
+18;jadalne;obtoczyć;обвалять
+18;jadalne;posolić;посолить
+18;jadalne;przyprawić;приправить
+18;jadalne;białka;белки
+18;jadalne;węglowodany;углеводы
+18;jadalne;tłuszcze;жиры
+18;jadalne;błonnik;клетчатка
+18;jadalne;naczynia;посуда
+18;jadalne;przykrywka;крышка
+18;jadalne;brytfanna;противень
+18;jadalne;blacha;противень, лист
+18;jadalne;miska;миска
+18;jadalne;półmisek;блюдо (посуда)
+18;jadalne;salaterka;салатник
+18;jadalne;dzbanek;кувшин
+18;jadalne;talerz głęboki;глубокая тарелка
+18;jadalne;talerz płytki;Мелкая тарелка
+18;jadalne;kubek;кружка
+18;jadalne;spodek;блюдце
+18;jadalne;kufel;пивная кружка
+18;jadalne;solniczka;солонка
+18;jadalne;pieprzniczka;перечница
+18;jadalne;cukiernica;сахарница
+18;jadalne;popielniczka;пепельница
+18;jadalne;taca;поднос
+18;jadalne;chochla;ковш, черпак
+18;jadalne;korkociąg;штопор
+18;jadalne;otwieracz;открывачка
+18;jadalne;deska do krojenia;кухонная доска
+18;jadalne;wykałaczka;зубочистка
+18;jadalne;obrus;скатерть
+18;jadalne;serwetka;скатерть, салфетка
+18;jadalne;słoik;стеклянная банка
+18;jadalne;tabliczka czekolady;плитка шоколада
+18;jadalne;plasterek;ломтик
+18;jadalne;kromka;ломоть
+18;jadalne;dzwonko;кусок рыбы
+18;jadalne;pęczek;пучок
+18;jadalne;woreczek;мешочек
+18;jadalne;szczypta;щепотка
+18;jadalne;sztuka;штука
+18;jadalne;porcja;порция
