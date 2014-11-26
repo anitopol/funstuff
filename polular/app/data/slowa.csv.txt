@@ -1149,7 +1149,6 @@
 16;odzież;bazar;базар
 16;odzież;kiermasz;ярмарка, базар
 16;odzież;targi;ярмарка
-16;odzież;giełda;биржа
 16;odzież;hurtownia;оптовый склад
 16;odzież;kiosk;киоск
 16;odzież;pawilon;павильон
@@ -1382,3 +1381,104 @@
 18;jadalne;szczypta;щепотка
 18;jadalne;sztuka;штука
 18;jadalne;porcja;порция
+19;urząd;emigracja;эмиграция
+19;urząd;rodak;земляк
+19;urząd;przeprowadzka;переезд
+19;urząd;zameldowanie;прописка
+19;urząd;kierownice stanowisko;руководящая должность
+19;urząd;obywatelstwo;гражданство
+19;urząd;obywatel;гражданин
+19;urząd;narodowość;национальность
+19;urząd;mniejszość narodowa;национальное меньшинство
+19;urząd;Urząd Celny;таможенное управление
+19;urząd;Urząd Miasta;мэрия
+19;urząd;Urząd Skarbowy;казначейство
+19;urząd;Urząd Pracy;трудовая биржа
+19;urząd;pilnie;срочно
+19;urząd;koniecznie;обязательно
+19;urząd;interesant;посетитель
+19;urząd;wniosek;заявление
+19;urząd;urząd;ведомство, управление
+19;urząd;urzędowy;служебный
+19;urząd;plik;файл
+19;urząd;gospodarka;экономика, хозяйство
+19;urząd;ekonomika;экономика
+19;urząd;ekonomia;экономика, экономия
+19;urząd;oszczędzanie;экономия, бережливость
+19;urząd;gospodarność;экономность
+19;urząd;podaż;предложение
+19;urząd;popyt;спрос
+19;urząd;dywidenda;дивиденд
+19;urząd;produkcja;продукция
+19;urząd;wartość;ценность
+19;urząd;obroty handlowe;торговые обороты
+19;urząd;przedsiębiorstwo;предприятие, бизнес
+19;urząd;przelew bankowy;банковский перевод
+19;urząd;przedpłata;задаток
+19;urząd;zaliczka;аванс
+19;urząd;konto bankowe;банковский счет
+19;urząd;podatek od dochodów osób fizycznych;налог с доходов физических лиц
+19;urząd;podatek od wartości dodanej;ПДВ
+19;urząd;giełda;биржа
+19;urząd;odsetek;процент, доля
+19;urząd;procent;процент
+19;urząd;kwota;количество, сумма
+19;urząd;suma;сумма
+19;urząd;zobowiązanie;обязательство
+19;urząd;obowiązek;обязанность
+19;urząd;interes;дело, сделка
+19;urząd;wydatki;издержки
+19;urząd;koszty;денежные средства
+19;urząd;zużycie;расходы, растраты
+19;urząd;nakłady;затраты
+19;urząd;wytwórnia;фабрика
+19;urząd;warsztat;мастерская
+19;urząd;spółdzielnia;кооператив
+19;urząd;wypełniać formularz;заполнять бланк
+19;urząd;przeprowadzać się;переезжать
+19;urząd;narzekać;ныть
+19;urząd;uzyskać informację;получить информацию
+19;urząd;zameldować się;прописаться
+19;urząd;załatwiać;уладить
+19;urząd;odbierać;принимать, получать
+19;urząd;odebrać;принять, получить
+19;urząd;poradzić sobie z czymś;справиться с чем-либо
+19;urząd;założyć spółkę;основать фирму
+19;urząd;zbankrutować;обанкротиться
+19;urząd;splajtować;обанкротиться, прогореть
+19;urząd;osiągać zyski;получать прибыль
+19;urząd;ponosić straty;нести убытки
+19;urząd;zapłacić;заплатить
+19;urząd;wypłacić;расплатиться
+19;urząd;uregulować rachunek;заплатить по счету
+19;urząd;uiścić;заплатить, уплатить
+19;urząd;ulokować pieniądze;вложить деньги
+19;urząd;założyć konto;основать счет
+19;urząd;otworzyć konto;открыть счет
+19;urząd;zamknąć konto;закрыть счет
+19;urząd;przyczyniać się do czego;способствовать чему-то
+19;urząd;sprzyjać czemuś;содействовать чему-то
+19;urząd;wytwarzać;создавать
+19;urząd;produkować;производить
+19;urząd;wyrabiać;изготавливать
+19;urząd;czuwać nad kimś, nad czymś;следить за кем-то, чем-то
+19;urząd;pilnować kogo, czego;присматривать за кем-то
+19;urząd;ingerować w coś;вмешаться во что-либо
+19;urząd;interweniować w coś;вмешиваться во что-либо
+19;urząd;iść w górę;повышаться
+19;urząd;iść w dół;снижаться, идти вниз
+19;urząd;spadać;снижаться, падать
+19;urząd;wzrastać;увеличиваться
+19;urząd;obniżać się;снижаться, уменьшаться
+19;urząd;dokonać transakcji;провести сделку
+19;urząd;pobrać pieniądze z banku;забрать деньги из банка
+19;urząd;wyjąć pieniądze z konta;снять деньги со счета
+19;urząd;zdolność kredytowa;кредитоспособность
+19;urząd;wierzytelność;задолженность
+19;urząd;płatnik;плательщик
+19;urząd;komornik;судебный исполнитель
+19;urząd;fiskus;государственная казна
+19;urząd;opust;скидка, дисконт
+19;urząd;rabat;скидка, уступка
+19;urząd;ulga;снижение налогов
+19;urżąd;raczej;скорее, пожалуй
