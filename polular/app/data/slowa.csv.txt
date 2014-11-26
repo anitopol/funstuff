@@ -30,7 +30,7 @@
 04;jadalne;kura w rosole;курица в бульоне
 04;jadalne;cytryna;лимон
 04;jadalne;cebula;лук
-04;jadalne;masło;масло (сливочное)
+04;jadalne;masło;масло сливочное
 04;jadalne;jadłospis;меню, список блюд
 04;jadalne;menu;меню
 04;jadalne;karta;меню, карта
@@ -54,7 +54,7 @@
 04;jadalne;zupa ogórkowa;рассольник
 04;jadalne;rzadko;редко
 04;jadalne;restauracja;ресторан
-04;jadalne;rogalik;рожок (булка)
+04;jadalne;rogalik;рожок, булка
 04;jadalne;dania z ryb;рыбные блюда
 04 11 16;jadalne;targ;рынок, базар
 04;jadalne;cukier;сахар
@@ -133,7 +133,7 @@
 05;jadalne;burak;свекла, буряк
 05 17;jadalne;wieprzowina;свинина
 05;jadalne;zastawiać stół;сервировать стол
-05 17;jadalne;nakrywać do stołu;сервировать стол (накрывать)
+05 17;jadalne;nakrywać do stołu;сервировать стол, накрывать на стол
 05 17;jadalne;patelnia;сковородка
 05 16;jadalne;ile kosztuje;сколько стоит?
 05 17;jadalne;śmietanka;сливки
@@ -166,7 +166,7 @@
 06;odzież;brązowy;коричневый
 06;odzież;brunatny;коричневый, бурый
 06;odzież;krótki;короткий, краткий
-06 15;odzież;garnitur;костюм (мужской)
+06 15;odzież;garnitur;костюм мужской
 06 15;odzież;czerwony;красный
 06 15;odzież;kurtka;куртка
 06;odzież;kawałek;кусок, кусочек
@@ -267,7 +267,7 @@
 08;sport;boks;бокс
 08;sport;narciarstwo;лыжный спорт
 08;sport;uprawiać sport;заниматься спортом
-08;sport;sportowca;спортсмен (буквально)
+08;sport;sportowca;спортсмен
 08;sport;mięśnie;мыщцы
 08;sport;wędkarz;рыболов
 08;sport;silna wola;сильная воля
@@ -401,7 +401,7 @@
 08 11;zdrowie;przychodnia;поликлиника
 08;zdrowie;dolegliwość;недуг
 08;zdrowie;pogotowanie;скорая помощь
-08;zdrowie;karetka pogotowania;скорая помощь (машина)
+08;zdrowie;karetka pogotowania;автомобиль скорой помощи
 08;zdrowie;choroba;болезнь
 08;zdrowie;boleć;болеть
 08;zdrowie;niepokoić;тревожить
@@ -945,7 +945,7 @@
 14;sprzęt;suszyć włosy;сушить волосы
 14;sprzęt;myć naczynia;мыть посуду
 14;sprzęt;ugotować kawę;сварить кофе
-14;sprzęt;kurzyć;поднимать пыль, сыпать (снегом)
+14;sprzęt;kurzyć;поднимать пыль, сыпать (напр. снегом)
 14;sprzęt;włączyć;включить
 14;sprzęt;wyłączyć;выключить
 14;sprzęt;naprawić;починить
@@ -976,7 +976,7 @@
 14;sprzęt;oszust;обманщик, мошенник, аферист
 14;spójniki;czynność;занятие, дело, действие
 14;sprzęt;pokrywa;крышка, верхний слой
-14;sprzęt;gust;вкус (стиль)
+14;sprzęt;gust;вкус, стиль
 14;sprzęt;mam pecha;мне не везет
 14;sprzęt;wynaleźć;найти, изобрести
 14;sprzęt;być zadowolonym z;быть довольным
@@ -989,32 +989,32 @@
 15;spójniki;akurat;как раз, именно
 15;odzież;adidasy;кроссовки
 15;odzież;artykuł;товар
-15;odzież;artykułów dziecięcych;(отдел) детских товаров
-15;odzież;artykułów sportowych;(отдел) спортивных товаров
+15;odzież;artykułów dziecięcych;отдел детских товаров
+15;odzież;artykułów sportowych;отдел спортивных товаров
 15;spójniki;atrakcyjny;привлекательный, заманчивый
 15;odzież;bielizny;(отдел) белья
-15;odzież;bielizny pościelowej;(отдел) постельного белья
+15;odzież;bielizny pościelowej;отдел постельного белья
 15;odzież;biustonosz;бюстгалтер
 06 15;odzież;bluzka;блузка, кофточка
 15;odzież;brak;отсутствие, нехватка
 15;odzież;brakować;не хватать
 15;odzież;buciki na obcasie;туфли на каблуке
 15;odzież;cena promocyjna;специальная цена
-15;odzież;ciuchy;одежда, тряпки (разг)
+15;odzież;ciuchy;одежда, тряпки (разговорное)
 15;odzież;co jest do twarzy komu;что к лицу кому
 15;odzież;co podoba się komu;что нравится кому
-15;odzież;co smakuje komu;что нравится кому (о еде)
+15;odzież;co smakuje komu;что нравится кому, быть по вкусу
 15;odzież;czółenka;туфли-лодочки (ср.р, мн.ч)
 15;odzież;dres;спортивный костюм
 04 15;spójniki;dział;отдел
-15;odzież;dziewiarstwa;(отдел) трикотажных изделий
+15;odzież;dziewiarstwa;отдел трикотажных изделий
 15;odzież;dżinsy;джинсы
 15;odzież;futro;мех, шуба
 15;odzież;futrzany;меховой
 15;odzież;garsonka;платье, костюм
 15;odzież;gatunek;сорт, качество
 15;odzież;golf;гольф
-15;odzież;gospodarstwa domowego;(отдел) товаров для дома
+15;odzież;gospodarstwa domowego;отдел товаров для дома
 15;spójniki;jakość;качество
 15;odzież;jesionka;осеннее, демисезонное пальто
 15;odzież;kalesony;кальсоны
@@ -1024,7 +1024,7 @@
 15;odzież;kieszeń;карман
 15;odzież;kłapki;шлепанцы
 15;odzież;kołnierz;воротник
-15;odzież;kosmetyków;(отдел) косметики
+15;odzież;kosmetyków;отдел косметики
 15;odzież;kostium;костюм женский
 15;odzież;kozaki;сапоги
 15;odzież;kożuch;дубленка, полушубок
@@ -1037,9 +1037,9 @@
 15;odzież;palto;пальто
 15 16;odzież;pas;ремень
 15 16;odzież;pasek;ремешок
-15;odzież;pasmanterii;(отдел) швейной галантереи
+15;odzież;pasmanterii;отдел швейной галантереи
 09 15;odzież;pasować;подходить, соответствовать
-15;odzież;perfumerii;(отдел) парфюмерии
+15;odzież;perfumerii;отдел парфюмерии
 15;odzież;piżama;пижама
 15;odzież;płaszcz;плащ
 15;odzież;podkolanówki;гольфы
@@ -1098,7 +1098,7 @@
 16;odzież;we wzorek;в узоры
 16;odzież;w deseń;с орнаментом
 16;odzież;w kwiaty;в цветы
-16;odzież;w kratkę;в клетку (клетчатое)
+16;odzież;w kratkę;в клетку
 16;odzież;w kropki;в крапинку
 16;odzież;w grochy;в горошек
 16;odzież;w paski;в полоски
@@ -1181,7 +1181,7 @@
 17;jadalne;drób;птица (еда)
 17;jadalne;filet;филе
 17;jadalne;galareta;жиле
-17;jadalne;galarecie;жиле (заливное)
+17;jadalne;galarecie;жиле, заливное
 17;jadalne;nózki w galarecie;холодец
 17;jadalne;kurczak z rożna;курица гриль
 17;jadalne;marchew;морковь
@@ -1231,7 +1231,8 @@
 17;jadalne;kosztować;отведывать
 17;jadalne;częstować się;угощаться
 17;jadalne;żuć;жевать
-17;jadalne;ugryźć (prze-);Укусить (перегрызть)
+17;jadalne;ugryźć;укусить
+17;jadalne;przegryźć;перегрызть
 17;jadalne;łykać;глотать
 17;jadalne;przełknąć;проглотить
 17;jadalne;połykać;проглатывать
@@ -1247,7 +1248,8 @@
 17;jadalne;danie jarskie;вегетрианское блюдо
 17;jadalne;dietyczne;диетическое
 17;jadalne;narodowe;национальное
-17;jadalne;danie firmowe (specjalność);фирменное блюдо
+17;jadalne;danie firmowe;фирменное блюдо
+17;jadalne;specjalność; фишка, фирменное блюдо
 17;jadalne;jedzenie zdrowe;здоровая еда
 17;jadalne;jedzenie smaczne;вкусная еда
 17;jadalne;Pycha!;Объедение
@@ -1278,21 +1280,24 @@
 17;jadalne;drożdżówka;булочка из дрожжевого теста
 17;jadalne;ptyś;заварное пирожное
 17;jadalne;makowiec;пирог с маком
-18;jadalne;kremówka;пирожное (наполеон)
+18;jadalne;kremówka;пирожное-наполеон
 18;jadalne;napoleonka;наполеон
 18;jadalne;szarlotka;шарлотка
-18;jadalne;mleko (zsiadłe,kwaśne);молоко (кислое, простокваша)
+18;jadalne;mleko zsiadłe;кислое молоко
+18;jadalne;mleko kwaśne;простокваша
 18;jadalne;twaróg;творог
 18;jadalne;maślanka;обезжиренные сливки
 18;jadalne;jogurt;йогурт
 18;jadalne;dodatek;гарнир
 18;jadalne;pieczarka;шампиньон
-18;jadalne;kluski (leniwe);клецки, галушки
+18;jadalne;kluski;клецки
+18;jadalne;kluski leniwe;галушки
 18;jadalne;kopytka;клецки из картофеля
 18;jadalne;papryka;красный перец
 18;jadalne;musztarda;горчица
 18;jadalne;ocet;уксус
-18;jadalne;olej (oliwa);растительное масло (оливковое)
+18;jadalne;olej;растительное масло
+18;jadalne;oliwa;оливковое масло
 18;jadalne;sos;соус
 18;jadalne;majonez;майонез
 18;jadalne;keczup;кетчуп
