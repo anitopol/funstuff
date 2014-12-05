@@ -30,7 +30,7 @@
 04;jadalne;kura w rosole;курица в бульоне
 04;jadalne;cytryna;лимон
 04;jadalne;cebula;лук
-04;jadalne;masło;масло (сливочное)
+04;jadalne;masło;масло сливочное
 04;jadalne;jadłospis;меню, список блюд
 04;jadalne;menu;меню
 04;jadalne;karta;меню, карта
@@ -54,7 +54,7 @@
 04;jadalne;zupa ogórkowa;рассольник
 04;jadalne;rzadko;редко
 04;jadalne;restauracja;ресторан
-04;jadalne;rogalik;рожок (булка)
+04;jadalne;rogalik;рожок, булка
 04;jadalne;dania z ryb;рыбные блюда
 04 11 16;jadalne;targ;рынок, базар
 04;jadalne;cukier;сахар
@@ -126,14 +126,14 @@
 05;jadalne;doprawiać solą;приправлять солью
 05 07 15;jadalne;ekspedient;продавец
 05;jadalne;kawa rozpuszczalna;растворимый кофе
-05;jadalne;olej;растительное масло
+05 18;jadalne;olej;растительное масло
 05;jadalne;postanowić;постановить
 05 17;jadalne;kieliszek;рюмка
 05;jadalne;serwetka;салфетка
 05;jadalne;burak;свекла, буряк
 05 17;jadalne;wieprzowina;свинина
 05;jadalne;zastawiać stół;сервировать стол
-05 17;jadalne;nakrywać do stołu;сервировать стол (накрывать)
+05 17;jadalne;nakrywać do stołu;сервировать стол, накрывать на стол
 05 17;jadalne;patelnia;сковородка
 05 16;jadalne;ile kosztuje;сколько стоит?
 05 17;jadalne;śmietanka;сливки
@@ -166,7 +166,7 @@
 06;odzież;brązowy;коричневый
 06;odzież;brunatny;коричневый, бурый
 06;odzież;krótki;короткий, краткий
-06 15;odzież;garnitur;костюм (мужской)
+06 15;odzież;garnitur;костюм мужской
 06 15;odzież;czerwony;красный
 06 15;odzież;kurtka;куртка
 06;odzież;kawałek;кусок, кусочек
@@ -267,7 +267,7 @@
 08;sport;boks;бокс
 08;sport;narciarstwo;лыжный спорт
 08;sport;uprawiać sport;заниматься спортом
-08;sport;sportowca;спортсмен (буквально)
+08;sport;sportowca;спортсмен
 08;sport;mięśnie;мыщцы
 08;sport;wędkarz;рыболов
 08;sport;silna wola;сильная воля
@@ -282,7 +282,7 @@
 08;sport;żabka;брасс
 08;sport;rakieta;ракетка
 08;sport;skakać;скакать
-08;sport;zawodnik;спортсмен
+08;sport;zawodnik;спортсмен, атлет
 08;sport;brać udział;принимать участие
 08;sport;mistrz świata;чемпион мира
 08;sport;wygrywać;выигрывать
@@ -401,7 +401,7 @@
 08 11;zdrowie;przychodnia;поликлиника
 08;zdrowie;dolegliwość;недуг
 08;zdrowie;pogotowanie;скорая помощь
-08;zdrowie;karetka pogotowania;скорая помощь (машина)
+08;zdrowie;karetka pogotowania;автомобиль скорой помощи
 08;zdrowie;choroba;болезнь
 08;zdrowie;boleć;болеть
 08;zdrowie;niepokoić;тревожить
@@ -945,7 +945,7 @@
 14;sprzęt;suszyć włosy;сушить волосы
 14;sprzęt;myć naczynia;мыть посуду
 14;sprzęt;ugotować kawę;сварить кофе
-14;sprzęt;kurzyć;поднимать пыль, сыпать (снегом)
+14;sprzęt;kurzyć;поднимать пыль, сыпать (напр. снегом)
 14;sprzęt;włączyć;включить
 14;sprzęt;wyłączyć;выключить
 14;sprzęt;naprawić;починить
@@ -976,7 +976,7 @@
 14;sprzęt;oszust;обманщик, мошенник, аферист
 14;spójniki;czynność;занятие, дело, действие
 14;sprzęt;pokrywa;крышка, верхний слой
-14;sprzęt;gust;вкус (стиль)
+14;sprzęt;gust;вкус, стиль
 14;sprzęt;mam pecha;мне не везет
 14;sprzęt;wynaleźć;найти, изобрести
 14;sprzęt;być zadowolonym z;быть довольным
@@ -989,32 +989,32 @@
 15;spójniki;akurat;как раз, именно
 15;odzież;adidasy;кроссовки
 15;odzież;artykuł;товар
-15;odzież;artykułów dziecięcych;(отдел) детских товаров
-15;odzież;artykułów sportowych;(отдел) спортивных товаров
+15;odzież;artykułów dziecięcych;отдел детских товаров
+15;odzież;artykułów sportowych;отдел спортивных товаров
 15;spójniki;atrakcyjny;привлекательный, заманчивый
 15;odzież;bielizny;(отдел) белья
-15;odzież;bielizny pościelowej;(отдел) постельного белья
+15;odzież;bielizny pościelowej;отдел постельного белья
 15;odzież;biustonosz;бюстгалтер
 06 15;odzież;bluzka;блузка, кофточка
 15;odzież;brak;отсутствие, нехватка
 15;odzież;brakować;не хватать
 15;odzież;buciki na obcasie;туфли на каблуке
 15;odzież;cena promocyjna;специальная цена
-15;odzież;ciuchy;одежда, тряпки (разг)
+15;odzież;ciuchy;одежда, тряпки (разговорное)
 15;odzież;co jest do twarzy komu;что к лицу кому
 15;odzież;co podoba się komu;что нравится кому
-15;odzież;co smakuje komu;что нравится кому (о еде)
+15;odzież;co smakuje komu;что нравится кому, быть по вкусу
 15;odzież;czółenka;туфли-лодочки (ср.р, мн.ч)
 15;odzież;dres;спортивный костюм
 04 15;spójniki;dział;отдел
-15;odzież;dziewiarstwa;(отдел) трикотажных изделий
+15;odzież;dziewiarstwa;отдел трикотажных изделий
 15;odzież;dżinsy;джинсы
 15;odzież;futro;мех, шуба
 15;odzież;futrzany;меховой
 15;odzież;garsonka;платье, костюм
 15;odzież;gatunek;сорт, качество
 15;odzież;golf;гольф
-15;odzież;gospodarstwa domowego;(отдел) товаров для дома
+15;odzież;gospodarstwa domowego;отдел товаров для дома
 15;spójniki;jakość;качество
 15;odzież;jesionka;осеннее, демисезонное пальто
 15;odzież;kalesony;кальсоны
@@ -1024,7 +1024,7 @@
 15;odzież;kieszeń;карман
 15;odzież;kłapki;шлепанцы
 15;odzież;kołnierz;воротник
-15;odzież;kosmetyków;(отдел) косметики
+15;odzież;kosmetyków;отдел косметики
 15;odzież;kostium;костюм женский
 15;odzież;kozaki;сапоги
 15;odzież;kożuch;дубленка, полушубок
@@ -1037,9 +1037,9 @@
 15;odzież;palto;пальто
 15 16;odzież;pas;ремень
 15 16;odzież;pasek;ремешок
-15;odzież;pasmanterii;(отдел) швейной галантереи
+15;odzież;pasmanterii;отдел швейной галантереи
 09 15;odzież;pasować;подходить, соответствовать
-15;odzież;perfumerii;(отдел) парфюмерии
+15;odzież;perfumerii;отдел парфюмерии
 15;odzież;piżama;пижама
 15;odzież;płaszcz;плащ
 15;odzież;podkolanówki;гольфы
@@ -1098,7 +1098,7 @@
 16;odzież;we wzorek;в узоры
 16;odzież;w deseń;с орнаментом
 16;odzież;w kwiaty;в цветы
-16;odzież;w kratkę;в клетку (клетчатое)
+16;odzież;w kratkę;в клетку
 16;odzież;w kropki;в крапинку
 16;odzież;w grochy;в горошек
 16;odzież;w paski;в полоски
@@ -1149,7 +1149,6 @@
 16;odzież;bazar;базар
 16;odzież;kiermasz;ярмарка, базар
 16;odzież;targi;ярмарка
-16;odzież;giełda;биржа
 16;odzież;hurtownia;оптовый склад
 16;odzież;kiosk;киоск
 16;odzież;pawilon;павильон
@@ -1182,7 +1181,7 @@
 17;jadalne;drób;птица (еда)
 17;jadalne;filet;филе
 17;jadalne;galareta;жиле
-17;jadalne;galarecie;жиле (заливное)
+17;jadalne;galarecie;жиле, заливное
 17;jadalne;nózki w galarecie;холодец
 17;jadalne;kurczak z rożna;курица гриль
 17;jadalne;marchew;морковь
@@ -1232,7 +1231,8 @@
 17;jadalne;kosztować;отведывать
 17;jadalne;częstować się;угощаться
 17;jadalne;żuć;жевать
-17;jadalne;ugryźć (prze-);Укусить (перегрызть)
+17;jadalne;ugryźć;укусить
+17;jadalne;przegryźć;перегрызть
 17;jadalne;łykać;глотать
 17;jadalne;przełknąć;проглотить
 17;jadalne;połykać;проглатывать
@@ -1248,7 +1248,8 @@
 17;jadalne;danie jarskie;вегетрианское блюдо
 17;jadalne;dietyczne;диетическое
 17;jadalne;narodowe;национальное
-17;jadalne;danie firmowe (specjalność);фирменное блюдо
+17;jadalne;danie firmowe;фирменное блюдо
+17;jadalne;specjalność; фишка, фирменное блюдо
 17;jadalne;jedzenie zdrowe;здоровая еда
 17;jadalne;jedzenie smaczne;вкусная еда
 17;jadalne;Pycha!;Объедение
@@ -1279,106 +1280,262 @@
 17;jadalne;drożdżówka;булочка из дрожжевого теста
 17;jadalne;ptyś;заварное пирожное
 17;jadalne;makowiec;пирог с маком
-17;jadalne;kremówka;пирожное (наполеон)
-17;jadalne;napoleonka;наполеон
-17;jadalne;szarlotka;шарлотка
-17;jadalne;mleko (zsiadłe,kwaśne);молоко (кислое, простокваша)
-17;jadalne;twaróg;творог
-17;jadalne;maślanka;обезжиренные сливки
-17;jadalne;jogurt;йогурт
-17;jadalne;dodatek;гарнир
-17;jadalne;pieczarka;шампиньон
-17;jadalne;kluski (leniwe);клецки, галушки
-17;jadalne;kopytka;клецки из картофеля
-17;jadalne;papryka;красный перец
-17;jadalne;musztarda;горчица
-17;jadalne;ocet;уксус
-17;jadalne;olej (oliwa);растительное масло (оливковое)
-17;jadalne;sos;соус
-17;jadalne;majonez;майонез
-17;jadalne;keczup;кетчуп
-17;jadalne;słodki;сладкий
-17;jadalne;gorzki;горький
-17;jadalne;słony;соленый
-17;jadalne;ostry;острый
-17;jadalne;pikantny;пикантный
-17;jadalne;kwaśny;кислый
-17;jadalne;cierpki;терпкий
-17;jadalne;ugotować;сварить
-17;jadalne;usmażyć;поджарить
-17;jadalne;upiec;испечь
-17;jadalne;zapiekać;запечь
-17;jadalne;dusić;тушить, выжимать
-17;jadalne;marynować;мариновать
-17;jadalne;grillować;готовить на гриле
-17;jadalne;odgrzewać;разогревать
-17;jadalne;gotowany;кипяченый, вареный
-17;jadalne;smażony;жареный
-17;jadalne;pieczony;печеный
-17;jadalne;zapiekany;запеченный
-17;jadalne;duszony;тушеный
-17;jadalne;świeży;свежий
-17;jadalne;surowy;сырой
-17;jadalne;suszony;сушеный
-17;jadalne;mrożony;замороженный
-17;jadalne;wędzony;копченый
-17;jadalne;umyć;помыть
-17;jadalne;opłukać;вымыть
-17;jadalne;wyszorować;вымыть, вычистить
-17;jadalne;obrać;очистить, снять кожуру
-17;jadalne;oskrobać;почистить
-17;jadalne;pokroić;нарезать
-17;jadalne;posiekać;покроить, нарубить
-17;jadalne;ubić;взбить
-17;jadalne;zaparzyć;заварить, запарить
-17;jadalne;ostudzić;охладить
-17;jadalne;dolać;долить
-17;jadalne;posmarować;помазать
-17;jadalne;posłodzić;положить сахар
-17;jadalne;zemleć;смолоть
-17;jadalne;wycisnąć;выдавить
-17;jadalne;utrzeć;растереть
-17;jadalne;rozgnieść;раздавить
-17;jadalne;rozwałkować;раскатать
-17;jadalne;obtoczyć;обвалять
-17;jadalne;posolić;посолить
-17;jadalne;przyprawić;приправить
-17;jadalne;białka;белки
-17;jadalne;węglowodany;углеводы
-17;jadalne;tłuszcze;жиры
-17;jadalne;błonnik;клетчатка
-17;jadalne;naczynia;посуда
-17;jadalne;przykrywka;крышка
-17;jadalne;brytfanna;противень
-17;jadalne;blacha;противень, лист
-17;jadalne;miska;миска
-17;jadalne;półmisek;блюдо (посуда)
-17;jadalne;salaterka;салатник
-17;jadalne;dzbanek;кувшин
-17;jadalne;talerz głęboki;глубокая тарелка
-17;jadalne;talerz płytki;Мелкая тарелка
-17;jadalne;kubek;кружка
-17;jadalne;spodek;блюдце
-17;jadalne;kufel;пивная кружка
-17;jadalne;solniczka;солонка
-17;jadalne;pieprzniczka;перечница
-17;jadalne;cukiernica;сахарница
-17;jadalne;popielniczka;пепельница
-17;jadalne;taca;поднос
-17;jadalne;chochla;ковш, черпак
-17;jadalne;korkociąg;штопор
-17;jadalne;otwieracz;открывачка
-17;jadalne;deska do krojenia;кухонная доска
-17;jadalne;wykałaczka;зубочистка
-17;jadalne;obrus;скатерть
-17;jadalne;serwetka;скатерть, салфетка
-17;jadalne;słoik;стеклянная банка
-17;jadalne;tabliczka czekolady;плитка шоколада
-17;jadalne;plasterek;ломтик
-17;jadalne;kromka;ломоть
-17;jadalne;dzwonko;кусок рыбы
-17;jadalne;pęczek;пучок
-17;jadalne;woreczek;мешочек
-17;jadalne;szczypta;щепотка
-17;jadalne;sztuka;штука
-17;jadalne;porcja;порция
+18;jadalne;kremówka;пирожное-наполеон
+18;jadalne;napoleonka;наполеон
+18;jadalne;szarlotka;шарлотка
+18;jadalne;mleko zsiadłe;кислое молоко
+18;jadalne;mleko kwaśne;простокваша
+18;jadalne;twaróg;творог
+18;jadalne;maślanka;обезжиренные сливки
+18;jadalne;jogurt;йогурт
+18;jadalne;dodatek;гарнир
+18;jadalne;pieczarka;шампиньон
+18;jadalne;kluski;клецки
+18;jadalne;kluski leniwe;галушки
+18;jadalne;kopytka;клецки из картофеля
+18;jadalne;papryka;красный перец
+18;jadalne;musztarda;горчица
+18;jadalne;ocet;уксус
+18;jadalne;oliwa;оливковое масло
+18;jadalne;sos;соус
+18;jadalne;majonez;майонез
+18;jadalne;keczup;кетчуп
+18;jadalne;słodki;сладкий
+18;jadalne;gorzki;горький
+18;jadalne;słony;соленый
+18;jadalne;ostry;острый
+18;jadalne;pikantny;пикантный
+18;jadalne;kwaśny;кислый
+18;jadalne;cierpki;терпкий
+18;jadalne;ugotować;сварить
+18;jadalne;usmażyć;поджарить
+18;jadalne;upiec;испечь
+18;jadalne;zapiekać;запечь
+18;jadalne;dusić;тушить, выжимать
+18;jadalne;marynować;мариновать
+18;jadalne;grillować;готовить на гриле
+18;jadalne;odgrzewać;разогревать
+18;jadalne;gotowany;кипяченый, вареный
+18;jadalne;smażony;жареный
+18;jadalne;pieczony;печеный
+18;jadalne;zapiekany;запеченный
+18;jadalne;duszony;тушеный
+18;jadalne;świeży;свежий
+18;jadalne;surowy;сырой
+18;jadalne;suszony;сушеный
+18;jadalne;mrożony;замороженный
+18;jadalne;wędzony;копченый
+18;jadalne;umyć;помыть
+18;jadalne;opłukać;вымыть
+18;jadalne;wyszorować;вымыть, вычистить
+18;jadalne;obrać;очистить, снять кожуру
+18;jadalne;oskrobać;почистить
+18;jadalne;pokroić;нарезать
+18;jadalne;posiekać;покроить, нарубить
+18;jadalne;ubić;взбить
+18;jadalne;zaparzyć;заварить, запарить
+18;jadalne;ostudzić;охладить
+18;jadalne;dolać;долить
+18;jadalne;posmarować;помазать
+18;jadalne;posłodzić;положить сахар
+18;jadalne;zemleć;смолоть
+18;jadalne;wycisnąć;выдавить
+18;jadalne;utrzeć;растереть
+18;jadalne;rozgnieść;раздавить
+18;jadalne;rozwałkować;раскатать
+18;jadalne;obtoczyć;обвалять
+18;jadalne;posolić;посолить
+18;jadalne;przyprawić;приправить
+18;jadalne;białka;белки
+18;jadalne;węglowodany;углеводы
+18;jadalne;tłuszcze;жиры
+18;jadalne;błonnik;клетчатка
+18;jadalne;naczynia;посуда
+18;jadalne;przykrywka;крышка
+18;jadalne;brytfanna;противень
+18;jadalne;blacha;противень, лист
+18;jadalne;miska;миска
+18;jadalne;półmisek;блюдо (посуда)
+18;jadalne;salaterka;салатник
+18;jadalne;dzbanek;кувшин
+18;jadalne;talerz głęboki;глубокая тарелка
+18;jadalne;talerz płytki;Мелкая тарелка
+18;jadalne;kubek;кружка
+18;jadalne;spodek;блюдце
+18;jadalne;kufel;пивная кружка
+18;jadalne;solniczka;солонка
+18;jadalne;pieprzniczka;перечница
+18;jadalne;cukiernica;сахарница
+18;jadalne;popielniczka;пепельница
+18;jadalne;taca;поднос
+18;jadalne;chochla;ковш, черпак
+18;jadalne;korkociąg;штопор
+18;jadalne;otwieracz;открывачка
+18;jadalne;deska do krojenia;кухонная доска
+18;jadalne;wykałaczka;зубочистка
+18;jadalne;obrus;скатерть
+18;jadalne;serwetka;скатерть, салфетка
+18;jadalne;słoik;стеклянная банка
+18;jadalne;tabliczka czekolady;плитка шоколада
+18;jadalne;plasterek;ломтик
+18;jadalne;kromka;ломоть
+18;jadalne;dzwonko;кусок рыбы
+18;jadalne;pęczek;пучок
+18;jadalne;woreczek;мешочек
+18;jadalne;szczypta;щепотка
+18;jadalne;sztuka;штука
+18;jadalne;porcja;порция
+19;urząd;emigracja;эмиграция
+19;urząd;rodak;земляк
+19;urząd;przeprowadzka;переезд
+19;urząd;zameldowanie;прописка
+19;urząd;kierownice stanowisko;руководящая должность
+19;urząd;obywatelstwo;гражданство
+19;urząd;obywatel;гражданин
+19;urząd;narodowość;национальность
+19;urząd;mniejszość narodowa;национальное меньшинство
+19;urząd;Urząd Celny;таможенное управление
+19;urząd;Urząd Miasta;мэрия
+19;urząd;Urząd Skarbowy;казначейство
+19;urząd;Urząd Pracy;трудовая биржа
+19;urząd;pilnie;срочно
+19;urząd;koniecznie;обязательно
+19;urząd;interesant;посетитель
+19 20;urząd;wniosek;заявление
+19;urząd;urząd;ведомство, управление
+19;urząd;urzędowy;служебный
+19;urząd;plik;файл
+19;urząd;gospodarka;экономика, хозяйство
+19;urząd;ekonomika;экономика
+19;urząd;ekonomia;экономика, экономия
+19;urząd;oszczędzanie;экономия, бережливость
+19;urząd;gospodarność;экономность
+19;urząd;podaż;предложение
+19;urząd;popyt;спрос
+19;urząd;dywidenda;дивиденд
+19;urząd;produkcja;продукция
+19;urząd;wartość;ценность
+19;urząd;obroty handlowe;торговые обороты
+19;urząd;przedsiębiorstwo;предприятие, бизнес
+19;urząd;przelew bankowy;банковский перевод
+19;urząd;przedpłata;задаток
+19;urząd;zaliczka;аванс
+19;urząd;konto bankowe;банковский счет
+19;urząd;podatek od dochodów osób fizycznych;налог с доходов физических лиц
+19;urząd;podatek od wartości dodanej;ПДВ
+19;urząd;giełda;биржа
+19;urząd;odsetek;процент, доля
+19;urząd;procent;процент
+19;urząd;kwota;количество, сумма
+19;urząd;suma;сумма
+19;urząd;zobowiązanie;обязательство
+19;urząd;obowiązek;обязанность
+19;urząd;interes;дело, сделка
+19;urząd;wydatki;издержки
+19;urząd;koszty;денежные средства
+19;urząd;zużycie;расходы, растраты
+19;urząd;nakłady;затраты
+19;urząd;wytwórnia;фабрика
+19;urząd;warsztat;мастерская
+19;urząd;spółdzielnia;кооператив
+19;urząd;wypełniać formularz;заполнять бланк
+19;urząd;przeprowadzać się;переезжать
+19;urząd;narzekać;ныть
+19;urząd;uzyskać informację;получить информацию
+19;urząd;zameldować się;прописаться
+19;urząd;załatwiać;уладить
+19;urząd;odbierać;принимать, получать
+19;urząd;odebrać;принять, получить
+19;urząd;poradzić sobie z czymś;справиться с чем-либо
+19;urząd;założyć spółkę;основать фирму
+19;urząd;zbankrutować;обанкротиться
+19;urząd;splajtować;обанкротиться, прогореть
+19;urząd;osiągać zyski;получать прибыль
+19;urząd;ponosić straty;нести убытки
+19;urząd;zapłacić;заплатить
+19;urząd;wypłacić;расплатиться
+19;urząd;uregulować rachunek;заплатить по счету
+19;urząd;uiścić;заплатить, уплатить
+19;urząd;ulokować pieniądze;вложить деньги
+19;urząd;założyć konto;основать счет
+19;urząd;otworzyć konto;открыть счет
+19;urząd;zamknąć konto;закрыть счет
+19;urząd;przyczyniać się do czego;способствовать чему-то
+19;urząd;sprzyjać czemuś;содействовать чему-то
+19;urząd;wytwarzać;создавать
+19;urząd;produkować;производить
+19;urząd;wyrabiać;изготавливать
+19;urząd;czuwać nad kimś, nad czymś;следить за кем-то, чем-то
+19;urząd;pilnować kogo, czego;присматривать за кем-то
+19;urząd;ingerować w coś;вмешаться во что-либо
+19;urząd;interweniować w coś;вмешиваться во что-либо
+19;urząd;iść w górę;повышаться
+19;urząd;iść w dół;снижаться, идти вниз
+19;urząd;spadać;снижаться, падать
+19;urząd;wzrastać;увеличиваться
+19;urząd;obniżać się;снижаться, уменьшаться
+19;urząd;dokonać transakcji;провести сделку
+19;urząd;pobrać pieniądze z banku;забрать деньги из банка
+19;urząd;wyjąć pieniądze z konta;снять деньги со счета
+19;urząd;zdolność kredytowa;кредитоспособность
+19;urząd;wierzytelność;задолженность
+19;urząd;płatnik;плательщик
+19;urząd;komornik;судебный исполнитель
+19;urząd;fiskus;государственная казна
+19;urząd;opust;скидка, дисконт
+19;urząd;rabat;скидка, уступка
+19;urząd;ulga;снижение налогов
+19;urżąd;raczej;скорее, пожалуй
+20;prawo;wotum zaufania;вотум доверия
+20;prawo;wotum nieufności;вотум недоверия
+20;prawo;stworzyć;Создать, сформировать
+20;prawo;sformować;сформировать
+20;prawo;powołać;созвать
+20;prawo;rozwiązać;распустить
+20;prawo;rząd;правительство
+20;prawo;kandydować;быть кандидатом
+20;prawo;kandydować z ramienia partii;баллотироваться от партии
+20;prawo;wysuwać kandydata na kogo;выдвигать кандидата
+20;prawo;powstrzymać się od głosu;воздержаться от голосования
+20;prawo;głosować na kogo;голосовать за кого-то
+20;prawo;głosować przeciw komu;голосовать против кого-то
+20;prawo;prawo do czego;парво на что-то
+20;prawo;prawo do głosu;право голоса
+20;prawo;opierać się na czym;основываться на чем-то
+20;prawo;opierać się o co;опираться на что-то
+20;prawo;opierać się czemu;сопротивляться чему-то
+20;prawo;prawo;право, закон
+20;prawo;naruszać prawo;нарушать закон 1
+20;prawo;łamać prawo;преступать закон
+20;prawo;szanować prawo;уважать закон
+20;prawo;przestrzegać prawa;придерживаться закона
+20;prawo;omijać prawo;обходить закон
+20;prawo;gwałcić prawo;нарушать закон 2
+20;prawo;niezależny;независимыйб суверенный
+20;prawo;niepodległy;самостоятельный, свободный
+20;prawo;niezawisły;самостоятельный, независимый
+20;prawo;sojusz;союз
+20;prawo;unia;уния, объединение
+20;prawo;związek;общество, союз
+20;prawo;dojść do wniosku;прийти к выводу
+20;prawo;zgłaszać wniosek;делать заявление
+20;prawo;zgłaszać protest;выражать протест
+20;prawo;zgłaszać sprzeciw;быть против
+20;prawo;kierować się czym;руководствоваться чем-то
+20;prawo;rządzić;управлять кем-то, распорядиться
+20;prawo;zarządzać kim;управлять кем-то, распоряжаться
+20;prawo;sterować kim;управлять кем-то, командовать
+20;prawo;dowodzić kim;командовать кем-то
+20;prawo;mianować kogo;назначить, номинировать кого-то
+20;prawo;desygnować kogo;назначить, обозначить кого-то кем-то
+20;prawo;powołać kogo;назначить кого-то кем-то
+20;prawo;nominować kogo;номинировать кого-то
+20;prawo;wybrać kogo;выбрать кого-то
+20;prawo;bronić kogo;защищать
+20;prawo;chronić kogo;защищать кого-то
+20;prawo;oskarżyć kogo o co;обвинить кого-то в чем-то 1
+20;prawo;zarzucić komu co;обвинить кого-то в чем-то 2
+20;prawo;poseł;депутат Сейма
+20;prawo;radny;депутат народного совета
+20;prawo;deputowany;депутат
+20;prawo;wyborczy okręg;избирательный округ
