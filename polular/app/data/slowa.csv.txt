@@ -126,7 +126,7 @@
 05;jadalne;doprawiać solą;приправлять солью
 05 07 15;jadalne;ekspedient;продавец
 05;jadalne;kawa rozpuszczalna;растворимый кофе
-05;jadalne;olej;растительное масло
+05 18;jadalne;olej;растительное масло
 05;jadalne;postanowić;постановить
 05 17;jadalne;kieliszek;рюмка
 05;jadalne;serwetka;салфетка
@@ -282,7 +282,7 @@
 08;sport;żabka;брасс
 08;sport;rakieta;ракетка
 08;sport;skakać;скакать
-08;sport;zawodnik;спортсмен
+08;sport;zawodnik;спортсмен, атлет
 08;sport;brać udział;принимать участие
 08;sport;mistrz świata;чемпион мира
 08;sport;wygrywać;выигрывать
@@ -1296,7 +1296,6 @@
 18;jadalne;papryka;красный перец
 18;jadalne;musztarda;горчица
 18;jadalne;ocet;уксус
-18;jadalne;olej;растительное масло
 18;jadalne;oliwa;оливковое масло
 18;jadalne;sos;соус
 18;jadalne;majonez;майонез
@@ -1402,7 +1401,7 @@
 19;urząd;pilnie;срочно
 19;urząd;koniecznie;обязательно
 19;urząd;interesant;посетитель
-19;urząd;wniosek;заявление
+19 20;urząd;wniosek;заявление
 19;urząd;urząd;ведомство, управление
 19;urząd;urzędowy;служебный
 19;urząd;plik;файл
@@ -1487,3 +1486,56 @@
 19;urząd;rabat;скидка, уступка
 19;urząd;ulga;снижение налогов
 19;urżąd;raczej;скорее, пожалуй
+20;prawo;wotum zaufania;вотум доверия
+20;prawo;wotum nieufności;вотум недоверия
+20;prawo;stworzyć;Создать, сформировать
+20;prawo;sformować;сформировать
+20;prawo;powołać;созвать
+20;prawo;rozwiązać;распустить
+20;prawo;rząd;правительство
+20;prawo;kandydować;быть кандидатом
+20;prawo;kandydować z ramienia partii;баллотироваться от партии
+20;prawo;wysuwać kandydata na kogo;выдвигать кандидата
+20;prawo;powstrzymać się od głosu;воздержаться от голосования
+20;prawo;głosować na kogo;голосовать за кого-то
+20;prawo;głosować przeciw komu;голосовать против кого-то
+20;prawo;prawo do czego;парво на что-то
+20;prawo;prawo do głosu;право голоса
+20;prawo;opierać się na czym;основываться на чем-то
+20;prawo;opierać się o co;опираться на что-то
+20;prawo;opierać się czemu;сопротивляться чему-то
+20;prawo;prawo;право, закон
+20;prawo;naruszać prawo;нарушать закон 1
+20;prawo;łamać prawo;преступать закон
+20;prawo;szanować prawo;уважать закон
+20;prawo;przestrzegać prawa;придерживаться закона
+20;prawo;omijać prawo;обходить закон
+20;prawo;gwałcić prawo;нарушать закон 2
+20;prawo;niezależny;независимыйб суверенный
+20;prawo;niepodległy;самостоятельный, свободный
+20;prawo;niezawisły;самостоятельный, независимый
+20;prawo;sojusz;союз
+20;prawo;unia;уния, объединение
+20;prawo;związek;общество, союз
+20;prawo;dojść do wniosku;прийти к выводу
+20;prawo;zgłaszać wniosek;делать заявление
+20;prawo;zgłaszać protest;выражать протест
+20;prawo;zgłaszać sprzeciw;быть против
+20;prawo;kierować się czym;руководствоваться чем-то
+20;prawo;rządzić;управлять кем-то, распорядиться
+20;prawo;zarządzać kim;управлять кем-то, распоряжаться
+20;prawo;sterować kim;управлять кем-то, командовать
+20;prawo;dowodzić kim;командовать кем-то
+20;prawo;mianować kogo;назначить, номинировать кого-то
+20;prawo;desygnować kogo;назначить, обозначить кого-то кем-то
+20;prawo;powołać kogo;назначить кого-то кем-то
+20;prawo;nominować kogo;номинировать кого-то
+20;prawo;wybrać kogo;выбрать кого-то
+20;prawo;bronić kogo;защищать
+20;prawo;chronić kogo;защищать кого-то
+20;prawo;oskarżyć kogo o co;обвинить кого-то в чем-то 1
+20;prawo;zarzucić komu co;обвинить кого-то в чем-то 2
+20;prawo;poseł;депутат Сейма
+20;prawo;radny;депутат народного совета
+20;prawo;deputowany;депутат
+20;prawo;wyborczy okręg;избирательный округ
