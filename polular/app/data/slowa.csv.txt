@@ -1492,14 +1492,14 @@
 20;prawo;sformować;сформировать
 20;prawo;powołać;созвать
 20;prawo;rozwiązać;распустить
-20;prawo;rząd;правительство
+20 21;prawo;rząd;правительство
 20;prawo;kandydować;быть кандидатом
 20;prawo;kandydować z ramienia partii;баллотироваться от партии
 20;prawo;wysuwać kandydata na kogo;выдвигать кандидата
 20;prawo;powstrzymać się od głosu;воздержаться от голосования
 20;prawo;głosować na kogo;голосовать за кого-то
 20;prawo;głosować przeciw komu;голосовать против кого-то
-20;prawo;prawo do czego;парво на что-то
+20;prawo;prawo do czego;право на что-то
 20;prawo;prawo do głosu;право голоса
 20;prawo;opierać się na czym;основываться на чем-то
 20;prawo;opierać się o co;опираться на что-то
@@ -1539,3 +1539,53 @@
 20;prawo;radny;депутат народного совета
 20;prawo;deputowany;депутат
 20;prawo;wyborczy okręg;избирательный округ
+21;prawo;wybory prezydenckie;президентские выборы
+21;prawo;wybory parlamentarne;парламентские выборы
+21;prawo;wybory samorządowe;муниципальные выборы
+21;prawo; wybory przedterminowe;досрочные выборы
+21;prawo;wybory powszechne;всеобщие выборы
+21;prawo;ogłosić wybory;объявить выборы
+21;prawo;przeprowadzić wybory;провести выборы
+21;prawo;sąd;суд
+21;prawo;sądownictwo;правосудие
+21;prawo;zaskarżyć do sądu;подать в суд на кого-то
+21;prawo;unieważnić wybory;признать выборы недействительными
+21;prawo;wyborczy próg;избирательный порог
+21;prawo;koalicja;коалиция
+21;prawo;prezes;глава
+21;prawo;dygnitarz;сановник
+21;prawo;zwierzchnik;начальник
+21;prawo;przywódca;руководитель
+21;prawo;promotor;инициатор
+21;prawo;wódz;вождь
+21;prawo;sędzia;судья
+21;prawo;prokurator;прокурор
+21;prawo;ustawodawstwo;законодательство
+21;prawo;radca;советник
+21;prawo;nabrać mocy prawnej;вступить в силу
+21;prawo;w imieniu prawa;именем закона
+21;prawo;w obliczu prawa;в лице права
+21;prawo;obrońca praw człowieka;защитник прав человека
+21;prawo;sporządzić akt prawny;составить юридический акт
+21;prawo;uwierzytelnić akt prawny;удостоверить юридический акт
+21;prawo;władza ustawodawcza;законодательная власть
+21;prawo;władza wykonawcza;исполнительная власть
+21;prawo;władza sądownicza;судебная власть
+21;prawo;uchwalić ustawę;утвердить закон
+21;prawo;konsekwentny;последовательный
+21;prawo;wnieść skargę;подать жалобу
+21;prawo;wnieść powództwo;подать иск
+21;prawo;wnieść pozew;подать позов
+21;prawo;wezwać do sądu;вызвать в суд
+21;prawo;złożyć podanie;подать заявление
+21;prawo;złożyć skargę;подать  жалобу
+21;prawo;zbrodnia;злодеяние
+21;prawo;przestępstwo;преступление
+21;prawo;wykroczenie;правонарушение
+21;prawo;występek;проступок
+21;prawo;interpelacja;депутатский запрос
+21;prawo;rzecznik;пресс-секретарь
+21;prawo;posterunek;полицейский
+21;prawo;komenda;комендатура
+21;prawo;policja;полиция
+21;prawo;komisariat;полицейский участок
