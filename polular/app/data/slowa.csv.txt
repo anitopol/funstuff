@@ -1578,7 +1578,7 @@
 21;prawo;wnieść pozew;подать позов
 21;prawo;wezwać do sądu;вызвать в суд
 21;prawo;złożyć podanie;подать заявление
-21;prawo;złożyć skargę;подать  жалобу
+21;prawo;złożyć skargę;подать жалобу
 21;prawo;zbrodnia;злодеяние
 21;prawo;przestępstwo;преступление
 21;prawo;wykroczenie;правонарушение
